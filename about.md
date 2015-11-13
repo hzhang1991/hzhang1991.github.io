@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "佛告须菩提 凡所有相 皆是虚妄 若见诸相非相 即见如来"
+description: "test"
 header-img: "img/duoxinjing1.jpg"
 ---
 
