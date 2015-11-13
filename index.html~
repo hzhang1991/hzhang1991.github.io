@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "张 弘"
+description: ""
 ---
 
 {% for post in paginator.posts %}
