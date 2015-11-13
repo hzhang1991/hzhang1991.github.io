@@ -2,15 +2,15 @@
 title: "This is a title" 
 header-img: "img/duoxinjing1.jpg"
 tagline: "Auda"  
-description: "佛告须菩提 凡所有相 皆是虚妄 若见诸相非相 即见如来"  
+description: "must be in english"  
 baseurl: ""
 url: "http://hzhang1991.github.io"  
 
 # About/contact
 owner: 
-  name: "Auda"
-  email: hzhang1991@gmail.com
-  bio: "..."
+name: "Auda"
+email: hzhang1991@gmail.com
+bio: "..."
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
