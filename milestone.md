@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "..."
+title: "佛告须菩提"
 description: "... "
 header-img: "img/duoxinjing1.jpg"
 ---
