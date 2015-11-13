@@ -1,6 +1,6 @@
 # Site settings
 title: Audacious
-header-img: "img/facebook.jpg"
+header-img: "img/duoxinjing1.jpg"
 tagline: "Auda"  
 description: ""  
 baseurl: ""
@@ -45,7 +45,7 @@ defaults:
     values:
       layout: "post"
       author: "CnFeat"
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/duoxinjing1.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
