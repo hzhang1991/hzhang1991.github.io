@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "... "
-header-img: "img/duoxinjing1.png"
+header-img: "img/duoxinjing1.jpg"
 ---
 
 
