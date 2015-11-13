@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "..."
-header-img: "img/duoxinjing.jpg"
+header-img: "img/duoxinjing1.png"
 ---
 
 
