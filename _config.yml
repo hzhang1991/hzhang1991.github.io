@@ -7,19 +7,19 @@ baseurl: ""
 url: "http://hzhang1991.github.io"  
 
 # About/contact
-owner: 
-name: "Auda"
+owner: "H. Zhang"
+name: "H. Zhang"
 email: hzhang1991@gmail.com
 bio: "..."
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+#gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/shuwa.jpg
 
 # douban_username:  cnfeat
 twitter_username: jessezhh
 github_username: hzhang1991
-facebook_username: 
+facebook_username: jessezhh
 weibo_username: jessezhh	 
 #zhihu_username: auda
 
@@ -31,10 +31,10 @@ highlighter: pygments
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-relative_permalinks: true
+relative_permalinks: false 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Europer/Amsterdam 
 
 # Defaults for posts
 defaults:
