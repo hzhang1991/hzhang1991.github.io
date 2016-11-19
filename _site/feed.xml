@@ -3,10 +3,10 @@
   <channel>
     <title>Homepage of H. (Hong) Zhang</title>
     <description>description.</description>
-    <link>hzhang1991.github.io/</link>
-    <atom:link href="hzhang1991.github.io/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Nov 2016 20:55:52 +0100</pubDate>
-    <lastBuildDate>Sat, 19 Nov 2016 20:55:52 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 19 Nov 2016 21:34:42 +0100</pubDate>
+    <lastBuildDate>Sat, 19 Nov 2016 21:34:42 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -88,8 +88,8 @@
 
 </description>
         <pubDate>Fri, 19 Dec 2014 00:00:00 +0100</pubDate>
-        <link>hzhang1991.github.io/articles/howto/2014/12/19/how-to-set-the-config-file.html</link>
-        <guid isPermaLink="true">hzhang1991.github.io/articles/howto/2014/12/19/how-to-set-the-config-file.html</guid>
+        <link>http://localhost:4000/articles/howto/2014/12/19/how-to-set-the-config-file.html</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/howto/2014/12/19/how-to-set-the-config-file.html</guid>
         
         <category>configure</category>
         
@@ -237,8 +237,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 19 Dec 2014 00:00:00 +0100</pubDate>
-        <link>hzhang1991.github.io/articles/howto/2014/12/19/freshman21-structure.html</link>
-        <guid isPermaLink="true">hzhang1991.github.io/articles/howto/2014/12/19/freshman21-structure.html</guid>
+        <link>http://localhost:4000/articles/howto/2014/12/19/freshman21-structure.html</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/howto/2014/12/19/freshman21-structure.html</guid>
         
         <category>structure</category>
         
@@ -267,8 +267,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 18 Dec 2014 00:00:00 +0100</pubDate>
-        <link>hzhang1991.github.io/articles/2014/12/18/how-to-install.html</link>
-        <guid isPermaLink="true">hzhang1991.github.io/articles/2014/12/18/how-to-install.html</guid>
+        <link>http://localhost:4000/articles/2014/12/18/how-to-install.html</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2014/12/18/how-to-install.html</guid>
         
         <category>sample-post</category>
         
@@ -460,8 +460,8 @@ This species is listed as Extinct in the Wild, as all populations are still unde
 &lt;p&gt;here is a &lt;q&gt; q tag &lt;/q&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 13 Dec 2014 00:00:00 +0100</pubDate>
-        <link>hzhang1991.github.io/articles/2014/12/13/simple-post.html</link>
-        <guid isPermaLink="true">hzhang1991.github.io/articles/2014/12/13/simple-post.html</guid>
+        <link>http://localhost:4000/articles/2014/12/13/simple-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2014/12/13/simple-post.html</guid>
         
         <category>sample-post</category>
         
@@ -480,8 +480,8 @@ They are based on those used in the 1823 poem “A Visit from St. Nicholas” (c
 
 </description>
         <pubDate>Wed, 25 Dec 2013 00:00:00 +0100</pubDate>
-        <link>hzhang1991.github.io/articles/2013/12/25/I-am-a-reindeer.html</link>
-        <guid isPermaLink="true">hzhang1991.github.io/articles/2013/12/25/I-am-a-reindeer.html</guid>
+        <link>http://localhost:4000/articles/2013/12/25/I-am-a-reindeer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2013/12/25/I-am-a-reindeer.html</guid>
         
         <category>reindeer</category>
         
@@ -503,8 +503,8 @@ Based on genetic comparisons, Père David’s deer is closely related to the dee
 &lt;p&gt;[1] &lt;strong&gt;Pitra, C.; Fickel, J.; Meijaard, E.; Groves, C. (1 December 2004).&lt;/strong&gt; &lt;a href=&quot;http://arts.anu.edu.au/grovco/pitra%20deer.pdf&quot;&gt;“Evolution and phylogeny of old world deer”&lt;/a&gt;. &lt;em&gt;Molecular Phylogenetics and Evolution&lt;/em&gt; &lt;strong&gt;33&lt;/strong&gt; (3): 880–895.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Oct 2013 00:00:00 +0200</pubDate>
-        <link>hzhang1991.github.io/articles/2013/10/10/milu.html</link>
-        <guid isPermaLink="true">hzhang1991.github.io/articles/2013/10/10/milu.html</guid>
+        <link>http://localhost:4000/articles/2013/10/10/milu.html</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2013/10/10/milu.html</guid>
         
         <category>Père David's deer</category>
         
