@@ -1,22 +1,22 @@
 ### Site info:
-title: Homepage of H. (Hong) Zhang
-tagline: 
-author: H. (Hong) Zhang
-email: hzhang1991 AT gmail DOT com
+title: Freshman21
+tagline: Another Jekyll theme, Freshman twenty-first
+author: Lijia Yu
+email: yu@lijiayu.net
 description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hzhang1991.github.io" # the base hostname & protocol for your site
+url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: hzhang1991
-github_username:  hzhang1991
-#disqus_shortname: freshman21
+twitter_username: yulijia
+github_username:  yulijia
+disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is H. (Hong) Zhang. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: #https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
@@ -137,12 +137,12 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: H. (Hong) Zhang
-        href: http://hzhang1991.github.io
+      - name: Freshman
+        href: http://yulijia.net/freshman
         title: Another Jekyll blog theme
       - name: author's website
-        href: http://hzhang1991.github.io
-        title: H. (Hong) Zhang's website
+        href: http://yulijia.net/
+        title: Lijia Yu's website
 
 
 ### Build settings
