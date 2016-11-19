@@ -5,7 +5,7 @@ author: Hong Zhang
 email: hzhang1991@gmail.com
 description: "description." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "keywords"
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "/base" # the subpath of your site, e.g. /blog/
 url: "hzhang1991.github.io" # the base hostname & protocol for your site
 locale: en_US
 
