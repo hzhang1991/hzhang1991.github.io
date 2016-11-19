@@ -1,21 +1,21 @@
 ### Site info:
 title: Homepage of H. (Hong) Zhang
 tagline: 
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+author: Hong Zhang
+email: hzhang1991@gmail.com
+description: "description." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "keywords"
 baseurl: "." # the subpath of your site, e.g. /blog/
-url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
+url: "hzhang1991.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
+twitter_username: jessezhh
+github_username:  jessezhh
+disqus_shortname: jessezhh
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+aboutme: Hi, this is Hong Zhang. This homepage (forked from freshman21) is still under construction... # these are shown on aboutme-sidebar.
+aboutme_photo: "/images/hzhang.jpg"# your photo.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
