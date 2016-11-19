@@ -15,6 +15,7 @@ This is a sample post.
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
+<!-- more -->
 
 
 
@@ -112,16 +113,12 @@ def foo
 end
 {% endhighlight %}
 
-
-#### highlight using triple backticks
+#### using triple backticks
 
 ```r
-a=1:10
-for(i in a)
-{
-  print(i)
+for(i in 1:10){
+  print(i*10)
 }
-
 
 ```
 

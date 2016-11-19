@@ -15,7 +15,7 @@ You can see the simplest way of adding a page is just to add an HTML ( or markdo
 
 All sidebar boxes html files are in the <code>_include</code> directory, their name begin with upper case. You can chose which sidebar boxes appears in the main page on the <q>sidebar.html</q> in the <code>_includes</code> directory. 
 
-
+<!-- more -->
 
 ```bash
 .
@@ -71,7 +71,6 @@ All sidebar boxes html files are in the <code>_include</code> directory, their n
 
 
 There is nothing wrong with the above method, however some people like to keep their URLs free from things like filename extensions. To achieve clean URLs for pages using Jekyll, you simply need to create a folder for each top-level page you want, and then place an index.html file in each page’s folder. You can find the more detail at [Jekyll documentation](http://jekyllrb.com/docs/pages/ "Creating pages"). Here is my own blog structure with page-folders to contain each pages.
-
 
 ```bash
 .

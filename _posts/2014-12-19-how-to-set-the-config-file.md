@@ -24,6 +24,9 @@ baseurl: "/freshman21" # the subpath of your site, e.g. /blog
 url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
 ```
 
+<!-- more -->
+
+
 **Part 2**, Personal info and site tools info, twitter, github, aboutme and aboutme_photo only appears on the sidebar aboutme-box, you can <q>Hide</q> in two ways <sup>[[1]](#[1])</sup>:
 
 ```yaml
