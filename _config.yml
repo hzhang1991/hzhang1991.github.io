@@ -1,8 +1,8 @@
 ### Site info:
-title: Homepage of H. (Hong Zhang)
-tagline: This is tag line. 
-author: H. (Hong) Zhang
-email: hzhang1991 at gmail dot com
+title: "Homepage of H. (Hong Zhang)"
+tagline: "This is tag line." 
+author: "H. (Hong) Zhang"
+email: "hzhang1991 at gmail dot com"
 description: "Fored from Freshman21." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
 baseurl: "." # the subpath of your site, e.g. /blog/
