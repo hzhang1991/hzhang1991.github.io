@@ -5,8 +5,8 @@
     <description>Freshman21 is a Jekyll blog theme.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Nov 2016 13:22:01 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Nov 2016 13:22:01 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Nov 2016 18:07:57 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Nov 2016 18:07:57 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -27,6 +27,7 @@
 &lt;/ul&gt;
 
 &lt;hr /&gt;
+
 &lt;h3 id=&quot;search-engines&quot;&gt;Search Engines&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -35,8 +36,8 @@
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-&lt;h3 id=&quot;softwares&quot;&gt;Softwares&lt;/h3&gt;
 
+&lt;h3 id=&quot;softwares&quot;&gt;Softwares&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/software.php&quot;&gt;AFEPack&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://dune-project.org/&quot;&gt;DUNE Numerics&lt;/a&gt;&lt;/li&gt;
@@ -44,8 +45,8 @@
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-&lt;h3 id=&quot;journals&quot;&gt;Journals&lt;/h3&gt;
 
+&lt;h3 id=&quot;journals&quot;&gt;Journals&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://arxiv.org&quot;&gt;Arxiv&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.journals.elsevier.com/journal-of-computational-physics&quot;&gt;Journal of Computational Pysics&lt;/a&gt;&lt;/li&gt;

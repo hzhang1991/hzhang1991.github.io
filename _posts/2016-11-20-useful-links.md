@@ -21,29 +21,27 @@ comments: no
 - [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/)
 - [Pingwen Zhang](http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/)
 
+----
 
-___
 ### Search Engines
 
 - [Google](www.gogole.com)
 - [Sci-hub](www.sci-hub.bz)
 
-___
-### Softwares
+---
 
+### Softwares
 - [AFEPack](http://dsec.pku.edu.cn/~rli/software.php)
 - [DUNE Numerics](https://dune-project.org/)
 - [DEAL.II](https://www.dealii.org/)
 
+----
 
-___
 ### Journals  
-
 - [Arxiv](https://arxiv.org)
 - [Journal of Computational Pysics](http://www.journals.elsevier.com/journal-of-computational-physics)
 - [Journal of Scientific Computing](https://www.editorialmanager.com/jomp/default.aspx)
 - [Transport in Porous Media](https://www.editorialmanager.com/tipm/default.aspx)
-
 
 
 
