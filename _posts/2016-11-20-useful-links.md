@@ -10,6 +10,7 @@ comments: no
 
 ---
 ### Scientists
+
 - [Yaming Chen](https://sites.google.com/site/yamingchen14/home)
 - [Weinan E](https://web.math.princeton.edu/~weinan/)
 - [Weizhang Huang](http://www.math.ku.edu/~huang/)
@@ -22,22 +23,22 @@ comments: no
 
 
 ___
-
 ### Search Engines
+
 - [Google](www.gogole.com)
 - [Sci-hub](www.sci-hub.bz)
 
 ___
-
 ### Softwares
+
 - [AFEPack](http://dsec.pku.edu.cn/~rli/software.php)
 - [DUNE Numerics](https://dune-project.org/)
 - [DEAL.II](https://www.dealii.org/)
 
 
 ___
-
 ### Journals  
+
 - [Arxiv](https://arxiv.org)
 - [Journal of Computational Pysics](http://www.journals.elsevier.com/journal-of-computational-physics)
 - [Journal of Scientific Computing](https://www.editorialmanager.com/jomp/default.aspx)
