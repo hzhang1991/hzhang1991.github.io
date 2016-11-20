@@ -30,12 +30,12 @@ comments: no
 
 ---
 
-### Softwares
+### Softwares ###
 - [AFEPack](http://dsec.pku.edu.cn/~rli/software.php)
 - [DUNE Numerics](https://dune-project.org/)
 - [DEAL.II](https://www.dealii.org/)
 
-----
+---
 
 ### Journals  
 - [Arxiv](https://arxiv.org)
