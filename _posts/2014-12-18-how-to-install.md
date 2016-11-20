@@ -4,11 +4,13 @@ title: How to install this theme
 categories: articles
 tags: [sample-post]
 comments: true
+author: Yulijia
 description: How to install this theme, follow steps, very easy!
 ---
 
 ## How to install Freshman theme?
 
+Author: Yulijia
 
 ```bash
 # please make sure you have already installed git tools and ruby tools(gem)

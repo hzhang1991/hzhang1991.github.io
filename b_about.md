@@ -1,28 +1,85 @@
 ---
 layout: page
-title: About
+title: About 
 comments: yes
 permalink: /about/
+comments: falsse
 ---
 
+* Table of Contents
+{:toc}
 
-### Freshman21 is a Jekyll theme.
+---
+### Personal Data
+Name:	H. (Hong) Zhang
 
-A tribute to Twenty Twelve and Twenty eleven.
+Email:	hzhang1991@gmail.com
 
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
+Dept.:	Mathematical Institute, Utrecht University, the Netherlands
 
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
+Address:	Budapestlaan 6, De Uithof
 
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
+---
+### Educational and Academic Data
+- 2015 - Present: Ph.D candidate in Mathematical Institute, Utrecht University, the Netherlands
 
-<img title="麋鹿" src="https://i.imgur.com/Mdc4szJl.jpg" alt="麋鹿" width="580" height="668" />
+	Thesis Title: Computational of non-monotone wave and fingers in two-phase flow. 
 
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
+	Adviser: Professor [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/)
+- 2012 - 2014: M.Sc. in Department of Mathematics and System Science, NUDT, P.R. China 
+
+	Thesis Title: Study on two classes of structure-preserving methods for Hamiltonian partial differential equations. [[pdf]](https://www.researchgate.net/publication/310259257_hamierdunpianweifenfangchengdeliangleibaojiegoufangfayanjiu) 
+
+	Adviser: Professor Songhe Song
+- 2008 - 2012: B.Sc. in Department of Mathematics, ZheJiang University, P.R. China
+
+	Thesis Title: Simulation of incompressible flow using lattice Boltzmann method on multi-threaded platform. [[pdf]](https://www.researchgate.net/publication/310261095_duoxian_chengpingtaishang_LB_fangfamo_nibuke_ya_liudong) 
+
+	Adviser: Professor [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/)
+
+---
+### Skills
+- Languages: Chinese, English, Japanese
+- Computer skills: C/C++, Matlab, Fortran, Shell Scirpt
+
+---
+### Awards
+- Excellent M.Sc Dissertation of NUDT, 2014
+- TOP 100 B.Sc Dissertation of Zhejiang University, 2012
+- Excellent Graduate Student of Zhejiang University, 2012
+- Scholarship for Outstanding Merits, Zhejiang University, 2009, 2010, 2011
+- Scholarship for Outstanding Students, Zhejiang University, 2009, 2010, 2011
+- Prize of the National Talents Training Base, Zhejiang University, 2010
+
+---
+### Research Interests
+- Computational of non-monotone waves and fingers in two-phase flow
+- Geometric numerical integration
+- Moving mesh methods
+- Computational fluid dynamics
+
+---
+### Publications
+
+#### 2016
+- Zhang H, Zegeling P A. A mimetic finite difference method for two-phase flow models with dynamic capillary pressure and hysteresis[J]. arXiv preprint arXiv:1604.04109, 2016. [[pdf]](https://arxiv.org/abs/1604.04109) 
+- Zhang H, Zegeling P A. A numerical study of two-phase flow with dynamic capillary pressure using an adaptive moving mesh method[J]. arXiv preprint arXiv:1604.04863, 2016. [[pdf]](https://arxiv.org/abs/1604.04863)
+
+#### 2014
+- H. Zhang, S. H. Song, X. D. Chen, et al. Average vector field methods for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(7): 070208. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/7/070208/meta)
+- H. Zhang, S. H. Song, W. E. Zhou, et al. Multi-symplectic method for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(8): 080204. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/8/080204/meta)
+
+---
+### Conferences and Courses
+- NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands
+- Moving mesh methods workshop, 2016.6.13-2016.6.16, Bath, UK
+- Spring meeting WSC, 2016.5.13, Utrecht, the Netherlands
+- Summer school on numerical methods for coupled fluid-solid dynamics, 2014.8, Beijing, China
+- The 1st postgraduate forum on numerical methods for partial differential equations, 2014.8, Beijing, China
+- The 12th annual conference of Chinese Computational Mathematics Society, 2013.10, Changsha, China
+- International conference on compressed sensing: theory and applications, 2013.7, Changsha, China
+- Postgraduate summer school on Applied Mathematics, 2013.7, Changsha, China
+- Summer school on Applied Mathematics, 2011.7, Zhengzhou, China
 
 
-Milu(麋鹿) is the chinese name of Père David's deer.
-
-All photos on this website are copyrighted material and all rights are reserved.
 
