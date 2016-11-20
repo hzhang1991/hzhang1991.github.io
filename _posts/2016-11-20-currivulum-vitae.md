@@ -12,7 +12,7 @@ tags: [CV]
 
 ----
 
-### Personal Data
+### Personal Data ###
 Name:	H. (Hong) Zhang
 
 Email:	hzhang1991 AT gmail DOT com
@@ -26,7 +26,7 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 ----
 
 
-### Educational and Academic Data
+### Educational and Academic Data ###
 - 2015 - Present: Ph.D candidate in Mathematical Institute, Utrecht University, the Netherlands
 
 	Thesis Title: Computational of non-monotone wave and fingers in two-phase flow. 
@@ -69,7 +69,7 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 
 ---
 
-### Publications ###
+### Publications by year ###
 
 #### 2016 ####
 - Zhang H, Zegeling P A. A mimetic finite difference method for two-phase flow models with dynamic capillary pressure and hysteresis[J]. arXiv preprint arXiv:1604.04109, 2016. [[pdf]](https://arxiv.org/abs/1604.04109) 
@@ -81,7 +81,13 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 
 ---
 
-### Conferences and Courses ####
+### Conferences, summer schools and workshops  ####
+<!--
+- [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html): Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
+- [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html), 2016.10.5-2016.10.7, Stuttgart, Germany 
+- [DUNE::FEM summer school](http://www.ians.uni-stuttgart.de/institut/veranstaltungen/Tagungen/dune-fem-school-2016/), 2016.9.26-2016.9.30, Stuttgart, Germany 
+- XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/), 2016.8.1-2016.8.5, Aachen, Germany
+-->
 - NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands
 - Moving mesh methods workshop, 2016.6.13-2016.6.16, Bath, UK
 - Spring meeting WSC, 2016.5.13, Utrecht, the Netherlands

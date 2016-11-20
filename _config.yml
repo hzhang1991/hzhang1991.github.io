@@ -8,6 +8,7 @@ keywords: "Jekyll, theme, Freshman21"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hzhang1991.github.io" # the base hostname & protocol for your site
 locale: en_US
+encoding: utf-8
 
 ### Personal info and site tools info:
 #twitter_username: jessezhh
@@ -16,7 +17,7 @@ googlescholar_username: TrB-5asAAAAJ
 researchgate_username: Hong_Zhang67
 disqus_shortname: hzhang1991-github-io
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is H. (Hong) Zhang. This homepage is still underconstruction. # these are shown on aboutme-sidebar.
+aboutme: Hi, this is H. (Hong) Zhang. A Ph.D candidate working in Scientific Computing in Utrecht University, the Netherlands. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/hzhang.jpg0"#https://i.imgur.com/Mdc4szJl.jpg# your photo.
 google_analytics_key: #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 

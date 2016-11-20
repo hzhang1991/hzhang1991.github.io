@@ -5,8 +5,8 @@
     <description>Freshman21 is a Jekyll blog theme.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Nov 2016 18:13:26 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Nov 2016 18:13:26 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Nov 2016 19:20:04 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Nov 2016 19:20:04 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -19,17 +19,19 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/yamingchen14/home&quot;&gt;Yaming Chen&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://web.math.princeton.edu/~weinan/&quot;&gt;Weinan E&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.unige.ch/~hairer/&quot;&gt;Ernst Hairer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.ku.edu/~huang/&quot;&gt;Weizhang Huang&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/xlhu/&quot;&gt;Xianliang Hu&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/&quot;&gt;Ruo Li&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.strath.ac.uk/staff/mackenziejohndr/&quot;&gt;John Mackenzie&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Tao Tang [&lt;a href=&quot;http://www.math.hkbu.edu.hk/~ttang/&quot;&gt;hkbu&lt;/a&gt;, &lt;a href=&quot;http://sustc.edu.cn/faculty_all/f/Tang%20Tao&quot;&gt;sustc&lt;/a&gt;]&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~vorst102/&quot;&gt;Henk van der Vorst&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://person.zju.edu.cn/en/wangheyu&quot;&gt;Heyu Wang&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~zegel101/&quot;&gt;Paul A. Zegeling&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/&quot;&gt;Pingwen Zhang&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-
 &lt;h3 id=&quot;search-engines&quot;&gt;Search Engines&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -38,16 +40,15 @@
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-
-&lt;h3 id=&quot;softwares&quot;&gt;Softwares&lt;/h3&gt;
+&lt;h3 id=&quot;packages&quot;&gt;Packages&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/software.php&quot;&gt;AFEPack&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://dune-project.org/&quot;&gt;DUNE Numerics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dealii.org/&quot;&gt;DEAL.II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;E. Hairer: &lt;a href=&quot;http://www.unige.ch/~hairer/software.html&quot;&gt;Software&lt;/a&gt; for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-
 &lt;h3 id=&quot;journals&quot;&gt;Journals&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://arxiv.org&quot;&gt;Arxiv&lt;/a&gt;&lt;/li&gt;
@@ -78,12 +79,12 @@
   &lt;li&gt;&lt;a href=&quot;#skills&quot; id=&quot;markdown-toc-skills&quot;&gt;Skills&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#awards&quot; id=&quot;markdown-toc-awards&quot;&gt;Awards&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#research-interests&quot; id=&quot;markdown-toc-research-interests&quot;&gt;Research Interests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#publications&quot; id=&quot;markdown-toc-publications&quot;&gt;Publications&lt;/a&gt;    &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#publications-by-year&quot; id=&quot;markdown-toc-publications-by-year&quot;&gt;Publications by year&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#section&quot; id=&quot;markdown-toc-section&quot;&gt;2016&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#section-1&quot; id=&quot;markdown-toc-section-1&quot;&gt;2014&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#conferences-and-courses&quot; id=&quot;markdown-toc-conferences-and-courses&quot;&gt;Conferences and Courses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conferences-summer-schools-and-workshops&quot; id=&quot;markdown-toc-conferences-summer-schools-and-workshops&quot;&gt;Conferences, summer schools and workshops&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -156,7 +157,7 @@
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;publications&quot;&gt;Publications&lt;/h3&gt;
+&lt;h3 id=&quot;publications-by-year&quot;&gt;Publications by year&lt;/h3&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;2016&lt;/h4&gt;
 &lt;ul&gt;
@@ -172,7 +173,13 @@
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;conferences-and-courses&quot;&gt;Conferences and Courses&lt;/h3&gt;
+&lt;h3 id=&quot;conferences-summer-schools-and-workshops&quot;&gt;Conferences, summer schools and workshops&lt;/h3&gt;
+&lt;!--
+- [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html): Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
+- [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html), 2016.10.5-2016.10.7, Stuttgart, Germany 
+- [DUNE::FEM summer school](http://www.ians.uni-stuttgart.de/institut/veranstaltungen/Tagungen/dune-fem-school-2016/), 2016.9.26-2016.9.30, Stuttgart, Germany 
+- XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/), 2016.8.1-2016.8.5, Aachen, Germany
+--&gt;
 &lt;ul&gt;
   &lt;li&gt;NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands&lt;/li&gt;
   &lt;li&gt;Moving mesh methods workshop, 2016.6.13-2016.6.16, Bath, UK&lt;/li&gt;
@@ -198,12 +205,15 @@
       </item>
     
       <item>
-        <title>template</title>
-        <description>&lt;p&gt;Hello world! This site is my first English blog.&lt;/p&gt;
+        <title>Template</title>
+        <description>&lt;hr /&gt;
+&lt;h3 id=&quot;h1&quot;&gt;h1&lt;/h3&gt;
+
+&lt;p&gt;你好，我是中文模板。&lt;/p&gt;
 </description>
-        <pubDate>Fri, 22 Jul 2011 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/template/2011/07/22/hello-world.html</link>
-        <guid isPermaLink="true">http://localhost:4000/template/2011/07/22/hello-world.html</guid>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/template/2016/01/01/template.html</link>
+        <guid isPermaLink="true">http://localhost:4000/template/2016/01/01/template.html</guid>
         
         <category>template</category>
         
