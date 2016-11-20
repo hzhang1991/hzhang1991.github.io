@@ -8,6 +8,7 @@ comments: falsse
 
 * Table of Contents
 {:toc}
+
 ----
 
 ### Personal Data
@@ -18,7 +19,8 @@ Email:	hzhang1991@gmail.com
 Dept.:	Mathematical Institute, Utrecht University, the Netherlands
 
 Address:	Budapestlaan 6, De Uithof
----
+
+-----
 
 ### Educational and Academic Data
 - 2015 - Present: Ph.D candidate in Mathematical Institute, Utrecht University, the Netherlands
@@ -36,11 +38,13 @@ Address:	Budapestlaan 6, De Uithof
 	Thesis Title: Simulation of incompressible flow using lattice Boltzmann method on multi-threaded platform. [[pdf]](https://www.researchgate.net/publication/310261095_duoxian_chengpingtaishang_LB_fangfamo_nibuke_ya_liudong) 
 
 	Adviser: Professor [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/)
+
 ---
 
 ### Skills
 - Languages: Chinese, English, Japanese
 - Computer skills: C/C++, Matlab, Fortran, Shell Scirpt
+
 ---
 
 ### Awards
@@ -50,6 +54,7 @@ Address:	Budapestlaan 6, De Uithof
 - Scholarship for Outstanding Merits, Zhejiang University, 2009, 2010, 2011
 - Scholarship for Outstanding Students, Zhejiang University, 2009, 2010, 2011
 - Prize of the National Talents Training Base, Zhejiang University, 2010
+
 ---
 
 ### Research Interests
@@ -57,6 +62,7 @@ Address:	Budapestlaan 6, De Uithof
 - Geometric numerical integration
 - Moving mesh methods
 - Computational fluid dynamics
+
 ---
 
 ### Publications
@@ -68,6 +74,7 @@ Address:	Budapestlaan 6, De Uithof
 #### 2014
 - H. Zhang, S. H. Song, X. D. Chen, et al. Average vector field methods for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(7): 070208. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/7/070208/meta)
 - H. Zhang, S. H. Song, W. E. Zhou, et al. Multi-symplectic method for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(8): 080204. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/8/080204/meta)
+
 ---
 
 ### Conferences and Courses
