@@ -19,8 +19,7 @@ disqus_shortname: hzhang1991-github-io
 favicon:     "/images/favicon.ico"
 aboutme: Hi, this is H. (Hong) Zhang. A Ph.D candidate working in Scientific Computing in Utrecht University, the Netherlands. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/hzhang.jpg0"#https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
-
+google_analytics_key: UA-70088037-2 #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
@@ -39,6 +38,7 @@ locales:
       Previous: "Older"
       Next: "Newer"
       PostedInCategories: "Posted in"
+      Counter:  "Read"
       Taggedwith: "and tagged"
       PostDate: "on "
       Google_search: "Site Search"
@@ -57,6 +57,7 @@ locales:
       Previous: "前一页"
       Next: "后一页"
       PostedInCategories: "目录:"   
+      Counter: "浏览量"
       Taggedwith: "| 标签:"
       PostDate: "| 发表时间: "
       Google_search: "站内搜索"

@@ -5,8 +5,8 @@
     <description>Freshman21 is a Jekyll blog theme.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Nov 2016 19:24:02 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Nov 2016 19:24:02 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Nov 2016 20:53:50 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Nov 2016 20:53:50 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -199,13 +199,36 @@
 
 </description>
         <pubDate>Sun, 20 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/cv/2016/11/20/currivulum-vitae.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cv/2016/11/20/currivulum-vitae.html</guid>
+        <link>http://localhost:4000/cv/2016/11/20/curriculum-vitae.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cv/2016/11/20/curriculum-vitae.html</guid>
         
         <category>CV</category>
         
         
         <category>CV</category>
+        
+      </item>
+    
+      <item>
+        <title>养生</title>
+        <description>&lt;hr /&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;百字碑&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;心斋&lt;/h3&gt;
+</description>
+        <pubDate>Sat, 02 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/%E4%BF%AE%E5%85%BB/2016/01/02/regimen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/%E4%BF%AE%E5%85%BB/2016/01/02/regimen.html</guid>
+        
+        <category>养生</category>
+        
+        <category>养气</category>
+        
+        
+        <category>修养</category>
         
       </item>
     
@@ -216,6 +239,11 @@
 &lt;h3 id=&quot;h1&quot;&gt;h1&lt;/h3&gt;
 
 &lt;p&gt;你好，我是中文模板。&lt;/p&gt;
+
+&lt;h3 id=&quot;pdf&quot;&gt;嵌入PDF显示&lt;/h3&gt;
+
+&lt;!-- &lt;center&gt;&lt;embed src=&quot;http://gohom.win/HomPDF/mou.pdf&quot; width=&quot;850&quot; height=&quot;600&quot;&gt;&lt;/center&gt;
+--&gt;
 </description>
         <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/template/2016/01/01/template.html</link>
