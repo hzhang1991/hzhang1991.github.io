@@ -11,6 +11,7 @@ comments: no
 Alphabetical order.
 
 ---
+
 ### Scientists ###
 
 - [Yaming Chen](https://sites.google.com/site/yamingchen14/home)
@@ -27,12 +28,14 @@ Alphabetical order.
 - [Pingwen Zhang](http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/)
 
 ----
+
 ### Search Engines
 
 - [Google](www.gogole.com)
 - [Sci-hub](www.sci-hub.bz)
 
 ---
+
 ### Packages ###
 - [AFEPack](http://dsec.pku.edu.cn/~rli/software.php)
 - [DUNE Numerics](https://dune-project.org/)
@@ -40,6 +43,7 @@ Alphabetical order.
 - E. Hairer: [Software](http://www.unige.ch/~hairer/software.html) for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations
 
 ---
+
 ### Journals ###
 - [Arxiv](https://arxiv.org)
 - [Journal of Computational Pysics](http://www.journals.elsevier.com/journal-of-computational-physics)
