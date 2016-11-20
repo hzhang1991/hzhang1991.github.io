@@ -8,6 +8,7 @@ tags: [links, Scientific Computing]
 comments: no 
 ---
 
+---
 ### Scientists
 - [Yaming Chen](https://sites.google.com/site/yamingchen14/home)
 - [Weinan E](https://web.math.princeton.edu/~weinan/)
@@ -21,11 +22,13 @@ comments: no
 
 
 ___
+
 ### Search Engines
 - [Google](www.gogole.com)
 - [Sci-hub](www.sci-hub.bz)
 
 ___
+
 ### Softwares
 - [AFEPack](http://dsec.pku.edu.cn/~rli/software.php)
 - [DUNE Numerics](https://dune-project.org/)
@@ -33,6 +36,7 @@ ___
 
 
 ___
+
 ### Journals  
 - [Arxiv](https://arxiv.org)
 - [Journal of Computational Pysics](http://www.journals.elsevier.com/journal-of-computational-physics)
