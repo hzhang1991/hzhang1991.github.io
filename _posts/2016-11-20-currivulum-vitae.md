@@ -1,9 +1,10 @@
 ---
-layout: page
-title: About 
-comments: yes
-permalink: /about/
-comments: falsse
+layout: post
+title: Curriculum Vitae 
+comments: no
+excerpt: "H. Zhang's CV."
+categories: CV
+tags: [CV] 
 ---
 
 * Table of Contents
@@ -41,8 +42,6 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 	Thesis Title: Simulation of incompressible flow using lattice Boltzmann method on multi-threaded platform. [[pdf]](https://www.researchgate.net/publication/310261095_duoxian_chengpingtaishang_LB_fangfamo_nibuke_ya_liudong) 
 
 	Adviser: Professor [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/)
-- 2005 - 2008: [Hefei Run An Boarding School](www.hfrunan.com), Anhui, P.R. China
-- 2003 - 2005: [Dangshan Railway Middle School](http://www.ahdstz.com/), Anhui, P.R. China
 
 ---
 

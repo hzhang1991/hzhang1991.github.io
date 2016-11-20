@@ -40,7 +40,7 @@ locales:
       PostDate: "on "
       Google_search: "Site Search"
       Home: "Home"
-      About: "About"
+      About: "Curriculum Vitae"
       Guestbook: "Guestbook"
       Subscribe: "Subscribe"
     cn:
@@ -137,9 +137,6 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: H. (Hong) Zhang
-        href: http://hzhang1991.github.io
-        title: Another Jekyll blog theme
       - name: author's website
         href: http://hzhang1991.github.io
         title: H. (Hong) Zhang's website
