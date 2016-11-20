@@ -21,7 +21,6 @@ Dept.:	Mathematical Institute, Utrecht University, the Netherlands
 Address:	Budapestlaan 6, De Uithof
 
 -----
-
 ### Educational and Academic Data
 - 2015 - Present: Ph.D candidate in Mathematical Institute, Utrecht University, the Netherlands
 
