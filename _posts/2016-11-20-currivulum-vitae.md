@@ -45,13 +45,13 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 
 ---
 
-### Skills
+### Skills ###
 - Languages: Chinese, English, Japanese
 - Computer skills: C/C++, Matlab, Fortran, Shell Scirpt
 
 ---
 
-### Awards
+### Awards ###
 - Excellent M.Sc Dissertation of NUDT, 2014
 - TOP 100 B.Sc Dissertation of Zhejiang University, 2012
 - Excellent Graduate Student of Zhejiang University, 2012
@@ -61,7 +61,7 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 
 ---
 
-### Research Interests
+### Research Interests ###
 - Computational of non-monotone waves and fingers in two-phase flow
 - Geometric numerical integration
 - Moving mesh methods
@@ -69,19 +69,19 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 
 ---
 
-### Publications
+### Publications ###
 
-#### 2016
+#### 2016 ####
 - Zhang H, Zegeling P A. A mimetic finite difference method for two-phase flow models with dynamic capillary pressure and hysteresis[J]. arXiv preprint arXiv:1604.04109, 2016. [[pdf]](https://arxiv.org/abs/1604.04109) 
 - Zhang H, Zegeling P A. A numerical study of two-phase flow with dynamic capillary pressure using an adaptive moving mesh method[J]. arXiv preprint arXiv:1604.04863, 2016. [[pdf]](https://arxiv.org/abs/1604.04863)
 
-#### 2014
+#### 2014 ####
 - H. Zhang, S. H. Song, X. D. Chen, et al. Average vector field methods for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(7): 070208. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/7/070208/meta)
 - H. Zhang, S. H. Song, W. E. Zhou, et al. Multi-symplectic method for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(8): 080204. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/8/080204/meta)
 
 ---
 
-### Conferences and Courses
+### Conferences and Courses ####
 - NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands
 - Moving mesh methods workshop, 2016.6.13-2016.6.16, Bath, UK
 - Spring meeting WSC, 2016.5.13, Utrecht, the Netherlands
@@ -91,6 +91,5 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 - International conference on compressed sensing: theory and applications, 2013.7, Changsha, China
 - Postgraduate summer school on Applied Mathematics, 2013.7, Changsha, China
 - Summer school on Applied Mathematics, 2011.7, Zhengzhou, China
-
 
 

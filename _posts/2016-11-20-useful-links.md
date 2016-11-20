@@ -8,13 +8,16 @@ tags: [links, Scientific Computing]
 comments: no 
 ---
 
+Alphabetical order.
+
 ---
-### Scientists
+### Scientists ###
 
 - [Yaming Chen](https://sites.google.com/site/yamingchen14/home)
 - [Weinan E](https://web.math.princeton.edu/~weinan/)
+- [Ernst Hairer](http://www.unige.ch/~hairer/)
 - [Weizhang Huang](http://www.math.ku.edu/~huang/)
-- [Xianliang Hu](
+- [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/)
 - [Ruo Li](http://dsec.pku.edu.cn/~rli/)
 - Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/), [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao)]
 - [Heyu Wang](http://person.zju.edu.cn/en/wangheyu)
@@ -30,14 +33,15 @@ comments: no
 
 ---
 
-### Softwares ###
+### Packages ###
 - [AFEPack](http://dsec.pku.edu.cn/~rli/software.php)
 - [DUNE Numerics](https://dune-project.org/)
 - [DEAL.II](https://www.dealii.org/)
+- E. Hairer: [Software](http://www.unige.ch/~hairer/software.html) for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations
+- ÖÐÎç
 
 ---
-
-### Journals  
+### Journals ###
 - [Arxiv](https://arxiv.org)
 - [Journal of Computational Pysics](http://www.journals.elsevier.com/journal-of-computational-physics)
 - [Journal of Scientific Computing](https://www.editorialmanager.com/jomp/default.aspx)
