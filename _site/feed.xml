@@ -5,9 +5,62 @@
     <description>Freshman21 is a Jekyll blog theme.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Nov 2016 11:25:41 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Nov 2016 11:25:41 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Nov 2016 13:19:43 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Nov 2016 13:19:43 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Useful links in Scientific Computing</title>
+        <description>&lt;h3 id=&quot;scientists&quot;&gt;Scientists&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/yamingchen14/home&quot;&gt;Yaming Chen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.math.princeton.edu/~weinan/&quot;&gt;Weinan E&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.ku.edu/~huang/&quot;&gt;Weizhang Huang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[Xianliang Hu](&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/&quot;&gt;Ruo Li&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tao Tang [&lt;a href=&quot;http://www.math.hkbu.edu.hk/~ttang/&quot;&gt;hkbu&lt;/a&gt;, &lt;a href=&quot;http://sustc.edu.cn/faculty_all/f/Tang%20Tao&quot;&gt;sustc&lt;/a&gt;]&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://person.zju.edu.cn/en/wangheyu&quot;&gt;Heyu Wang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~zegel101/&quot;&gt;Paul A. Zegeling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/&quot;&gt;Pingwen Zhang&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;search-engines&quot;&gt;Search Engines&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;www.gogole.com&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;www.sci-hub.bz&quot;&gt;Sci-hub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;softwares&quot;&gt;Softwares&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/software.php&quot;&gt;AFEPack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dune-project.org/&quot;&gt;DUNE Numerics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dealii.org/&quot;&gt;DEAL.II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;journals&quot;&gt;Journals&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org&quot;&gt;Arxiv&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.journals.elsevier.com/journal-of-computational-physics&quot;&gt;Journal of Computational Pysics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.editorialmanager.com/jomp/default.aspx&quot;&gt;Journal of Scientific Computing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.editorialmanager.com/tipm/default.aspx&quot;&gt;Transport in Porous Media&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 20 Nov 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/links/2016/11/20/useful-links.html</link>
+        <guid isPermaLink="true">http://localhost:4000/links/2016/11/20/useful-links.html</guid>
+        
+        <category>links</category>
+        
+        <category>Scientific Computing</category>
+        
+        
+        <category>links</category>
+        
+      </item>
     
       <item>
         <title>Curriculum Vitae</title>
