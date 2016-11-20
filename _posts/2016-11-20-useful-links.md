@@ -45,6 +45,7 @@ Alphabetical order.
 ---
 
 ### Journals ###
+
 - [Arxiv](https://arxiv.org)
 - [Journal of Computational Pysics](http://www.journals.elsevier.com/journal-of-computational-physics)
 - [Journal of Scientific Computing](https://www.editorialmanager.com/jomp/default.aspx)
