@@ -1,10 +1,10 @@
 ### Site info:
 title: Homepage of H. (Hong) Zhang
-tagline: 
+tagline: 乘风好去, 长空万里, 直下看山河
 author: H. (Hong) Zhang
 email: hzhang1991@gmail.com
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+description: "H. Zhang's Homepage." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Jekyll, H. Zhang's Homepage "
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hzhang1991.github.io" # the base hostname & protocol for your site
 locale: en_US
@@ -147,6 +147,9 @@ Blogroll:
       - name: H. (Hong) Zhang in Utrecht University
         href: http://www.uu.nl/staff/HZhang4
         title: Homepage of Hong Zhang
+      - name: Math Calendar, Utrecht University
+        href: http://utrechtgeometrycentre.nl/calendar/
+        title: Math Calendar
 
 
 ### Build settings

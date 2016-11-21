@@ -33,5 +33,7 @@ layout: default
 
 
 {% include page_pagination.html%}
+{% if page.comments != false %}
 {% include comments.html %}
+{% endif %}
 
