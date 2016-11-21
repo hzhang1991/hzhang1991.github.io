@@ -9,6 +9,11 @@ comments: true
 ---
 
 ---
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.190534125882!2d5.121361951699922!3d52.09446387532995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f4f61dea147%3A0xf7da6b4c774a631f!2sDrift+23%2C+3512+BR+Utrecht!5e0!3m2!1szh-CN!2snl!4v1479750841150" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+----
+
 Teacher: Evrim Akar
 
 Time: Monday, 19:00-21:00
