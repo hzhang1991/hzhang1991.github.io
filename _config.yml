@@ -141,10 +141,10 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: author's website
+      - name: H. Zhang's  website
         href: http://hzhang1991.github.io
         title: H. (Hong) Zhang's website
-      - name: H. (Hong) in Utrecht University
+      - name: H. (Hong) Zhang in Utrecht University
         href: http://www.uu.nl/staff/HZhang4
         title: Homepage of Hong Zhang
 
