@@ -18,7 +18,7 @@ comments: true
 >中央博物馆位于迪克•布鲁纳博物馆南侧，馆内的展品非常丰富，包括17世纪的应用艺术品和许多乌德勒支学院派艺术家创作的作品，甚至还有一条从淤泥中挖掘出来的12世纪的船。
 
 1. $$\downarrow$$ Nijntje
-![Imgur](http://i.imgur.com/bZiMqiS.jpg)
+<!--![Imgur](http://i.imgur.com/bZiMqiS.jpg)-->
 
 <!--more-->
 2. $$\downarrow$$
