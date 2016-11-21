@@ -3,7 +3,7 @@ layout: post
 title: Curriculum Vitae 
 comments: true
 excerpt: "H. Zhang's CV."
-categories: CV
+categories: note
 tags: [CV] 
 ---
 

@@ -3,7 +3,7 @@ published: true
 title: Useful links in Scientific Computing
 layout: post
 author: H. Zhang
-category: [links]
+category: note
 tags: [links, Scientific Computing] 
 comments: true
 ---

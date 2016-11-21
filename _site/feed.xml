@@ -5,8 +5,8 @@
     <description>H. Zhang's Homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Nov 2016 20:29:20 +0100</pubDate>
-    <lastBuildDate>Mon, 21 Nov 2016 20:29:20 +0100</lastBuildDate>
+    <pubDate>Mon, 21 Nov 2016 21:22:59 +0100</pubDate>
+    <lastBuildDate>Mon, 21 Nov 2016 21:22:59 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -120,15 +120,15 @@
 
 </description>
         <pubDate>Sun, 20 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/links/2016/11/20/useful-links.html</link>
-        <guid isPermaLink="true">http://localhost:4000/links/2016/11/20/useful-links.html</guid>
+        <link>http://localhost:4000/note/2016/11/20/useful-links.html</link>
+        <guid isPermaLink="true">http://localhost:4000/note/2016/11/20/useful-links.html</guid>
         
         <category>links</category>
         
         <category>Scientific Computing</category>
         
         
-        <category>links</category>
+        <category>note</category>
         
       </item>
     
@@ -257,13 +257,13 @@
 
 </description>
         <pubDate>Sun, 20 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/cv/2016/11/20/curriculum-vitae.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cv/2016/11/20/curriculum-vitae.html</guid>
+        <link>http://localhost:4000/note/2016/11/20/curriculum-vitae.html</link>
+        <guid isPermaLink="true">http://localhost:4000/note/2016/11/20/curriculum-vitae.html</guid>
         
         <category>CV</category>
         
         
-        <category>CV</category>
+        <category>note</category>
         
       </item>
     
@@ -281,16 +281,12 @@
 &lt;/blockquote&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; Nijntje
-&lt;!--![Imgur](http://i.imgur.com/bZiMqiS.jpg)--&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;!--more--&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
-&lt;img src=&quot;http://i.imgur.com/nhFjLN4.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
 &lt;img src=&quot;http://i.imgur.com/Pa0eNly.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; Nijntje
+&lt;!--![Imgur](http://i.imgur.com/bZiMqiS.jpg)--&gt;
+&lt;!--more--&gt;
+&lt;img src=&quot;http://i.imgur.com/nhFjLN4.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
 &lt;img src=&quot;http://i.imgur.com/0xk7dd0.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
@@ -336,13 +332,87 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 19 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/museum/2016/11/19/central-museum-utrecht.html</link>
-        <guid isPermaLink="true">http://localhost:4000/museum/2016/11/19/central-museum-utrecht.html</guid>
+        <link>http://localhost:4000/travel/2016/11/19/central-museum-utrecht.html</link>
+        <guid isPermaLink="true">http://localhost:4000/travel/2016/11/19/central-museum-utrecht.html</guid>
         
         <category>museum</category>
         
         
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Netherlands Open Air Museum (Arnhem)</title>
+        <description>&lt;hr /&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2455.8312688693904!2d5.904446551697922!3d52.00995248155451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c7a504afddaaa5%3A0xa547167236a86377!2sNetherlands+Open+Air+Museum!5e0!3m2!1szh-CN!2snl!4v1479756912814&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m0!3m2!1szh-CN!2snl!4v1479757018501!6m8!1m7!1s0KattihnzkkkEmwDcAit3Q!2m2!1d52.01096094335821!2d5.909068643547386!3f20.135596948701654!4f0.43109783545546065!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The Netherlands Open Air Museum (Dutch: Nederlands Openlucht Museum) is an open air museum, located in a beautiful park in the woods near Arnhem. The museum park is 44 hectares in area and includes buildings from various places and historical periods.  The museum was founded in 1912 when a group of private individuals, concerned about the increasing industrialisation and urbanisation threatening the Netherlands' rich heritage of traditions and regional diversity, set up the open air museum in Arnhem.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To tell true stories about everyday life in the Netherlands with the help of authentic objects  To a broad range of visitors whether native or new to the Netherlands 
+And to encourage them to share their experiences with us – and with each other&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;the-museum&quot;&gt;The Museum&lt;/h3&gt;
+
+&lt;p&gt;The Netherlands Open Air Museum uses authentic buildings, objects and true stories to bring the past to life, thus taking visitors on a journey through the last two hundred years. The museum, with its farmyards, farmhouses, cottages and businesses, farmer’s café and shops, is a real hive of activity.&lt;/p&gt;
+
+&lt;p&gt;A visit to the museum is an unforgettable experience and a wonderful way to get to know the Dutch people and their history. This living history makes a lasting impression with stories, smells, flavors and images that brings back days gone by, together with moments of great astonishment. The museum staff, who appears to have stepped straight out of the past, inspires visitors with their stories. On site at the museum there are many re-enacts demonstrating the old way of life.&lt;/p&gt;
+
+&lt;p&gt;Among these demonstrations are paper production, linseed production, beer brewing, and the heritage tram line, which are all demonstrated in the traditional way.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/v4VJnCc.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/ldrVoO9.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/TdUJiaF.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/HbBa2Js.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/BDyDAmz.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/8pyUMNY.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/ojjw1iJ.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/jxftbRj.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/IdzsziE.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/v4VJnCc.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/mA0agrp.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/4jcQlGg.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/AU1KDUB.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/8NW2yqp.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/uZNwhp6.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/5r9qACJ.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+&lt;img src=&quot;http://i.imgur.com/Kbgw0FS.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 29 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/travel/2016/10/29/open-air-museum.html</link>
+        <guid isPermaLink="true">http://localhost:4000/travel/2016/10/29/open-air-museum.html</guid>
+        
         <category>museum</category>
+        
+        
+        <category>travel</category>
         
       </item>
     
@@ -408,7 +478,9 @@
         <link>http://localhost:4000/travel/2016/10/01/travelS.html</link>
         <guid isPermaLink="true">http://localhost:4000/travel/2016/10/01/travelS.html</guid>
         
-        <category>picture</category>
+        <category>古镇</category>
+        
+        <category>travel</category>
         
         
         <category>travel</category>
@@ -463,7 +535,9 @@
         <link>http://localhost:4000/travel/2016/09/24/travelB.html</link>
         <guid isPermaLink="true">http://localhost:4000/travel/2016/09/24/travelB.html</guid>
         
-        <category>picture</category>
+        <category>古镇</category>
+        
+        <category>travel</category>
         
         
         <category>travel</category>
@@ -586,7 +660,9 @@
         
         <category>Zeist</category>
         
-        <category>女皇行宫</category>
+        <category>行宫</category>
+        
+        <category>museum</category>
         
         
         <category>travel</category>
@@ -606,55 +682,13 @@
 &lt;h3 id=&quot;section-1&quot;&gt;心斋&lt;/h3&gt;
 </description>
         <pubDate>Sat, 02 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/%E4%BF%AE%E5%85%BB/2016/01/02/regimen.html</link>
-        <guid isPermaLink="true">http://localhost:4000/%E4%BF%AE%E5%85%BB/2016/01/02/regimen.html</guid>
+        <link>http://localhost:4000/note/2016/01/02/regimen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/note/2016/01/02/regimen.html</guid>
         
         <category>养生</category>
         
-        <category>养气</category>
         
-        
-        <category>修养</category>
-        
-      </item>
-    
-      <item>
-        <title>Template</title>
-        <description>&lt;hr /&gt;
-
-&lt;!--more--&gt;
-
-&lt;!--嵌入 video 
-&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XMTY1MTI3NjMyNA==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;embed src=&quot;http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; allowFullScreen=&quot;true&quot; mode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;
-
-&lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;
-&lt;source src=&quot;movie.mp4&quot;&gt;
-&lt;/video&gt;
---&gt;
-
-&lt;!-- insert audio
-&lt;audio src=&quot;http://sc.111ttt.com/up/mp3/314720/8F9F3E8438FE1581248E92B54A3C0AB5.mp3&quot; controls=&quot;controls&quot;&gt;
-&lt;/audio&gt;
---&gt;
-
-&lt;!-- Insert pdf 
-&lt;iframe src=&quot;/pdf/mou.pdf&quot; style=&quot;width:300px; height:100px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
---&gt;
-
-&lt;!-- insert pdf doc use google view
-&lt;iframe src=&quot;http://docs.google.com/gview?url=http://platinhom.github.io/pdf/mou.pdf&amp;embedded=true&quot; style=&quot;width:800px; height:1000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
---&gt;
-</description>
-        <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/template/2016/01/01/template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/template/2016/01/01/template.html</guid>
-        
-        <category>template</category>
-        
-        
-        <category>template</category>
+        <category>note</category>
         
       </item>
     

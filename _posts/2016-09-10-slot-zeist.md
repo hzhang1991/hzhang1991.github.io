@@ -4,7 +4,7 @@ title: Het Slot Zeist
 layout: post
 author: H. Zhang
 category: travel 
-tags: [Zeist, 女皇行宫]
+tags: [Zeist, 行宫, museum]
 comments: false
 ---
 
