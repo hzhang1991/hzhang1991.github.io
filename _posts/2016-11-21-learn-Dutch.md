@@ -13,6 +13,9 @@ Teacher: Evrim Akar
 
 Time: Monday, 19:00-21:00
 
+No class on 21 Nov.
+<!--more-->
+
 ### Homework 2016.11.14  ###
 - Oefening 16 --> tell the time in both ways (the digital way and the normal way) and if possible both in the morning and in the afternoon or at night or in the evening. 
 - Oefening 17
@@ -28,7 +31,8 @@ Time: Monday, 19:00-21:00
 - Pagina 97: learn the meanings of the words on page 97! write the plural forms (check the dictionary for the ones you don't know how to make plural!)
 
 	Do the following exercises and send me your answers! 
-
+[Imgur](http://i.imgur.com/uMQ2hz5.png)
+[Imgur](http://i.imgur.com/1wKvyYO.png)
 
 <!-- <center><embed src="http://gohom.win/HomPDF/mou.pdf" width="850" height="600"></center>
 -->

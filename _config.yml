@@ -160,4 +160,4 @@ kramdown:
         syntax_highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
-excerpt_separator: <!-- more -->
+excerpt_separator: <!--more-->

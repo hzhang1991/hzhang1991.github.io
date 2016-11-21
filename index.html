@@ -32,22 +32,11 @@ layout: default
     </header>
 
     <article class="post-content" itemprop="articleBody">
-      {% if post.content contains site.excerpt_separator %}
-      {{ post.excerpt }}
-      <p style="text-align: right"><a href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
-			{% else %} <!--add summary-->
-				{% if post.content contains '<!--more-->' %}
-					{{ post.content | split:'<!--more-->' | first }}
-				{% else %}
-					{{ post.content | strip_html | truncatewords: 50 }}
-				{% endif %}
-				<p><a href="{{ post.url | prepend: site.baseurl }}">read more</a></p> 
-			<!-- {{ post.content }}
-			{{ post.content | strip_html | truncatewords: 50 }}
-			<p><a href="{{ post.url | prepend: site.baseurl }}">read more</a></p> 
-			-->
-      {% endif %}
-    </article>
+			{{ post.content | split:'<!--more-->' | first }}
+			{% if post.content contains site.excerpt_separator %}
+			<p style="text-align: right"><a href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
+			{% endif %}
+		</article>
     <hr />
 
     {% endfor %}
