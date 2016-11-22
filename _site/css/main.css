@@ -457,7 +457,7 @@ time {
 .about img {
   height: 128px;
   width: 128px;
-  border-radius: 50%;
+  border-radius: 20%;
   margin: 0 auto;
   display: block; }
 

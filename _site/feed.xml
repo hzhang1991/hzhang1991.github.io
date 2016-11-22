@@ -5,8 +5,8 @@
     <description>H. Zhang's Homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Nov 2016 21:22:59 +0100</pubDate>
-    <lastBuildDate>Mon, 21 Nov 2016 21:22:59 +0100</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2016 09:17:50 +0100</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2016 09:17:50 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -102,12 +102,15 @@
 &lt;h3 id=&quot;packages&quot;&gt;Packages&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/software.php&quot;&gt;AFEPack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Open data science platform powered by Python: &lt;a href=&quot;https://www.continuum.io/downloads&quot;&gt;anaconda&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://dune-project.org/&quot;&gt;DUNE Numerics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dealii.org/&quot;&gt;DEAL.II&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;E. Hairer: &lt;a href=&quot;http://www.unige.ch/~hairer/software.html&quot;&gt;Software&lt;/a&gt; for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fenicsproject.org/&quot;&gt;FEniCS&lt;/a&gt; Project&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;automated-system-for-the-portable-solutions-of-pdes-using-fem-firedrakehttpwwwfiredrakeprojectorg&quot;&gt;Automated system for the portable solutions of PDEs using FEM: &lt;a href=&quot;http://www.firedrakeproject.org/&quot;&gt;Firedrake&lt;/a&gt;&lt;/h2&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
 
 &lt;h3 id=&quot;journals&quot;&gt;Journals&lt;/h3&gt;
 
@@ -670,25 +673,41 @@ And to encourage them to share their experiences with us – and with each othe
       </item>
     
       <item>
-        <title>养生</title>
+        <title>A tutorial for Firedrake and FEniCS</title>
         <description>&lt;hr /&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;百字碑&lt;/h3&gt;
+&lt;p&gt;Website: &lt;a href=&quot;http://www.firedrakeproject.org/&quot;&gt;Firedrake&lt;/a&gt;&lt;/p&gt;
 
-&lt;!--more--&gt;
+&lt;h3 id=&quot;anaconda&quot;&gt;Anaconda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;On Mac, anaconda’s directory is &lt;code class=&quot;highlighter-rouge&quot;&gt;/data/zhang057/soft/anaconda2&lt;/code&gt;, the environment for FEniCS2.7 is &lt;code class=&quot;highlighter-rouge&quot;&gt;fenics27&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;create environment: `conda create –name fenics27 python=2&lt;/li&gt;
+  &lt;li&gt;Activate FEnics27: &lt;code class=&quot;highlighter-rouge&quot;&gt;source activate fenics27&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Deactivate: &lt;code class=&quot;highlighter-rouge&quot;&gt;source deactivate&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;exit&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;h3 id=&quot;obtaining-firedrake&quot;&gt;Obtaining Firedrake&lt;/h3&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;心斋&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Firedrake directory: &lt;code class=&quot;highlighter-rouge&quot;&gt;/data/\*/src/&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;source firedrake/bin/activate&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Deactivate: &lt;code class=&quot;highlighter-rouge&quot;&gt;deactivate&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-        <pubDate>Sat, 02 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/note/2016/01/02/regimen.html</link>
-        <guid isPermaLink="true">http://localhost:4000/note/2016/01/02/regimen.html</guid>
+        <pubDate>Thu, 03 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/tutorial/2016/03/03/firedrake.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tutorial/2016/03/03/firedrake.html</guid>
         
-        <category>养生</category>
+        <category>firedrake</category>
+        
+        <category>fenics</category>
+        
+        <category>fem</category>
+        
+        <category>tutorial</category>
         
         
-        <category>note</category>
+        <category>tutorial</category>
         
       </item>
     

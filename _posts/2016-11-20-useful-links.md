@@ -39,10 +39,12 @@ Alphabetical order.
 
 ### Packages ###
 - [AFEPack](http://dsec.pku.edu.cn/~rli/software.php)
+- Open data science platform powered by Python: [anaconda](https://www.continuum.io/downloads)
 - [DUNE Numerics](https://dune-project.org/)
 - [DEAL.II](https://www.dealii.org/)
 - E. Hairer: [Software](http://www.unige.ch/~hairer/software.html) for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations
-
+- [FEniCS](https://fenicsproject.org/) Project
+- Automated system for the portable solutions of PDEs using FEM: [Firedrake](http://www.firedrakeproject.org/)
 ---
 
 ### Journals ###
