@@ -5,8 +5,8 @@
     <description>H. Zhang's Homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Nov 2016 09:26:00 +0100</pubDate>
-    <lastBuildDate>Tue, 22 Nov 2016 09:26:00 +0100</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2016 09:42:33 +0100</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2016 09:42:33 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -561,6 +561,14 @@ And to encourage them to share their experiences with us – and with each othe
 &lt;blockquote&gt;
   &lt;p&gt;乌得勒支（Utrecht）,为荷兰乌得勒支省人口最多的城市,同时也是该省的省会. 乌得勒支的很多建筑物都是中世纪以后留下的古迹,同时也是18世纪之后荷兰的宗教中心, 目前以乌得勒支主教座堂最为出名, 同时乌得勒支主教也是罗马教廷在荷兰的天主教领袖.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;h4 id=&quot;km&quot;&gt;劳动节 15 km&lt;/h4&gt;
+&lt;iframe src=&quot;https://mysports.tomtom.com/service/webapi/v2/activity/perm_CIE1F5QA5psCCQa0SLdWp0_MMlq9o_uvNUPPk5ZWpu0iUCVtR6i11E1fIX8niJ00kIlaRjXf-_Ay5O0Mte9eVw?format=html&quot; width=&quot;650&quot; height=&quot;800&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;八公里折返&lt;/h4&gt;
+&lt;iframe src=&quot;https://mysports.tomtom.com/service/webapi/v2/activity/perm_f2eU8EMvWS56QPHXLEk7XWsrfi5HeHjs3ctfXsvOT3O_K7K9yEHNRL_4L4in5OrrsoV2dFtoUlywJdB_iOStrA?format=html&quot; width=&quot;650&quot; height=&quot;800&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 雨后
