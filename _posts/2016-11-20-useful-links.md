@@ -22,6 +22,7 @@ Alphabetical order.
 - [Ruo Li](http://dsec.pku.edu.cn/~rli/)
 - [John Mackenzie](http://www.strath.ac.uk/staff/mackenziejohndr/)
 - Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/), [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao)]
+- Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
 - [Henk van der Vorst](https://www.staff.science.uu.nl/~vorst102/)
 - [Heyu Wang](http://person.zju.edu.cn/en/wangheyu)
 - [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/)
@@ -45,6 +46,7 @@ Alphabetical order.
 - E. Hairer: [Software](http://www.unige.ch/~hairer/software.html) for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations
 - [FEniCS](https://fenicsproject.org/) Project
 - Automated system for the portable solutions of PDEs using FEM: [Firedrake](http://www.firedrakeproject.org/)
+
 ---
 
 ### Journals ###

@@ -5,8 +5,8 @@
     <description>H. Zhang's Homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Nov 2016 09:42:33 +0100</pubDate>
-    <lastBuildDate>Tue, 22 Nov 2016 09:42:33 +0100</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2016 18:35:48 +0100</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2016 18:35:48 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -81,6 +81,7 @@
   &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/&quot;&gt;Ruo Li&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.strath.ac.uk/staff/mackenziejohndr/&quot;&gt;John Mackenzie&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Tao Tang [&lt;a href=&quot;http://www.math.hkbu.edu.hk/~ttang/&quot;&gt;hkbu&lt;/a&gt;, &lt;a href=&quot;http://sustc.edu.cn/faculty_all/f/Tang%20Tao&quot;&gt;sustc&lt;/a&gt;]&lt;/li&gt;
+  &lt;li&gt;Arthur van Dam [ &lt;a href=&quot;arthurvd.blogspot.nl&quot;&gt;research&lt;/a&gt;, &lt;a href=&quot;www.eye-home.net&quot;&gt;personal&lt;/a&gt;, &lt;a href=&quot;http://arthur.van-dam.net/twiki/bin/view/Arthur&quot;&gt;former research homepage&lt;/a&gt;]&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~vorst102/&quot;&gt;Henk van der Vorst&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://person.zju.edu.cn/en/wangheyu&quot;&gt;Heyu Wang&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~zegel101/&quot;&gt;Paul A. Zegeling&lt;/a&gt;&lt;/li&gt;
@@ -107,10 +108,10 @@
   &lt;li&gt;&lt;a href=&quot;https://www.dealii.org/&quot;&gt;DEAL.II&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;E. Hairer: &lt;a href=&quot;http://www.unige.ch/~hairer/software.html&quot;&gt;Software&lt;/a&gt; for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://fenicsproject.org/&quot;&gt;FEniCS&lt;/a&gt; Project&lt;/li&gt;
-  &lt;li&gt;
-    &lt;h2 id=&quot;automated-system-for-the-portable-solutions-of-pdes-using-fem-firedrakehttpwwwfiredrakeprojectorg&quot;&gt;Automated system for the portable solutions of PDEs using FEM: &lt;a href=&quot;http://www.firedrakeproject.org/&quot;&gt;Firedrake&lt;/a&gt;&lt;/h2&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Automated system for the portable solutions of PDEs using FEM: &lt;a href=&quot;http://www.firedrakeproject.org/&quot;&gt;Firedrake&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;journals&quot;&gt;Journals&lt;/h3&gt;
 
@@ -183,7 +184,7 @@
     &lt;p&gt;Adviser: Professor Songhe Song&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;2008 - 2012: B.Sc. in Department of Mathematics, ZheJiang University, P.R. China&lt;/p&gt;
+    &lt;p&gt;2008 - 2012: B.Sc. in Department of Mathematics, Zhejiang University, P.R. China&lt;/p&gt;
 
     &lt;p&gt;Thesis Title: Simulation of incompressible flow using lattice Boltzmann method on multi-threaded platform. &lt;a href=&quot;https://www.researchgate.net/publication/310261095_duoxian_chengpingtaishang_LB_fangfamo_nibuke_ya_liudong&quot;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 
@@ -195,8 +196,8 @@
 
 &lt;h3 id=&quot;skills&quot;&gt;Skills&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Languages: Chinese, English, Japanese&lt;/li&gt;
-  &lt;li&gt;Computer skills: C/C++, Matlab, Fortran, Shell Scirpt&lt;/li&gt;
+  &lt;li&gt;Spoken languages: Chinese, English&lt;/li&gt;
+  &lt;li&gt;Computer languages: LaTex, C/C++, Matlab, Fortran, Shell Script,&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
