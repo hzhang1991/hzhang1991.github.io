@@ -11,8 +11,9 @@ locale: en_US
 encoding: utf-8
 
 ### Personal info and site tools info:
-#twitter_username: jessezhh
-github_username:  hzhang1991
+twitter_username:
+facebook_username: h.zhang1991
+github_username:
 googlescholar_username: TrB-5asAAAAJ
 researchgate_username: Hong_Zhang67
 disqus_shortname: hzhang1991-github-io
