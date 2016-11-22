@@ -2,6 +2,7 @@
 layout: post
 title: Curriculum Vitae 
 comments: true
+author: H. Zhang
 excerpt: "H. Zhang's CV."
 categories: note
 tags: [CV] 

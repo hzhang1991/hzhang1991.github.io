@@ -297,8 +297,8 @@ time{
 
 .about{
   img {
-    height: 128px;
-    width: 128px;
+    height: 90%; // default 148px
+    width: 90%;  // default 148px
     border-radius:20%;
     margin: 0 auto;
     display: block;

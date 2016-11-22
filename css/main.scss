@@ -28,11 +28,11 @@ $code-font-color:  #eee;
 
 
 // Width of the content area
-$content-width:    960px;
-$page-width:       1000px;
+$content-width:    auto-40;//1240px;//default 960
+$page-width:       auto;//1280px; // default 1000
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        1000px; // default 800
 
 
 

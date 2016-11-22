@@ -1,5 +1,5 @@
 ### Site info:
-title: Homepage of H. (Hong) Zhang
+title: Homepage of ZHANG Hong 
 tagline: 乘风好去, 长空万里, 直下看山河
 author: H. (Hong) Zhang
 email: hzhang1991@gmail.com
@@ -47,6 +47,7 @@ locales:
       About: "Curriculum Vitae"
       Guestbook: "Guestbook"
       Subscribe: "Subscribe"
+      By: "by"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
@@ -66,6 +67,7 @@ locales:
       About: "关于"
       Guestbook: "留言"
       Subscribe: "订阅"
+      By: "| 作者:"
     jp:
       Aboutme: "著者"
       Archives: "アーカイブ"

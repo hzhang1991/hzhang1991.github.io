@@ -35,8 +35,8 @@ ul, ol, dl, figure {
  */
 .container {
   min-height: 100%;
-  max-width: -webkit-calc(1000px - (15px * 2));
-  max-width: calc(1000px - (15px * 2));
+  max-width: -webkit-calc(auto - (15px * 2));
+  max-width: calc(auto - (15px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 15px;
@@ -62,11 +62,11 @@ ul, ol, dl, figure {
 @media screen and (min-width: 600px) {
   .col-sm-8 {
     float: left;
-    width: 65%; }
+    width: 75%; }
 
   .col-sm-2 {
     float: right;
-    width: 25%; } }
+    width: 20%; } }
 /**
  * Images
  */
@@ -161,16 +161,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(960px - (15px * 2));
-  max-width: calc(960px - (15px * 2));
+  max-width: -webkit-calc(auto-40 - (15px * 2));
+  max-width: calc(auto-40 - (15px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 15px;
   padding-left: 15px; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1000px) {
     .wrapper {
-      max-width: -webkit-calc(960px - (15px));
-      max-width: calc(960px - (15px));
+      max-width: -webkit-calc(auto-40 - (15px));
+      max-width: calc(auto-40 - (15px));
       padding-right: 7.5px;
       padding-left: 7.5px; } }
 
@@ -367,7 +367,7 @@ cite {
   font-size: 38px;
   letter-spacing: -1px;
   line-height: 1; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1000px) {
     .post-title {
       font-size: 36px; } }
 
@@ -394,25 +394,25 @@ cite {
 .post-content h1 {
   font-size: 38px;
   line-height: 1em; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1000px) {
     .post-content h1 {
       font-size: 36px; } }
 .post-content h2 {
   font-size: 32px;
   line-height: 1em; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1000px) {
     .post-content h2 {
       font-size: 28px; } }
 .post-content h3 {
   font-size: 26px;
   line-height: 1em; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1000px) {
     .post-content h3 {
       font-size: 22px; } }
 .post-content h4 {
   font-size: 20px;
   line-height: 1em; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1000px) {
     .post-content h4 {
       font-size: 18px; } }
 
@@ -455,8 +455,8 @@ time {
  * Aboutme photo Style
  */
 .about img {
-  height: 128px;
-  width: 128px;
+  height: 90%;
+  width: 90%;
   border-radius: 20%;
   margin: 0 auto;
   display: block; }

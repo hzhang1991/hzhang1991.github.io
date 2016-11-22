@@ -23,6 +23,12 @@ layout: default
       <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>{% unless post.tags.last == tag %}, {% endunless %}
       {% endfor %}
       {% endif %}
+			{% if post.author != empty %}
+			{{ site.locales[site.default_locale].By }} 
+			{% for aut in post.author %}
+			{{ aut }}
+			{% endfor %}
+			{% endif %}
       <time itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
         {{ site.locales[site.default_locale].PostDate }}{{ post.date | date: "%b %-d, %Y" }}
 			</time>
