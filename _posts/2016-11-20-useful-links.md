@@ -52,11 +52,11 @@ Alphabetical order.
 
 ### Journals ###
 
-- [Arxiv](https://arxiv.org)
-- [Communications in Computational Physics](https://mc.manuscriptcentral.com/cicp)
-- [Journal of Computational Pysics](http://www.journals.elsevier.com/journal-of-computational-physics)
-- [Journal of Scientific Computing](https://www.editorialmanager.com/jomp/default.aspx)
-- [Transport in Porous Media](https://www.editorialmanager.com/tipm/default.aspx)
+- [Arxiv](https://arxiv.org){:target="_blank"}
+- [Communications in Computational Physics](https://mc.manuscriptcentral.com/cicp){:target="_blank"}
+- [Journal of Computational Pysics](http://www.journals.elsevier.com/journal-of-computational-physics){:target="_blank"}
+- [Journal of Scientific Computing](https://www.editorialmanager.com/jomp/default.aspx){:target="_blank"}
+- [Transport in Porous Media](https://www.editorialmanager.com/tipm/default.aspx){:target="_blank"}
 
 
 
