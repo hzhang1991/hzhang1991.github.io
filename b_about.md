@@ -36,7 +36,7 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 	Thesis Title: Study on two classes of structure-preserving methods for Hamiltonian partial differential equations. [[pdf]](https://www.researchgate.net/publication/310259257_hamierdunpianweifenfangchengdeliangleibaojiegoufangfayanjiu) 
 
 	Adviser: Professor Songhe Song
-- 2008 - 2012: B.Sc. in Department of Mathematics, ZheJiang University, P.R. China
+- 2008 - 2012: B.Sc. in Department of Mathematics, Zhejiang University, P.R. China
 
 	Thesis Title: Simulation of incompressible flow using lattice Boltzmann method on multi-threaded platform. [[pdf]](https://www.researchgate.net/publication/310261095_duoxian_chengpingtaishang_LB_fangfamo_nibuke_ya_liudong) 
 
