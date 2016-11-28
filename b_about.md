@@ -75,6 +75,7 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 #### 2016
 - **Zhang H**, Zegeling P A. A mimetic finite difference method for two-phase flow models with dynamic capillary pressure and hysteresis[J]. arXiv preprint arXiv:1604.04109, 2016. [[pdf]](https://arxiv.org/abs/1604.04109) 
 - **Zhang H**, Zegeling P A. A numerical study of two-phase flow with dynamic capillary pressure using an adaptive moving mesh method[J]. arXiv preprint arXiv:1604.04863, 2016. [[pdf]](https://arxiv.org/abs/1604.04863)
+- **Zhang H**, Zegeling P A. A moving mesh finite difference method for non-monotone solutions of non-equilibrium equations in porous media[J]. arXiv preprint arXiv:1611.08553, 2016. [[pdf](https://arxiv.org/abs/1611.08553)] 
 
 #### 2014
 - **H. Zhang**, S. H. Song, X. D. Chen, et al. Average vector field methods for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(7): 070208. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/7/070208/meta)

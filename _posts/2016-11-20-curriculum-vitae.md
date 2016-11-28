@@ -73,22 +73,22 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 ### Publications by year ###
 
 #### 2016
-- **Zhang H**, Zegeling P A. A numerical study of two-phase flow models with dynamic capillary pressure and hysteresis[J]. Transport in Prous Media, 2016, accepted. [[pdf]](https://arxiv.org/abs/1604.04109) 
-- **Zhang H**, Zegeling P A. A numerical study of two-phase flow with dynamic capillary pressure using an adaptive moving mesh method[J]. arXiv preprint arXiv:1604.04863, 2016. [[pdf]](https://arxiv.org/abs/1604.04863)
-- **Zhang H**, Zegeling P A. A moving mesh finite difference method for non-monotone solutions of non-equilibrium equations in porous media[J]. 
+- **Zhang H**, Zegeling P A. A numerical study of two-phase flow models with dynamic capillary pressure and hysteresis[J]. Transport in Prous Media, 2016, accepted. [[pdf](https://arxiv.org/abs/1604.04109){:target="_blank"}]
+- **Zhang H**, Zegeling P A. A numerical study of two-phase flow with dynamic capillary pressure using an adaptive moving mesh method[J]. arXiv preprint arXiv:1604.04863, 2016. [[pdf](https://arxiv.org/abs/1604.04863){:target="_blank"}]
+- **Zhang H**, Zegeling P A. A moving mesh finite difference method for non-monotone solutions of non-equilibrium equations in porous media[J]. arXiv preprint arXiv:1611.08553, 2016. [[pdf](https://arxiv.org/abs/1611.08553){:target="_blank"}] 
 
 #### 2014
-- **H. Zhang**, S. H. Song, X. D. Chen, et al. Average vector field methods for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(7): 070208. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/7/070208/meta)
-- **H. Zhang**, S. H. Song, W. E. Zhou, et al. Multi-symplectic method for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(8): 080204. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/8/080204/meta)
+- **H. Zhang**, S. H. Song, X. D. Chen, et al. Average vector field methods for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(7): 070208. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/7/070208/meta){:target="_blank"}
+- **H. Zhang**, S. H. Song, W. E. Zhou, et al. Multi-symplectic method for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(8): 080204. [[pdf]](http://iopscience.iop.org/article/10.1088/1674-1056/23/8/080204/meta){:target="_blank"}
 
 ---
 
 ### Conferences, summer schools and workshops  ####
 <!--
-- [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html): Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
-- [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html), 2016.10.5-2016.10.7, Stuttgart, Germany 
+- [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html){:target="_blank"}: Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
+- [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html){:target="_blank"}, 2016.10.5-2016.10.7, Stuttgart, Germany 
 - [DUNE::FEM summer school](http://www.ians.uni-stuttgart.de/institut/veranstaltungen/Tagungen/dune-fem-school-2016/), 2016.9.26-2016.9.30, Stuttgart, Germany 
-- XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/), 2016.8.1-2016.8.5, Aachen, Germany
+- XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/){:target="_blank"}, 2016.8.1-2016.8.5, Aachen, Germany
 -->
 - NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands
 - Moving mesh methods workshop, 2016.6.13-2016.6.16, Bath, UK
