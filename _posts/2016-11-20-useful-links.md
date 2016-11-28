@@ -14,19 +14,19 @@ Alphabetical order.
 
 ### Scientists ###
 
-- [Yaming Chen](https://sites.google.com/site/yamingchen14/home){:target="_blank"}Project
-- [Weinan E](https://web.math.princeton.edu/~weinan/){:target="_blank"}Project
-- [Ernst Hairer](http://www.unige.ch/~hairer/){:target="_blank"}Project
-- [Weizhang Huang](http://www.math.ku.edu/~huang/){:target="_blank"}Project
-- [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/){:target="_blank"}Project
-- [Ruo Li](http://dsec.pku.edu.cn/~rli/){:target="_blank"}Project
-- [John Mackenzie](http://www.strath.ac.uk/staff/mackenziejohndr/){:target="_blank"}Project
-- Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/){:target="_blank"}Project, [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao){:target="_blank"}Project]
+- [Yaming Chen](https://sites.google.com/site/yamingchen14/home){:target="_blank"}
+- [Weinan E](https://web.math.princeton.edu/~weinan/){:target="_blank"}
+- [Ernst Hairer](http://www.unige.ch/~hairer/){:target="_blank"}
+- [Weizhang Huang](http://www.math.ku.edu/~huang/){:target="_blank"}
+- [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/){:target="_blank"}
+- [Ruo Li](http://dsec.pku.edu.cn/~rli/){:target="_blank"}
+- [John Mackenzie](http://www.strath.ac.uk/staff/mackenziejohndr/){:target="_blank"}
+- Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/){:target="_blank"}, [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao){:target="_blank"}]
 - Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
-- [Henk van der Vorst](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"}Project
-- [Heyu Wang](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}Project
-- [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/){:target="_blank"}Project
-- [Pingwen Zhang](http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/){:target="_blank"}Project
+- [Henk van der Vorst](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"}
+- [Heyu Wang](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}
+- [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/){:target="_blank"}
+- [Pingwen Zhang](http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/){:target="_blank"}
 
 ----
 <!--more-->
@@ -64,4 +64,5 @@ Alphabetical order.
 
 - [Toeslagen, 房补][1](http://www.gogodutch.com/article-20032-1.html), [2](http://www.dutchcn.com/thread-1977-1-1.html){:target="_blank"}
 - [Travel in Europe](http://www.eueueu.com/edition2/download.html){:target="_blank"}
+- [tmux-startup](http://harttle.com/2015/11/06/tmux-startup.html){:target="_blank"}
 
