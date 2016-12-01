@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width initial-scale=1">
+
+<meta property="og:title" content="Homepage of ZHANG Hong">
+<title>Homepage of ZHANG Hong</title>
+<meta property="og:description" content="H. Zhang's Homepage.">
+<meta property="og:url" content="http://hzhang1991.github.io/.hzhang">
+<meta property="og:site_name" content="Homepage of ZHANG Hong">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@">
+<meta name="twitter:creator" content="@">
+<meta name="twitter:title" content="Homepage of ZHANG Hong">
+<meta name="twitter:description" content="H. Zhang's Homepage.">
+<meta name="twitter:url" content="http://hzhang1991.github.io/.hzhang">
+
+<meta name="keywords" content="Hong Zhang's Homepage, 张弘的主页 ">
+
+<link rel="icon" href="/images/favicon.ico">
+<link rel="stylesheet" href="/css/main.css">
+<link rel="canonical" href="http://hzhang1991.github.io/.hzhang">
+<link rel="alternate" type="application/atom+xml" title="Homepage of ZHANG Hong" href="http://hzhang1991.github.io/feed.xml" />
+
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<!-- Hit Kounter LC -->
+<script src="https://cdn1.lncld.net/static/js/av-min-1.5.0.js"></script>
+<script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.3.0.js"></script>
+
+
+<script language="Javascript" type="text/javascript">
+function search_google()
+{
+  var query = document.getElementById("google-search").value;
+  window.open("http://google.com/search?q=" + query
+      + "%20site:" + "http://hzhang1991.github.io");
+}
+</script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-70088037-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+<script type='text/javascript'>
+var blocklink = ['http://humanorightswatch.org','http://o-o-6-o-o.com','http://darodar.com','http://blackhatworth.com','http://hulfingtonpost.com','http://bestwebsitesawards.com','http://darodar.com','http://buttons-for-website.com','http://ilovevitaly.co','http://semalt.com','http://priceg.com','http://simple-share-buttons.com','http://googlsucks.com','http://4webmasters.org','http://aliexpress.com','http://addons.mozilla.org/en-US/firefox/addon/ilovevitaly/','http://free-share-buttons.com','http://buttons-for-your-website.com','http://theguardlan.com','http://buy-cheap-online.info','http://best-seo-offer.com','http://4webmasters.org','http://trafficmonetize.org','http://howtostopreferralspam.eu','http://ilovevitaly.com','http://sanjosestartups.com','http://free-social-buttons.com','http://best-seo-offer.com','http://guardlink.org','http://www.event-tracking.com','http://www3.free-social-buttons.com','http://www1.free-social-buttons.com','http://www2.free-social-buttons.com','http://websites-reviews.com','http://floating-share-buttons.com','http://satellite.maps.ilovevitaly.com','http://free-social-buttons.com','http://www.event-tracking.com','http://erot.co'];
+for (var b = blocklink.length; b--;) {
+  if (document.referrer.match(blocklink[b]))
+    window.location = "http://www.google.com";
+}
+</script>
+
+
+
+
+</head>
+
+
+<body>
+
+<div class="container">
+
+  <header class="site-header">
+
+  <div class="wrapper">
+
+    <h1 class="site-title"><a href="/">Homepage of ZHANG Hong</a></h1>
+    <h3 class="site-meta">乘风好去, 长空万里, 直下看山河</h3>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+        
+        <a class="page-link" href="/">Home</a>
+        
+        
+        
+        <a class="page-link" href="/about/">Curriculum Vitae</a>
+        
+        
+        
+        
+        
+        <a class="page-link" href="/archives/">Archives</a>
+        
+        
+        
+        <a class="page-link" href="/categories/">Categories</a>
+        
+        
+        
+        <a class="page-link" href="/tags/">Tags</a>
+        
+        
+        
+        <a class="page-link" href="/feed.xml">Subscribe</a>
+        
+        
+        
+        <a class="page-link" href="/guestbook/">Guestbook</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    
+
+  <div class="page-content col-sm-8">
+    <div class="home">
+  <div class="post" itemscope itemtype="http://schema.org/BlogPosting" >
+
+    
+
+  </div>
+</div>
+
+    <section class="pager">
+  
+  
+</section>
+
+<script src="/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+$(function(){
+  $(document).keydown(function(e) {
+    if (e.target.nodeName.toUpperCase() != 'BODY') return;
+    var url = false;
+        if (e.which == 37 || e.which == 74) {  // Left arrow and J
+        
+        }
+        else if (e.which == 39 || e.which == 75) {  // Right arrow and K
+            
+        }
+        if (url) {
+            window.location = url;
+        }
+  });
+})
+</script>
+
+
+
+  </div>
+  <div class="col-sm-2">
+<div class="sidebar-module about">
+  <h4>About Me</h4>
+  <img title="H. (Hong) Zhang" src="http://i.imgur.com/VNyDumC.jpg" alt="H. (Hong) Zhang"/>
+  <span>Hi, this is ZHANG Hong (张弘). A Ph.D candidate working in Scientific Computing in Utrecht University, the Netherlands.</span>
+  <br />
+	Read
+	<span data-hk-page="current"> - </span> times.<br />
+
+  
+
+  You can reach me via: <br />
+	<link rel="stylesheet" href="/css/academicons-1.7.0/css/academicons.min.css"/>
+
+  
+  <a href="mailto:hzhang1991@gmail.com" title="mailto: hzhang1991@gmail.com"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;
+  
+	
+  <a href="https://www.facebook.com/h.zhang1991" title="FacebookID: h.zhang1991"><i class="fa fa-facebook-square fa-3x"></i></a>&nbsp;
+  
+<!--
+  
+  <a href="https://github.com/" title="GithubID: "><i class="fa fa-github-square fa-3x"></i></a>&nbsp;
+  
+  
+  <a href="https://twitter.com/" title="TwitterID: "><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;
+  
+-->
+  
+  <a href="https://www.researchgate.net/profile/Hong_Zhang67" title="ResearchgateID: Hong_Zhang67"><i class="ai ai-researchgate-square ai-3x"></i></a>&nbsp;
+  
+	
+	<a href="https://scholar.google.com/citations?user=TrB-5asAAAAJ" title="GoogleScholarID: TrB-5asAAAAJ"><i class="ai ai-google-scholar-square ai-3x"></i></a>
+	
+  
+
+</div>
+
+<div class="sidebar-module">
+  <h4>Site Search</h4>
+  <form onsubmit="search_google()" >
+    <input type="text" id="google-search" placeholder="Google search" />
+    <input type="submit" name="sa" value="Go" />
+  </form>
+</div>
+
+
+<div class="sidebar-module"> <!-- sidebar-module-inset">-->
+  <h4>Copyright Notice</h4>
+
+  
+
+  <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+    <img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png">
+  </a>
+  <br />
+  <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution-NonCommercial-ShareAlike</a>
+
+  
+
+</div>
+
+
+<div class="sidebar-module">
+  <h4>Recent Posts</h4>
+  
+  <li>
+  <a href="/travel/2016/11/26/heuvelweg-party.html" title="Heuvelweg party" rel="bookmark">Heuvelweg party</a>
+  </li>
+  
+  <li>
+  <a href="/tutorial/2016/11/21/learn-Dutch.html" title="Learning Dutch" rel="bookmark">Learning Dutch</a>
+  </li>
+  
+  <li>
+  <a href="/note/2016/11/20/useful-links.html" title="Useful links in Scientific Computing" rel="bookmark">Useful links in Scientific Computing</a>
+  </li>
+  
+  <li>
+  <a href="/note/2016/11/20/curriculum-vitae.html" title="Curriculum Vitae" rel="bookmark">Curriculum Vitae</a>
+  </li>
+  
+  <li>
+  <a href="/travel/2016/11/19/central-museum-utrecht.html" title="Utrecht Central Museum and Nijntie Museum" rel="bookmark">Utrecht Central Museum and Nijntie Museum</a>
+  </li>
+  
+</div>
+
+
+<div class="sidebar-module">
+  <h4>Categories</h4>
+  
+  <li><a href="/categories/#note" title="note" rel="6">note (6)</a></li>
+  
+  <li><a href="/categories/#tutorial" title="tutorial" rel="2">tutorial (2)</a></li>
+  
+  <li><a href="/categories/#travel" title="travel" rel="5">travel (5)</a></li>
+  
+</div>
+
+
+<div class="sidebar-module">
+  <h4>Tags</h4>
+  
+    <a href="/tags/#马一浮" title="马一浮" rel="1">马一浮</a> &nbsp;
+  
+    <a href="/tags/#红楼梦" title="红楼梦" rel="1">红楼梦</a> &nbsp;
+  
+    <a href="/tags/#template" title="template" rel="1">template</a> &nbsp;
+  
+    <a href="/tags/#养生" title="养生" rel="1">养生</a> &nbsp;
+  
+    <a href="/tags/#firedrake" title="firedrake" rel="1">firedrake</a> &nbsp;
+  
+    <a href="/tags/#fenics" title="fenics" rel="1">fenics</a> &nbsp;
+  
+    <a href="/tags/#fem" title="fem" rel="1">fem</a> &nbsp;
+  
+    <a href="/tags/#tutorial" title="tutorial" rel="2">tutorial</a> &nbsp;
+  
+    <a href="/tags/#Zeist" title="Zeist" rel="1">Zeist</a> &nbsp;
+  
+    <a href="/tags/#行宫" title="行宫" rel="1">行宫</a> &nbsp;
+  
+    <a href="/tags/#museum" title="museum" rel="3">museum</a> &nbsp;
+  
+    <a href="/tags/#Utrecht" title="Utrecht" rel="1">Utrecht</a> &nbsp;
+  
+    <a href="/tags/#CV" title="CV" rel="1">CV</a> &nbsp;
+  
+    <a href="/tags/#links" title="links" rel="1">links</a> &nbsp;
+  
+    <a href="/tags/#Scientific Computing" title="Scientific Computing" rel="1">Scientific Computing</a> &nbsp;
+  
+    <a href="/tags/#Dutch" title="Dutch" rel="1">Dutch</a> &nbsp;
+  
+    <a href="/tags/#skiing" title="skiing" rel="1">skiing</a> &nbsp;
+  
+</div>
+
+
+<div class="sidebar-module">
+  <h4>Blogroll</h4>
+  
+  <li><a href="http://hzhang1991.github.io" title="H. (Hong) Zhang's website">H. Zhang's  website</a></li>
+  
+  <li><a href="http://www.uu.nl/staff/HZhang4" title="Homepage of Hong Zhang">H. (Hong) Zhang in Utrecht University</a></li>
+  
+  <li><a href="http://utrechtgeometrycentre.nl/calendar/" title="Math Calendar">Math Calendar, Utrecht University</a></li>
+  
+</div>
+
+
+<div class="sidebar-module">
+  <h4>Archives</h4>
+
+  
+  
+  
+  
+  
+  <li id="2016" > <a href="/archives/#2016">2016</a></li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li id="2015" > <a href="/archives/#2015">2015</a></li>
+  
+  
+
+</div>
+
+
+</div>
+
+
+
+  
+
+  <footer class="site-footer">
+
+  <p>Copyright &copy; <a href="/">Homepage of ZHANG Hong</a></p>
+  <p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a> 
+  on 
+  
+  GitHub 
+  
+  | Theme <a href="https://github.com/yulijia/freshman21/">Freshman21</a> Designed by <a href="http://yulijia.net">Lijia Yu</a>  
+
+
+  <div id="totop" style="position:fixed;bottom:150px;right:50px;cursor: pointer;">
+    <a title="Back To Top"><img src="/images/topbutton.png"/></a>
+  </div>
+
+  <script src="/js/jquery-1.9.1.min.js"></script>
+  <script src="/js/totop.js"></script>  
+
+
+</footer>
+
+</div>
+</body>
+
+</html>
