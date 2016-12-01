@@ -29,7 +29,7 @@ Alphabetical order.
 - Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/){:target="_blank"}, [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao){:target="_blank"}]
 - Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
 - [Henk van der Vorst](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"}
-- Heyu Wang [[1](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}, [2](http://www.math.zju.edu.cn/teacherintroen.asp?userid=286){:target="_blank"}, [Öªºõ](https://www.zhihu.com/people/wang_heyu/posts){:target="_blank"}]
+- Heyu Wang [[1](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}, [2](http://www.math.zju.edu.cn/teacherintroen.asp?userid=286){:target="_blank"}, [çŸ¥ä¹Ž](https://www.zhihu.com/people/wang_heyu/posts){:target="_blank"}]
 - [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/){:target="_blank"}
 - [Pingwen Zhang](http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/){:target="_blank"}
 
@@ -79,7 +79,7 @@ Alphabetical order.
 
 ### Other links ###
 
-- Toeslagen, ·¿²¹[[1](http://www.gogodutch.com/article-20032-1.html), [2](http://www.dutchcn.com/thread-1977-1-1.html){:target="_blank"}]
+- Toeslagen, æˆ¿è¡¥[[1](http://www.gogodutch.com/article-20032-1.html), [2](http://www.dutchcn.com/thread-1977-1-1.html){:target="_blank"}]
 - [Travel in Europe](http://www.eueueu.com/edition2/download.html){:target="_blank"}
 - [tmux-startup](http://harttle.com/2015/11/06/tmux-startup.html){:target="_blank"}
-- Markdown tutorial [[1](http://eherrera.net/markdowntutorial/), [2. wowubuntu.com](http://wowubuntu.com/markdown/)
+- Markdown tutorial [[1](http://eherrera.net/markdowntutorial/), [2. wowubuntu.com](http://wowubuntu.com/markdown/)]
