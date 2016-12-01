@@ -24,6 +24,7 @@ Alphabetical order.
 - [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/){:target="_blank"}
 - [Ruo Li](http://dsec.pku.edu.cn/~rli/){:target="_blank"}
 - [John Mackenzie](http://www.strath.ac.uk/staff/mackenziejohndr/){:target="_blank"}
+- [Michael Shearer](http://www4.ncsu.edu/~shearer/home0.html){:target="_blank"}
 - Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/){:target="_blank"}, [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao){:target="_blank"}]
 - Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
 - [Henk van der Vorst](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"}
@@ -37,9 +38,9 @@ Alphabetical order.
 ### Search Engines
 
 - [Google](www.gogole.com){:target="_blank"}
-- [Sci-hub](www.sci-hub.bz){:target="_blank"}
 - [LetPub](http://www.letpub.com.cn/index.php?page=journalapp){:target="_blank"}
-
+- [Library Genesis](http://gen.lib.rus.ec/){:target="_blank"}
+- [Sci-hub](www.sci-hub.bz){:target="_blank"}
 ---
 
 ### Packages ###
