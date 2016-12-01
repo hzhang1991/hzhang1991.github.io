@@ -17,14 +17,13 @@ comments: true
 [Solution](http://askubuntu.com/questions/546983/ssh-installation-errors){:target="_blank"}
 
 The problem is
-- openssh-server : Depends: openssh-client (= 1:6.6p1-2ubuntu1) but 1:6.6p1-2ubuntu2 is installed.
+* openssh-server : Depends: openssh-client (= 1:6.6p1-2ubuntu1) but 1:6.6p1-2ubuntu2 is installed.
 
-		Try running: `sudo aptitude install openssh-client=1:6.6p1-2ubuntu1`
+* Try running: `sudo aptitude install openssh-client=1:6.6p1-2ubuntu1`
 
-		This reverts to this version
+	 This reverts to this version
 
-		Then I did this: `sudo apt-get install openssh-server`
-
+* Then I did this: `sudo apt-get install openssh-server`
 		Then the ssh localhost worked!!
 
 ----
