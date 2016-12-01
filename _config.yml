@@ -18,7 +18,7 @@ googlescholar_username: TrB-5asAAAAJ
 researchgate_username: Hong_Zhang67
 disqus_shortname: hzhang1991-github-io
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is ZHANG Hong (张弘). A Ph.D candidate working in Scientific Computing in Utrecht University, the Netherlands. # these are shown on aboutme-sidebar.
+aboutme: Hi, this is ZHANG Hong (张弘), a Ph.D student working in Scientific Computing in Utrecht University, the Netherlands. # these are shown on aboutme-sidebar.
 aboutme_photo: http://i.imgur.com/VNyDumC.jpg #"/images/hzhang.jpg1"#https://i.imgur.com/Mdc4szJl.jpg# your photo.
 google_analytics_key: UA-70088037-2 #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
