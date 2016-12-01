@@ -79,7 +79,7 @@ Alphabetical order.
 
 ### Other links ###
 
-- Toeslagen, æˆ¿è¡¥[[1](http://www.gogodutch.com/article-20032-1.html), [2](http://www.dutchcn.com/thread-1977-1-1.html){:target="_blank"}]
+- Toeslagen, ·¿²¹[[1](http://www.gogodutch.com/article-20032-1.html), [2](http://www.dutchcn.com/thread-1977-1-1.html){:target="_blank"}]
 - [Travel in Europe](http://www.eueueu.com/edition2/download.html){:target="_blank"}
 - [tmux-startup](http://harttle.com/2015/11/06/tmux-startup.html){:target="_blank"}
 - Markdown tutorial [[1](http://eherrera.net/markdowntutorial/), [2. wowubuntu.com](http://wowubuntu.com/markdown/)
