@@ -18,9 +18,13 @@ comments: true
 
 The problem is
 - openssh-server : Depends: openssh-client (= 1:6.6p1-2ubuntu1) but 1:6.6p1-2ubuntu2 is installed.
+
 	Try running: `sudo aptitude install openssh-client=1:6.6p1-2ubuntu1`
+
 	This reverts to this version
+
 	Then I did this: `sudo apt-get install openssh-server`
+
 	Then the ssh localhost worked!!
 
 ----
