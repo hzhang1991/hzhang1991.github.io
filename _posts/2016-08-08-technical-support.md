@@ -49,14 +49,13 @@ Simplified Chinese National Standard; GB2312     Surrounded by/intermixed with n
 ```
 enca -L 当前语言 -x 目标编码 文件名  　　
 ```
-
-> 1. 例如要把当前目录下的所有文件都转成utf-8  　　
+4. 例如要把当前目录下的所有文件都转成utf-8  　　
 
 ```
 enca -L zh_CN -x utf-8 *     
 ```
-2. 检查文件的编码:　`enca -L zh_CN file`
-3. 将文件编码转换为"UTF-8"编码　`enca -L zh_CN -x UTF-8 file`, 如果不想覆盖原文件可以这样 `enca -L zh_CN -x UTF-8 < file1 > file2`
+5. 检查文件的编码:　`enca -L zh_CN file`
+6. 将文件编码转换为"UTF-8"编码　`enca -L zh_CN -x UTF-8 file`, 如果不想覆盖原文件可以这样 `enca -L zh_CN -x UTF-8 < file1 > file2`
 
 <!--more-->
 
