@@ -17,6 +17,7 @@ comments: true
 > [Solution](http://askubuntu.com/questions/546983/ssh-installation-errors){:target="_blank"}
 
 The problem is
+
 > openssh-server : Depends: openssh-client (= 1:6.6p1-2ubuntu1) but 1:6.6p1-2ubuntu2 is installed.
 
 1. Try running: `sudo aptitude install openssh-client=1:6.6p1-2ubuntu1`, this reverts to this version.
@@ -40,19 +41,22 @@ The problem is
 1. `sudo apt-get install enca`
 2. 查看当前文件编码  　　
 ```
-enca -L zh_CN ip.txt     Simplified Chinese National Standard; GB2312     Surrounded by/intermixed with non-text data  　　
+enca -L zh_CN ip.txt
+Simplified Chinese National Standard; GB2312     Surrounded by/intermixed with non-text data  　　
 ```
 3. 转换命令格式如下  　　
+
 ```
 enca -L 当前语言 -x 目标编码 文件名  　　
 ```
+
 > 1. 例如要把当前目录下的所有文件都转成utf-8  　　
-> 
+
 ```
 enca -L zh_CN -x utf-8 *     
 ```
 2. 检查文件的编码:　`enca -L zh_CN file`
-3. 将文件编码转换为"UTF-8"编码　`enca -L zh_CN -x UTF-8 file`, 如果不想覆盖原文件可以这样         enca -L zh_CN -x UTF-8 < file1 > file2 
+3. 将文件编码转换为"UTF-8"编码　`enca -L zh_CN -x UTF-8 file`, 如果不想覆盖原文件可以这样 `enca -L zh_CN -x UTF-8 < file1 > file2`
 
 <!--more-->
 
