@@ -58,7 +58,8 @@ Alphabetical order.
 - E. Hairer: [Software](http://www.unige.ch/~hairer/software.html){:target="_blank"} for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations
 - [FEniCS](https://fenicsproject.org/){:target="_blank"}
 - Automated system for the portable solutions of PDEs using FEM: [Firedrake](http://www.firedrakeproject.org/){:target="_blank"}
-
+- Weizhang Huang, R D Russell: 1D Moving Collocation Method (fortran77) [MOVCOL](http://www.math.ku.edu/~huang/research/movcol/movcol.html){:target="_blank"}
+-
 ---
 
 

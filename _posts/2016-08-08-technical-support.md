@@ -45,7 +45,6 @@ enca -L zh_CN ip.txt
 Simplified Chinese National Standard; GB2312     Surrounded by/intermixed with non-text data  　　
 ```
 3. 转换命令格式如下  　　
-
 ```
 enca -L 当前语言 -x 目标编码 文件名  　　
 ```
