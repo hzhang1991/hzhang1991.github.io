@@ -14,7 +14,7 @@ Alphabetical order.
 
 ### Scientists ###
 
-- [Gang Bao](
+- [Gang Bao](http://www.math.zju.edu.cn/teacherintroen.asp?userid=292){:target="_blank"}
 - [Weizhu Bao](http://www.math.nus.edu.sg/~bao/){:target="_blank"}
 - [Yaming Chen](https://sites.google.com/site/yamingchen14/home){:target="_blank"}
 - [Weinan E](https://web.math.princeton.edu/~weinan/){:target="_blank"}
@@ -29,7 +29,7 @@ Alphabetical order.
 - Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/){:target="_blank"}, [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao){:target="_blank"}]
 - Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
 - [Henk van der Vorst](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"}
-- Heyu Wang [[1](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}, [2](http://www.math.zju.edu.cn/teacherintroen.asp?userid=286){:target="_blank"}, [֪��](https://www.zhihu.com/people/wang_heyu/posts){:target="_blank"}]
+- Heyu Wang [[1](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}, [2](http://www.math.zju.edu.cn/teacherintroen.asp?userid=286){:target="_blank"}, [知乎](https://www.zhihu.com/people/wang_heyu/posts){:target="_blank"}]
 - [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/){:target="_blank"}
 - [Pingwen Zhang](http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/){:target="_blank"}
 
@@ -58,7 +58,8 @@ Alphabetical order.
 - E. Hairer: [Software](http://www.unige.ch/~hairer/software.html){:target="_blank"} for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations
 - [FEniCS](https://fenicsproject.org/){:target="_blank"}
 - Automated system for the portable solutions of PDEs using FEM: [Firedrake](http://www.firedrakeproject.org/){:target="_blank"}
-
+- Weizhang Huang, R D Russell: 1D Moving Collocation Method (fortran77) [MOVCOL](http://www.math.ku.edu/~huang/research/movcol/movcol.html){:target="_blank"}
+-
 ---
 
 
@@ -82,4 +83,4 @@ Alphabetical order.
 - Toeslagen, 房补[[1](http://www.gogodutch.com/article-20032-1.html), [2](http://www.dutchcn.com/thread-1977-1-1.html){:target="_blank"}]
 - [Travel in Europe](http://www.eueueu.com/edition2/download.html){:target="_blank"}
 - [tmux-startup](http://harttle.com/2015/11/06/tmux-startup.html){:target="_blank"}
-- Markdown tutorial [[1](http://eherrera.net/markdowntutorial/), [2. wowubuntu.com](http://wowubuntu.com/markdown/)
+- Markdown tutorial [[1](http://eherrera.net/markdowntutorial/), [2. wowubuntu.com](http://wowubuntu.com/markdown/)]
