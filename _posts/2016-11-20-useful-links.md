@@ -64,7 +64,7 @@ Alphabetical order.
 
 ### Tutorials ###
 - [A Simple Makefile Tutorial](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/){:target="_blank"}
-
+- [Practical Programming books](https://github.com/EZLippi/practical-programming-books){:target="_blank"}
 ----
 
 ### Journals ###
