@@ -26,6 +26,7 @@ Alphabetical order.
 - [John Mackenzie](http://www.strath.ac.uk/staff/mackenziejohndr/){:target="_blank"}
 - [Xinbo Qi](http://qixinbo.info/){:target="_blank"}
 - [Michael Shearer](http://www4.ncsu.edu/~shearer/home0.html){:target="_blank"}
+- [Mike Sussman](http://www.math.pitt.edu/~sussmanm/){:target="_blank"}
 - Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/){:target="_blank"}, [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao){:target="_blank"}]
 - Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
 - [Henk van der Vorst](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"}
@@ -59,6 +60,7 @@ Alphabetical order.
 - [FEniCS](https://fenicsproject.org/){:target="_blank"}
 - Automated system for the portable solutions of PDEs using FEM: [Firedrake](http://www.firedrakeproject.org/){:target="_blank"}
 - Weizhang Huang, R D Russell: 1D Moving Collocation Method (fortran77) [MOVCOL](http://www.math.ku.edu/~huang/research/movcol/movcol.html){:target="_blank"}
+- [Gryphon](https://bitbucket.org/knutesk/gryphonproject){:target="_blank"},  a module for time integration within FEniCS
 -
 ---
 
@@ -66,6 +68,10 @@ Alphabetical order.
 ### Tutorials ###
 - [A Simple Makefile Tutorial](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/){:target="_blank"}
 - [Practical Programming books](https://github.com/EZLippi/practical-programming-books){:target="_blank"}
+- [Course and workshops (Python, Matlab, FeniCS, FreeFem++) in Scientific Computing organized by Mike Sussman](http://www.math.pitt.edu/~sussmanm/){:target="_blank"}
+- [Fenics tutorial by Jaroslav Hron](http://www.karlin.mff.cuni.cz/~hron/fenics-tutorial/){:target="_blank"}
+- [Fenics tutorial by tum, mathematical modeling and numerical simulation in porous media](http://www-m2.ma.tum.de/bin/view/Allgemeines/MA5332SS14){:target="_blank"}
+- [Hands-on Python Tutorial by Dr. Andrew N Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html#){:target="_blank"}
 ----
 
 ### Journals ###

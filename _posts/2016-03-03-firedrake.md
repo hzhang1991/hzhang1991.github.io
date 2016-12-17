@@ -17,6 +17,7 @@ Website: [Firedrake](http://www.firedrakeproject.org/)
 - create environment: `conda create --name fenics27 python=2`
 - Activate FEnics27: `source activate fenics27`
 - Deactivate: `source deactivate` or `exit`
+- Demo: `anaconda3/envs/fenics27/share/dolfin/demo/`
 
 ### Obtaining Firedrake ###
 
