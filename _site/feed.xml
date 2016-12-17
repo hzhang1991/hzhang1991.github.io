@@ -3,67 +3,11 @@
   <channel>
     <title>Homepage of ZHANG Hong</title>
     <description>H. Zhang's Homepage.</description>
-<<<<<<< HEAD
-    <link>http://hzhang1991.github.io/</link>
-    <atom:link href="http://hzhang1991.github.io/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2016-11-27 21:25:15 +0100</pubDate>
-    <lastBuildDate>2016-11-27 21:25:15 +0100</lastBuildDate>
-    <generator>Jekyll v</generator>
-    
-      <item>
-        <title>Heuvelweg party</title>
-        <description>&lt;hr /&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Route: Utrecht central –&amp;gt; Amsterdam Centraal –&amp;gt; Sloterdijk –&amp;gt; Velsen Zuid, Skiheuvel &lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;To Zaansse Schans: 
-桑斯安斯座落的区域属于Zaandam、Koog aan de Zaan、Zaandijk三地合成的Zaanstad市，这块环抱着赞河(Zaan River)的区域，是通过伐木业和造船业发展起来的。桑斯安斯风车村(Zaanse Schans Windmill)是荷兰阿姆斯特丹附近的一座欧洲工业化遗迹博物馆。博物馆展览有从荷兰各地搬迁来的各式风车30多座。另外，也拥有博物馆展示和当年这些风车相关的物品。如今，这里成为了观光客了解荷兰的旅行胜地。手工艺术品作坊、木鞋工厂、奶酪作坊、博物馆、工艺品店等构成了荷兰最具特色的乡村风情。风车村是荷兰著名的旅游地，每年吸引大量游客参观。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;!--more--&gt;
-
-&lt;!--嵌入 video 
-&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XMTY1MTI3NjMyNA==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;embed src=&quot;http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; allowFullScreen=&quot;true&quot; mode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;
-
-&lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;
-&lt;source src=&quot;movie.mp4&quot;&gt;
-&lt;/video&gt;
---&gt;
-
-&lt;!-- insert audio
-&lt;audio src=&quot;http://sc.111ttt.com/up/mp3/314720/8F9F3E8438FE1581248E92B54A3C0AB5.mp3&quot; controls=&quot;controls&quot;&gt;
-&lt;/audio&gt;
---&gt;
-
-&lt;!-- Insert pdf 
-&lt;iframe src=&quot;/pdf/mou.pdf&quot; style=&quot;width:300px; height:100px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
---&gt;
-
-&lt;!-- insert pdf doc use google view
-&lt;iframe src=&quot;http://docs.google.com/gview?url=http://platinhom.github.io/pdf/mou.pdf&amp;embedded=true&quot; style=&quot;width:800px; height:1000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
---&gt;
-</description>
-        <pubDate>2016-11-26 00:00:00 +0100</pubDate>
-        <link>http://hzhang1991.github.io/travel/2016/11/26/heuvelweg-party.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/travel/2016/11/26/heuvelweg-party.html</guid>
-        
-        <category>skiing</category>
-        
-        
-        <category>travel</category>
-        
-      </item>
-=======
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 09:12:03 +0100</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 09:12:03 +0100</lastBuildDate>
+    <pubDate>Sat, 17 Dec 2016 10:00:23 +0100</pubDate>
+    <lastBuildDate>Sat, 17 Dec 2016 10:00:23 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
->>>>>>> 9853b650827d88c28d35fa4eaf0cdabd2aaa6889
     
       <item>
         <title>Heuvelweg party</title>
@@ -73,8 +17,11 @@
 &lt;p&gt;Route: Utrecht central –&amp;gt; Amsterdam Centraal –&amp;gt; Sloterdijk –&amp;gt; Velsen Zuid, Skiheuvel&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;To Zaansse Schans: 
-桑斯安斯座落的区域属于Zaandam、Koog aan de Zaan、Zaandijk三地合成的Zaanstad市，这块环抱着赞河(Zaan River)的区域，是通过伐木业和造船业发展起来的。桑斯安斯风车村(Zaanse Schans Windmill)是荷兰阿姆斯特丹附近的一座欧洲工业化遗迹博物馆。博物馆展览有从荷兰各地搬迁来的各式风车30多座。另外，也拥有博物馆展示和当年这些风车相关的物品。如今，这里成为了观光客了解荷兰的旅行胜地。手工艺术品作坊、木鞋工厂、奶酪作坊、博物馆、工艺品店等构成了荷兰最具特色的乡村风情。风车村是荷兰著名的旅游地，每年吸引大量游客参观。&lt;/li&gt;
+  &lt;li&gt;To Zaansse Schans:
+    &lt;blockquote&gt;
+      &lt;p&gt;桑斯安斯座落的区域属于Zaandam、Koog aan de Zaan、Zaandijk三地合成的Zaanstad市，这块环抱着赞河(Zaan River)的区域，是通过伐木业和造船业发展起来的。桑斯安斯风车村(Zaanse Schans Windmill)是荷兰阿姆斯特丹附近的一座欧洲工业化遗迹博物馆。博物馆展览有从荷兰各地搬迁来的各式风车30多座。另外，也拥有博物馆展示和当年这些风车相关的物品。如今，这里成为了观光客了解荷兰的旅行胜地。手工艺术品作坊、木鞋工厂、奶酪作坊、博物馆、工艺品店等构成了荷兰最具特色的乡村风情。风车村是荷兰著名的旅游地，每年吸引大量游客参观。&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;!--more--&gt;
@@ -130,18 +77,18 @@
 
 &lt;h3 id=&quot;homework-20161114&quot;&gt;Homework 2016.11.14&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Oefening 16 –&amp;gt; tell the time in both ways (the digital way and the normal way) and if possible both in the morning and in the afternoon or at night or in the evening. &lt;/li&gt;
+  &lt;li&gt;Oefening 16 –&amp;gt; tell the time in both ways (the digital way and the normal way) and if possible both in the morning and in the afternoon or at night or in the evening.&lt;/li&gt;
   &lt;li&gt;Oefening 17&lt;/li&gt;
-  &lt;li&gt;Oefening 30–&amp;gt; this we will repeat in class, learn the meanings of the words before the class! &lt;/li&gt;
+  &lt;li&gt;Oefening 30–&amp;gt; this we will repeat in class, learn the meanings of the words before the class!&lt;/li&gt;
   &lt;li&gt;Oefening 31&lt;/li&gt;
   &lt;li&gt;Oefening 32&lt;/li&gt;
   &lt;li&gt;Woordenlijst Thema 3: learn and repeat the words on page 92 (write them 5 times in your notebook)&lt;/li&gt;
-  &lt;li&gt;Make one sentence for each word! do the same for Woordenlijst Thema 2 op pagina 60. Send your sentences to me by e-mail!!! &lt;/li&gt;
+  &lt;li&gt;Make one sentence for each word! do the same for Woordenlijst Thema 2 op pagina 60. Send your sentences to me by e-mail!!!&lt;/li&gt;
   &lt;li&gt;Make a small research about Bokbierfestival in Utrecht.&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Oefening 33 &lt;/p&gt;
+    &lt;p&gt;Oefening 33&lt;/p&gt;
 
-    &lt;p&gt;IMPORTANT: Read page 84, 85 and 86 before the class!!! Write down your questions for the class. We will discuss about them. &lt;/p&gt;
+    &lt;p&gt;IMPORTANT: Read page 84, 85 and 86 before the class!!! Write down your questions for the class. We will discuss about them.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Pagina 97: learn the meanings of the words on page 97! write the plural forms (check the dictionary for the ones you don’t know how to make plural!)&lt;/p&gt;
@@ -155,9 +102,9 @@
 &lt;!-- &lt;center&gt;&lt;embed src=&quot;http://gohom.win/HomPDF/mou.pdf&quot; width=&quot;850&quot; height=&quot;600&quot;&gt;&lt;/center&gt;
 --&gt;
 </description>
-        <pubDate>2016-11-21 00:00:00 +0100</pubDate>
-        <link>http://hzhang1991.github.io/tutorial/2016/11/21/learn-Dutch.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/tutorial/2016/11/21/learn-Dutch.html</guid>
+        <pubDate>Mon, 21 Nov 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/tutorial/2016/11/21/learn-Dutch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tutorial/2016/11/21/learn-Dutch.html</guid>
         
         <category>Dutch</category>
         
@@ -169,7 +116,7 @@
       </item>
     
       <item>
-        <title>Useful links in Scientific Computing</title>
+        <title>Useful links</title>
         <description>&lt;p&gt;Alphabetical order.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -177,19 +124,25 @@
 &lt;h3 id=&quot;scientists&quot;&gt;Scientists&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/yamingchen14/home&quot; target=&quot;_blank&quot;&gt;Yaming Chen&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web.math.princeton.edu/~weinan/&quot; target=&quot;_blank&quot;&gt;Weinan E&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.unige.ch/~hairer/&quot; target=&quot;_blank&quot;&gt;Ernst Hairer&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.math.ku.edu/~huang/&quot; target=&quot;_blank&quot;&gt;Weizhang Huang&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/xlhu/&quot; target=&quot;_blank&quot;&gt;Xianliang Hu&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/&quot; target=&quot;_blank&quot;&gt;Ruo Li&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.strath.ac.uk/staff/mackenziejohndr/&quot; target=&quot;_blank&quot;&gt;John Mackenzie&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;Tao Tang [&lt;a href=&quot;http://www.math.hkbu.edu.hk/~ttang/&quot; target=&quot;_blank&quot;&gt;hkbu&lt;/a&gt;Project, &lt;a href=&quot;http://sustc.edu.cn/faculty_all/f/Tang%20Tao&quot; target=&quot;_blank&quot;&gt;sustc&lt;/a&gt;Project]&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/teacherintroen.asp?userid=292&quot; target=&quot;_blank&quot;&gt;Gang Bao&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.nus.edu.sg/~bao/&quot; target=&quot;_blank&quot;&gt;Weizhu Bao&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/yamingchen14/home&quot; target=&quot;_blank&quot;&gt;Yaming Chen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.math.princeton.edu/~weinan/&quot; target=&quot;_blank&quot;&gt;Weinan E&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~frank011/&quot; target=&quot;_blank&quot;&gt;Jason Frank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.unige.ch/~hairer/&quot; target=&quot;_blank&quot;&gt;Ernst Hairer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.ku.edu/~huang/&quot; target=&quot;_blank&quot;&gt;Weizhang Huang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/xlhu/&quot; target=&quot;_blank&quot;&gt;Xianliang Hu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/&quot; target=&quot;_blank&quot;&gt;Ruo Li&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.strath.ac.uk/staff/mackenziejohndr/&quot; target=&quot;_blank&quot;&gt;John Mackenzie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qixinbo.info/&quot; target=&quot;_blank&quot;&gt;Xinbo Qi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www4.ncsu.edu/~shearer/home0.html&quot; target=&quot;_blank&quot;&gt;Michael Shearer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.pitt.edu/~sussmanm/&quot; target=&quot;_blank&quot;&gt;Mike Sussman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tao Tang [&lt;a href=&quot;http://www.math.hkbu.edu.hk/~ttang/&quot; target=&quot;_blank&quot;&gt;hkbu&lt;/a&gt;, &lt;a href=&quot;http://sustc.edu.cn/faculty_all/f/Tang%20Tao&quot; target=&quot;_blank&quot;&gt;sustc&lt;/a&gt;]&lt;/li&gt;
   &lt;li&gt;Arthur van Dam [ &lt;a href=&quot;arthurvd.blogspot.nl&quot;&gt;research&lt;/a&gt;, &lt;a href=&quot;www.eye-home.net&quot;&gt;personal&lt;/a&gt;, &lt;a href=&quot;http://arthur.van-dam.net/twiki/bin/view/Arthur&quot;&gt;former research homepage&lt;/a&gt;]&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~vorst102/&quot; target=&quot;_blank&quot;&gt;Henk van der Vorst&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://person.zju.edu.cn/en/wangheyu&quot; target=&quot;_blank&quot;&gt;Heyu Wang&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~zegel101/&quot; target=&quot;_blank&quot;&gt;Paul A. Zegeling&lt;/a&gt;Project&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/&quot; target=&quot;_blank&quot;&gt;Pingwen Zhang&lt;/a&gt;Project&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~vorst102/&quot; target=&quot;_blank&quot;&gt;Henk van der Vorst&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Heyu Wang [&lt;a href=&quot;http://person.zju.edu.cn/en/wangheyu&quot; target=&quot;_blank&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://www.math.zju.edu.cn/teacherintroen.asp?userid=286&quot; target=&quot;_blank&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;https://www.zhihu.com/people/wang_heyu/posts&quot; target=&quot;_blank&quot;&gt;知乎&lt;/a&gt;]&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~zegel101/&quot; target=&quot;_blank&quot;&gt;Paul A. Zegeling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/&quot; target=&quot;_blank&quot;&gt;Pingwen Zhang&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -199,24 +152,47 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;www.gogole.com&quot; target=&quot;_blank&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;www.sci-hub.bz&quot; target=&quot;_blank&quot;&gt;Sci-hub&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.letpub.com.cn/index.php?page=journalapp&quot; target=&quot;_blank&quot;&gt;LetPub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gen.lib.rus.ec/&quot; target=&quot;_blank&quot;&gt;Library Genesis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;sci-hubwwwsci-hubbztargetblank&quot;&gt;&lt;a href=&quot;www.sci-hub.bz&quot; target=&quot;_blank&quot;&gt;Sci-hub&lt;/a&gt;&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;wiki&quot;&gt;Wiki&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mathworld.wolfram.com/PartialDifferentialEquation.html&quot; target=&quot;_blank&quot;&gt;Wolfram Mathworld&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;packages&quot;&gt;Packages&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/software.php&quot; target=&quot;_blank&quot;&gt;AFEPack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/software.php&quot; target=&quot;_blank&quot;&gt;Ruo Li: AFEPack&lt;/a&gt;, &lt;a href=&quot;http://qixinbo.info/2016/03/11/afepack-tutorials/&quot; target=&quot;_blank&quot;&gt;Xinbo Qi: tutorial&lt;/a&gt; &lt;a href=&quot;https://zhuanlan.zhihu.com/p/21385662&quot; target=&quot;_blank&quot;&gt;Heyu Wang: Installation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Open data science platform powered by Python: &lt;a href=&quot;https://www.continuum.io/downloads&quot; target=&quot;_blank&quot;&gt;anaconda&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://dune-project.org/&quot; target=&quot;_blank&quot;&gt;DUNE Numerics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dealii.org/&quot; target=&quot;_blank&quot;&gt;DEAL.II&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;E. Hairer: &lt;a href=&quot;http://www.unige.ch/~hairer/software.html&quot; target=&quot;_blank&quot;&gt;Software&lt;/a&gt; for nonstiff, stiff, differential-algebraic, Hamiltonian, and delay equations&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://fenicsproject.org/&quot; target=&quot;_blank&quot;&gt;FEniCS&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Automated system for the portable solutions of PDEs using FEM: &lt;a href=&quot;http://www.firedrakeproject.org/&quot; target=&quot;_blank&quot;&gt;Firedrake&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Weizhang Huang, R D Russell: 1D Moving Collocation Method (fortran77) &lt;a href=&quot;http://www.math.ku.edu/~huang/research/movcol/movcol.html&quot; target=&quot;_blank&quot;&gt;MOVCOL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;gryphonhttpsbitbucketorgknuteskgryphonprojecttargetblank--a-module-for-time-integration-within-fenics&quot;&gt;&lt;a href=&quot;https://bitbucket.org/knutesk/gryphonproject&quot; target=&quot;_blank&quot;&gt;Gryphon&lt;/a&gt;,  a module for time integration within FEniCS&lt;/h2&gt;
+    &lt;hr /&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;h3 id=&quot;tutorials&quot;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/&quot; target=&quot;_blank&quot;&gt;A Simple Makefile Tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/EZLippi/practical-programming-books&quot; target=&quot;_blank&quot;&gt;Practical Programming books&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.pitt.edu/~sussmanm/&quot; target=&quot;_blank&quot;&gt;Course and workshops (Python, Matlab, FeniCS, FreeFem++) in Scientific Computing organized by Mike Sussman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.karlin.mff.cuni.cz/~hron/fenics-tutorial/&quot; target=&quot;_blank&quot;&gt;Fenics tutorial by Jaroslav Hron&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www-m2.ma.tum.de/bin/view/Allgemeines/MA5332SS14&quot; target=&quot;_blank&quot;&gt;Fenics tutorial by tum, mathematical modeling and numerical simulation in porous media&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;hands-on-python-tutorial-by-dr-andrew-n-harringtonhttpanhcslucedupythonhands-on31handsonhtmlindexhtmltargetblank&quot;&gt;&lt;a href=&quot;http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html#&quot; target=&quot;_blank&quot;&gt;Hands-on Python Tutorial by Dr. Andrew N Harrington&lt;/a&gt;&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;journals&quot;&gt;Journals&lt;/h3&gt;
 
@@ -226,8 +202,6 @@
   &lt;li&gt;&lt;a href=&quot;http://www.journals.elsevier.com/journal-of-computational-physics&quot; target=&quot;_blank&quot;&gt;Journal of Computational Pysics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.editorialmanager.com/jomp/default.aspx&quot; target=&quot;_blank&quot;&gt;Journal of Scientific Computing&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.editorialmanager.com/tipm/default.aspx&quot; target=&quot;_blank&quot;&gt;Transport in Porous Media&lt;/a&gt;&lt;/li&gt;
-<<<<<<< HEAD
-=======
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -235,161 +209,19 @@
 &lt;h3 id=&quot;other-links&quot;&gt;Other links&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[Toeslagen, 房补]&lt;a href=&quot;http://www.gogodutch.com/article-20032-1.html&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://www.dutchcn.com/thread-1977-1-1.html&quot; target=&quot;_blank&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Toeslagen, 房补[&lt;a href=&quot;http://www.gogodutch.com/article-20032-1.html&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://www.dutchcn.com/thread-1977-1-1.html&quot; target=&quot;_blank&quot;&gt;2&lt;/a&gt;]&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.eueueu.com/edition2/download.html&quot; target=&quot;_blank&quot;&gt;Travel in Europe&lt;/a&gt;&lt;/li&gt;
->>>>>>> 9853b650827d88c28d35fa4eaf0cdabd2aaa6889
+  &lt;li&gt;&lt;a href=&quot;http://harttle.com/2015/11/06/tmux-startup.html&quot; target=&quot;_blank&quot;&gt;tmux-startup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Markdown tutorial [&lt;a href=&quot;http://eherrera.net/markdowntutorial/&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://wowubuntu.com/markdown/&quot;&gt;2. wowubuntu.com&lt;/a&gt;]&lt;/li&gt;
 &lt;/ul&gt;
-
 </description>
-        <pubDate>2016-11-20 00:00:00 +0100</pubDate>
-        <link>http://hzhang1991.github.io/note/2016/11/20/useful-links.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/note/2016/11/20/useful-links.html</guid>
+        <pubDate>Sun, 20 Nov 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/note/2016/11/20/useful-links.html</link>
+        <guid isPermaLink="true">http://localhost:4000/note/2016/11/20/useful-links.html</guid>
         
         <category>links</category>
         
         <category>Scientific Computing</category>
-        
-        
-        <category>note</category>
-        
-      </item>
-    
-      <item>
-        <title>Curriculum Vitae</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#personal-data&quot;&gt;Personal Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#educational-and-academic-data&quot;&gt;Educational and Academic Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#skills&quot;&gt;Skills&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#awards&quot;&gt;Awards&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#research-interests&quot;&gt;Research Interests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#publications-by-year&quot;&gt;Publications by year&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#section&quot;&gt;2016&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#section-1&quot;&gt;2014&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#conferences-summer-schools-and-workshops&quot;&gt;Conferences, summer schools and workshops&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;personal-data&quot;&gt;Personal Data&lt;/h3&gt;
-&lt;p&gt;Name:	H. (Hong) Zhang&lt;/p&gt;
-
-&lt;p&gt;Email:	hzhang1991 AT gmail DOT com&lt;/p&gt;
-
-&lt;p&gt;Dept.:	Mathematical Institute, Utrecht University&lt;/p&gt;
-
-&lt;p&gt;Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;educational-and-academic-data&quot;&gt;Educational and Academic Data&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;2015 - Present: Ph.D candidate in Mathematical Institute, Utrecht University, the Netherlands&lt;/p&gt;
-
-    &lt;p&gt;Thesis Title: Computational of non-monotone wave and fingers in two-phase flow. &lt;/p&gt;
-
-    &lt;p&gt;Adviser: Professor &lt;a href=&quot;https://www.staff.science.uu.nl/~zegel101/&quot;&gt;Paul A. Zegeling&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;2012 - 2014: M.Sc. in Department of Mathematics and System Science, NUDT, P.R. China &lt;/p&gt;
-
-    &lt;p&gt;Thesis Title: Study on two classes of structure-preserving methods for Hamiltonian partial differential equations. &lt;a href=&quot;https://www.researchgate.net/publication/310259257_hamierdunpianweifenfangchengdeliangleibaojiegoufangfayanjiu&quot;&gt;[pdf]&lt;/a&gt; &lt;/p&gt;
-
-    &lt;p&gt;Adviser: Professor Songhe Song&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;2008 - 2012: B.Sc. in Department of Mathematics, Zhejiang University, P.R. China&lt;/p&gt;
-
-    &lt;p&gt;Thesis Title: Simulation of incompressible flow using lattice Boltzmann method on multi-threaded platform. &lt;a href=&quot;https://www.researchgate.net/publication/310261095_duoxian_chengpingtaishang_LB_fangfamo_nibuke_ya_liudong&quot;&gt;[pdf]&lt;/a&gt; &lt;/p&gt;
-
-    &lt;p&gt;Adviser: Professor &lt;a href=&quot;http://www.math.zju.edu.cn/xlhu/&quot;&gt;Xianliang Hu&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;skills&quot;&gt;Skills&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Spoken languages: Chinese, English&lt;/li&gt;
-  &lt;li&gt;Computer languages: LaTex, C/C++, Matlab, Fortran, Shell Script, &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;awards&quot;&gt;Awards&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Excellent M.Sc Dissertation of NUDT, 2014&lt;/li&gt;
-  &lt;li&gt;TOP 100 B.Sc Dissertation of Zhejiang University, 2012&lt;/li&gt;
-  &lt;li&gt;Excellent Graduate Student of Zhejiang University, 2012&lt;/li&gt;
-  &lt;li&gt;Scholarship for Outstanding Merits, Zhejiang University, 2009, 2010, 2011&lt;/li&gt;
-  &lt;li&gt;Scholarship for Outstanding Students, Zhejiang University, 2009, 2010, 2011&lt;/li&gt;
-  &lt;li&gt;Prize of the National Talents Training Base, Zhejiang University, 2010&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Computational of non-monotone waves and fingers in two-phase flow&lt;/li&gt;
-  &lt;li&gt;Geometric numerical integration&lt;/li&gt;
-  &lt;li&gt;Moving mesh methods&lt;/li&gt;
-  &lt;li&gt;Computational fluid dynamics&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;publications-by-year&quot;&gt;Publications by year&lt;/h3&gt;
-
-&lt;h4 id=&quot;section&quot;&gt;2016&lt;/h4&gt;
-&lt;ul&gt;
-<<<<<<< HEAD
-  &lt;li&gt;&lt;strong&gt;Zhang H&lt;/strong&gt;, Zegeling P A. A numerical study of two-phase flow models with dynamic capillary pressure and hysteresis[J]. Transport in Prous Media, 2016, accepted. &lt;a href=&quot;https://arxiv.org/abs/1604.04109&quot;&gt;[pdf]&lt;/a&gt; &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Zhang H&lt;/strong&gt;, Zegeling P A. A numerical study of two-phase flow with dynamic capillary pressure using an adaptive moving mesh method[J]. arXiv preprint arXiv:1604.04863, 2016. &lt;a href=&quot;https://arxiv.org/abs/1604.04863&quot;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Zhang H&lt;/strong&gt;, Zegeling P A. A moving mesh finite difference method for non-monotone solutions of non-equilibrium equations in porous media[J]. &lt;/li&gt;
-=======
-  &lt;li&gt;&lt;strong&gt;Zhang H&lt;/strong&gt;, Zegeling P A. A numerical study of two-phase flow models with dynamic capillary pressure and hysteresis[J]. Transport in Prous Media, 2016, accepted. [&lt;a href=&quot;https://arxiv.org/abs/1604.04109&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;]&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Zhang H&lt;/strong&gt;, Zegeling P A. A numerical study of two-phase flow with dynamic capillary pressure using an adaptive moving mesh method[J]. arXiv preprint arXiv:1604.04863, 2016. [&lt;a href=&quot;https://arxiv.org/abs/1604.04863&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;]&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Zhang H&lt;/strong&gt;, Zegeling P A. A moving mesh finite difference method for non-monotone solutions of non-equilibrium equations in porous media[J]. arXiv preprint arXiv:1611.08553, 2016. [&lt;a href=&quot;https://arxiv.org/abs/1611.08553&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;]&lt;/li&gt;
->>>>>>> 9853b650827d88c28d35fa4eaf0cdabd2aaa6889
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;section-1&quot;&gt;2014&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;H. Zhang&lt;/strong&gt;, S. H. Song, X. D. Chen, et al. Average vector field methods for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(7): 070208. &lt;a href=&quot;http://iopscience.iop.org/article/10.1088/1674-1056/23/7/070208/meta&quot; target=&quot;_blank&quot;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;H. Zhang&lt;/strong&gt;, S. H. Song, W. E. Zhou, et al. Multi-symplectic method for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(8): 080204. &lt;a href=&quot;http://iopscience.iop.org/article/10.1088/1674-1056/23/8/080204/meta&quot; target=&quot;_blank&quot;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;conferences-summer-schools-and-workshops&quot;&gt;Conferences, summer schools and workshops&lt;/h3&gt;
-&lt;!--
-- [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html){:target=&quot;_blank&quot;}: Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
-- [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html){:target=&quot;_blank&quot;}, 2016.10.5-2016.10.7, Stuttgart, Germany 
-- [DUNE::FEM summer school](http://www.ians.uni-stuttgart.de/institut/veranstaltungen/Tagungen/dune-fem-school-2016/), 2016.9.26-2016.9.30, Stuttgart, Germany 
-- XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/){:target=&quot;_blank&quot;}, 2016.8.1-2016.8.5, Aachen, Germany
---&gt;
-&lt;ul&gt;
-  &lt;li&gt;NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands&lt;/li&gt;
-  &lt;li&gt;Moving mesh methods workshop, 2016.6.13-2016.6.16, Bath, UK&lt;/li&gt;
-  &lt;li&gt;Spring meeting WSC, 2016.5.13, Utrecht, the Netherlands&lt;/li&gt;
-  &lt;li&gt;Summer school on numerical methods for coupled fluid-solid dynamics, 2014.8, Beijing, China&lt;/li&gt;
-  &lt;li&gt;The 1st postgraduate forum on numerical methods for partial differential equations, 2014.8, Beijing, China&lt;/li&gt;
-  &lt;li&gt;The 12th annual conference of Chinese Computational Mathematics Society, 2013.10, Changsha, China&lt;/li&gt;
-  &lt;li&gt;International conference on compressed sensing: theory and applications, 2013.7, Changsha, China&lt;/li&gt;
-  &lt;li&gt;Postgraduate summer school on Applied Mathematics, 2013.7, Changsha, China&lt;/li&gt;
-  &lt;li&gt;Summer school on Applied Mathematics, 2011.7, Zhengzhou, China&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>2016-11-20 00:00:00 +0100</pubDate>
-        <link>http://hzhang1991.github.io/note/2016/11/20/curriculum-vitae.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/note/2016/11/20/curriculum-vitae.html</guid>
-        
-        <category>CV</category>
         
         
         <category>note</category>
@@ -434,12 +266,13 @@
 &lt;img src=&quot;http://i.imgur.com/aLhstnq.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
 &lt;img src=&quot;http://i.imgur.com/Q88kY8r.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
 &lt;img src=&quot;http://i.imgur.com/QLdd7P6.jpg&quot; alt=&quot;Imgur&quot; /&gt;
-### Utrecht Nijntie Museum ###
-&amp;gt; 米菲兔博物馆位于荷兰乌特勒支市，中央博物馆附近，展示厅里总共分为两层，第一间小房间里墙上贴满了世界各国出版的Miffy有声书的版本，也可以坐下来听听不同语言的有声书;接下来的房间里则展示着一些Dick Bruna的创作，墙上也陈列着一些Dick Bruna从小到大的照片，以及Miffy的小小简介.
+    &lt;h3 id=&quot;utrecht-nijntie-museum&quot;&gt;Utrecht Nijntie Museum&lt;/h3&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;米菲兔博物馆位于荷兰乌特勒支市，中央博物馆附近，展示厅里总共分为两层，第一间小房间里墙上贴满了世界各国出版的Miffy有声书的版本，也可以坐下来听听不同语言的有声书;接下来的房间里则展示着一些Dick Bruna的创作，墙上也陈列着一些Dick Bruna从小到大的照片，以及Miffy的小小简介.
  Dick Bruna出身于荷兰的Utrecht()，这个位于荷兰中心的古城，是荷兰著名的大学城，分为新城与旧城两部分，Dick Bruna Huis位于旧城。&lt;/p&gt;
+    &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; Nijntje
 &lt;img src=&quot;http://i.imgur.com/bZiMqiS.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
@@ -459,9 +292,9 @@
 --&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>2016-11-19 00:00:00 +0100</pubDate>
-        <link>http://hzhang1991.github.io/travel/2016/11/19/central-museum-utrecht.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/travel/2016/11/19/central-museum-utrecht.html</guid>
+        <pubDate>Sat, 19 Nov 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/travel/2016/11/19/central-museum-utrecht.html</link>
+        <guid isPermaLink="true">http://localhost:4000/travel/2016/11/19/central-museum-utrecht.html</guid>
         
         <category>museum</category>
         
@@ -533,9 +366,9 @@ And to encourage them to share their experiences with us – and with each othe
 &lt;img src=&quot;http://i.imgur.com/Kbgw0FS.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>2016-10-29 00:00:00 +0200</pubDate>
-        <link>http://hzhang1991.github.io/travel/2016/10/29/open-air-museum.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/travel/2016/10/29/open-air-museum.html</guid>
+        <pubDate>Sat, 29 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/travel/2016/10/29/open-air-museum.html</link>
+        <guid isPermaLink="true">http://localhost:4000/travel/2016/10/29/open-air-museum.html</guid>
         
         <category>museum</category>
         
@@ -607,9 +440,9 @@ And to encourage them to share their experiences with us – and with each othe
 &lt;!-- &lt;center&gt;&lt;embed src=&quot;http://gohom.win/HomPDF/mou.pdf&quot; width=&quot;850&quot; height=&quot;600&quot;&gt;&lt;/center&gt;
 --&gt;
 </description>
-        <pubDate>2016-09-10 00:00:00 +0200</pubDate>
-        <link>http://hzhang1991.github.io/travel/2016/09/10/utrecht.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/travel/2016/09/10/utrecht.html</guid>
+        <pubDate>Sat, 10 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/travel/2016/09/10/utrecht.html</link>
+        <guid isPermaLink="true">http://localhost:4000/travel/2016/09/10/utrecht.html</guid>
         
         <category>Utrecht</category>
         
@@ -662,9 +495,9 @@ And to encourage them to share their experiences with us – and with each othe
 &lt;!-- &lt;center&gt;&lt;embed src=&quot;http://gohom.win/HomPDF/mou.pdf&quot; width=&quot;850&quot; height=&quot;600&quot;&gt;&lt;/center&gt;
 --&gt;
 </description>
-        <pubDate>2016-09-10 00:00:00 +0200</pubDate>
-        <link>http://hzhang1991.github.io/travel/2016/09/10/slot-zeist.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/travel/2016/09/10/slot-zeist.html</guid>
+        <pubDate>Sat, 10 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/travel/2016/09/10/slot-zeist.html</link>
+        <guid isPermaLink="true">http://localhost:4000/travel/2016/09/10/slot-zeist.html</guid>
         
         <category>Zeist</category>
         
@@ -678,6 +511,154 @@ And to encourage them to share their experiences with us – and with each othe
       </item>
     
       <item>
+        <title>陆王心学</title>
+        <description>&lt;hr /&gt;
+&lt;iframe src=&quot;http://chuansong.me/account/luwangxinxue&quot; style=&quot;width:700px; height:8000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+
+&lt;!--宓屽叆 video 
+&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XMTY1MTI3NjMyNA==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;embed src=&quot;http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; allowFullScreen=&quot;true&quot; mode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;
+
+&lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;
+&lt;source src=&quot;movie.mp4&quot;&gt;
+&lt;/video&gt;
+--&gt;
+
+&lt;!-- insert audio
+&lt;audio src=&quot;http://sc.111ttt.com/up/mp3/314720/8F9F3E8438FE1581248E92B54A3C0AB5.mp3&quot; controls=&quot;controls&quot;&gt;
+&lt;/audio&gt;
+--&gt;
+
+&lt;!-- Insert pdf 
+&lt;iframe src=&quot;/pdf/mou.pdf&quot; style=&quot;width:300px; height:100px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
+
+&lt;!-- insert pdf doc use google view
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://platinhom.github.io/pdf/mou.pdf&amp;embedded=true&quot; style=&quot;width:800px; height:1000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
+</description>
+        <pubDate>Fri, 09 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/%E4%BC%A0%E9%80%81%E9%97%A8/2016/09/09/luwwangxinxue.html</link>
+        <guid isPermaLink="true">http://localhost:4000/%E4%BC%A0%E9%80%81%E9%97%A8/2016/09/09/luwwangxinxue.html</guid>
+        
+        <category>陆王心学</category>
+        
+        
+        <category>传送门</category>
+        
+      </item>
+    
+      <item>
+        <title>Technical Support</title>
+        <description>&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;ssh-installation-errors&quot;&gt;SSH installation errors&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;http://askubuntu.com/questions/546983/ssh-installation-errors&quot; target=&quot;_blank&quot;&gt;Solution&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The problem is&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;openssh-server : Depends: openssh-client (= 1:6.6p1-2ubuntu1) but 1:6.6p1-2ubuntu2 is installed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Try running: &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo aptitude install openssh-client=1:6.6p1-2ubuntu1&lt;/code&gt;, this reverts to this version.&lt;/li&gt;
+  &lt;li&gt;Then do this: &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt-get install openssh-server&lt;/code&gt;, then the ssh localhost works.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;configure-ssh-service-on-ubuntu&quot;&gt;Configure ssh service on Ubuntu&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Install package: &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt-get install openssh-server&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt-get install openssh-clien&lt;/code&gt;, the &lt;code class=&quot;highlighter-rouge&quot;&gt;openssh-client&lt;/code&gt; is already installed by the system;&lt;/li&gt;
+  &lt;li&gt;Start sshserver: &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo service ssh start&lt;/code&gt; and confirm &lt;code class=&quot;highlighter-rouge&quot;&gt;ps -e | grep ssh&lt;/code&gt;;&lt;/li&gt;
+  &lt;li&gt;Restart sshserver: &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo /etc/init.d/ssh restart&lt;/code&gt;;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;转换文件编码&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Solution: &lt;a href=&quot;https://linux.cn/article-7959-1.html&quot; target=&quot;_blank&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://blog.csdn.net/jnbbwyth/article/details/6991425&quot; target=&quot;_blank&quot;&gt;2&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;命令行工具: &lt;code class=&quot;highlighter-rouge&quot;&gt;enca&lt;/code&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt-get install enca&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;查看当前文件编码  　　
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;enca -L zh_CN ip.txt
+Simplified Chinese National Standard; GB2312     Surrounded by/intermixed with non-text data  　　
+&lt;/code&gt;&lt;/pre&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;转换命令格式如下  　　
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;enca -L 当前语言 -x 目标编码 文件名  　　
+&lt;/code&gt;&lt;/pre&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;例如要把当前目录下的所有文件都转成utf-8  　　&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;enca -L zh_CN -x utf-8 *     
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;检查文件的编码:　&lt;code class=&quot;highlighter-rouge&quot;&gt;enca -L zh_CN file&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;将文件编码转换为”UTF-8”编码　&lt;code class=&quot;highlighter-rouge&quot;&gt;enca -L zh_CN -x UTF-8 file&lt;/code&gt;, 如果不想覆盖原文件可以这样 &lt;code class=&quot;highlighter-rouge&quot;&gt;enca -L zh_CN -x UTF-8 &amp;lt; file1 &amp;gt; file2&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!--more--&gt;
+
+&lt;!--插入video 
+&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XMTY1MTI3NjMyNA==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;embed src=&quot;http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; allowFullScreen=&quot;true&quot; mode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;
+
+&lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;
+&lt;source src=&quot;movie.mp4&quot;&gt;
+&lt;/video&gt;
+--&gt;
+
+&lt;!-- insert audio
+&lt;audio src=&quot;http://sc.111ttt.com/up/mp3/314720/8F9F3E8438FE1581248E92B54A3C0AB5.mp3&quot; controls=&quot;controls&quot;&gt;
+&lt;/audio&gt;
+--&gt;
+
+&lt;!-- Insert pdf 
+&lt;iframe src=&quot;/pdf/mou.pdf&quot; style=&quot;width:300px; height:100px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
+
+&lt;!-- insert pdf doc use google view
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://platinhom.github.io/pdf/mou.pdf&amp;embedded=true&quot; style=&quot;width:800px; height:1000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
+</description>
+        <pubDate>Mon, 08 Aug 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/technical/2016/08/08/technical-support.html</link>
+        <guid isPermaLink="true">http://localhost:4000/technical/2016/08/08/technical-support.html</guid>
+        
+        <category>Ubuntu</category>
+        
+        <category>Mac OS</category>
+        
+        
+        <category>technical</category>
+        
+      </item>
+    
+      <item>
         <title>A tutorial for Firedrake and FEniCS</title>
         <description>&lt;hr /&gt;
 
@@ -685,23 +666,25 @@ And to encourage them to share their experiences with us – and with each othe
 
 &lt;h3 id=&quot;anaconda&quot;&gt;Anaconda&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;On Mac, anaconda’s directory is &lt;code&gt;/data/zhang057/soft/anaconda2&lt;/code&gt;, the environment for FEniCS2.7 is &lt;code&gt;fenics27&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;create environment: `conda create –name fenics27 python=2&lt;/li&gt;
-  &lt;li&gt;Activate FEnics27: &lt;code&gt;source activate fenics27&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Deactivate: &lt;code&gt;source deactivate&lt;/code&gt; or &lt;code&gt;exit&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;On Mac, anaconda’s directory is &lt;code class=&quot;highlighter-rouge&quot;&gt;/data/username/soft/anaconda2&lt;/code&gt;, the environment for FEniCS2.7 is &lt;code class=&quot;highlighter-rouge&quot;&gt;fenics27&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;create environment: &lt;code class=&quot;highlighter-rouge&quot;&gt;conda create --name fenics27 python=2&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Activate FEnics27: &lt;code class=&quot;highlighter-rouge&quot;&gt;source activate fenics27&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Deactivate: &lt;code class=&quot;highlighter-rouge&quot;&gt;source deactivate&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;exit&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Demo: &lt;code class=&quot;highlighter-rouge&quot;&gt;anaconda3/envs/fenics27/share/dolfin/demo/&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;obtaining-firedrake&quot;&gt;Obtaining Firedrake&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Firedrake directory: &lt;code&gt;/data/\*/src/&lt;/code&gt;, &lt;code&gt;source firedrake/bin/activate&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Deactivate: &lt;code&gt;deactivate&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Firedrake directory: &lt;code class=&quot;highlighter-rouge&quot;&gt;~/mathlib/firedrake/&lt;/code&gt; on Ubuntu&lt;/li&gt;
+  &lt;li&gt;Activate Firedrake environment: &lt;code class=&quot;highlighter-rouge&quot;&gt;source firedrake/bin/activate&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Deactivate: &lt;code class=&quot;highlighter-rouge&quot;&gt;deactivate&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
-        <pubDate>2016-03-03 00:00:00 +0100</pubDate>
-        <link>http://hzhang1991.github.io/tutorial/2016/03/03/firedrake.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/tutorial/2016/03/03/firedrake.html</guid>
+        <pubDate>Thu, 03 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/tutorial/2016/03/03/firedrake.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tutorial/2016/03/03/firedrake.html</guid>
         
         <category>firedrake</category>
         
@@ -713,29 +696,6 @@ And to encourage them to share their experiences with us – and with each othe
         
         
         <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>养生</title>
-        <description>&lt;hr /&gt;
-
-&lt;h3 id=&quot;section&quot;&gt;百字碑&lt;/h3&gt;
-
-&lt;!--more--&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;心斋&lt;/h3&gt;
-</description>
-        <pubDate>2016-01-02 00:00:00 +0100</pubDate>
-        <link>http://hzhang1991.github.io/note/2016/01/02/regimen.html</link>
-        <guid isPermaLink="true">http://hzhang1991.github.io/note/2016/01/02/regimen.html</guid>
-        
-        <category>养生</category>
-        
-        
-        <category>note</category>
         
       </item>
     

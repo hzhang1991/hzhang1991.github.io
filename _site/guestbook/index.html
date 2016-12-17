@@ -10,7 +10,7 @@
 <meta property="og:title" content="Guestbook">
 <title>Guestbook</title>
 <meta property="og:description" content="H. Zhang's Homepage.">
-<meta property="og:url" content="http://hzhang1991.github.io/guestbook/">
+<meta property="og:url" content="http://localhost:4000/guestbook/">
 <meta property="og:site_name" content="Homepage of ZHANG Hong">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary">
@@ -18,14 +18,14 @@
 <meta name="twitter:creator" content="@">
 <meta name="twitter:title" content="Guestbook">
 <meta name="twitter:description" content="H. Zhang's Homepage.">
-<meta name="twitter:url" content="http://hzhang1991.github.io/guestbook/">
+<meta name="twitter:url" content="http://localhost:4000/guestbook/">
 
 <meta name="keywords" content="Hong Zhang's Homepage, 张弘的主页 ">
 
 <link rel="icon" href="/images/favicon.ico">
 <link rel="stylesheet" href="/css/main.css">
-<link rel="canonical" href="http://hzhang1991.github.io/guestbook/">
-<link rel="alternate" type="application/atom+xml" title="Homepage of ZHANG Hong" href="http://hzhang1991.github.io/feed.xml" />
+<link rel="canonical" href="http://localhost:4000/guestbook/">
+<link rel="alternate" type="application/atom+xml" title="Homepage of ZHANG Hong" href="http://localhost:4000/feed.xml" />
 
 <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <!-- Hit Kounter LC -->
@@ -38,7 +38,7 @@ function search_google()
 {
   var query = document.getElementById("google-search").value;
   window.open("http://google.com/search?q=" + query
-      + "%20site:" + "http://hzhang1991.github.io");
+      + "%20site:" + "http://localhost:4000");
 }
 </script>
 
@@ -98,8 +98,6 @@ for (var b = blocklink.length; b--;) {
         
         
         
-        
-        
         <a class="page-link" href="/archives/">Archives</a>
         
         
@@ -112,11 +110,13 @@ for (var b = blocklink.length; b--;) {
         
         
         
+        <a class="page-link" href="/guestbook/">Guestbook</a>
+        
+        
+        
         <a class="page-link" href="/feed.xml">Subscribe</a>
         
         
-        
-        <a class="page-link" href="/guestbook/">Guestbook</a>
         
         
         
@@ -207,7 +207,7 @@ $(function(){
 <div class="sidebar-module about">
   <h4>About Me</h4>
   <img title="H. (Hong) Zhang" src="http://i.imgur.com/VNyDumC.jpg" alt="H. (Hong) Zhang"/>
-  <span>Hi, this is ZHANG Hong (张弘). A Ph.D candidate working in Scientific Computing in Utrecht University, the Netherlands.</span>
+  <span>Hi, this is ZHANG Hong (张弘), a Ph.D student working in Scientific Computing in Utrecht University, the Netherlands.</span>
   <br />
 	Read
 	<span data-hk-page="current"> - </span> times.<br />
@@ -278,15 +278,15 @@ $(function(){
   </li>
   
   <li>
-  <a href="/note/2016/11/20/useful-links.html" title="Useful links in Scientific Computing" rel="bookmark">Useful links in Scientific Computing</a>
-  </li>
-  
-  <li>
-  <a href="/note/2016/11/20/curriculum-vitae.html" title="Curriculum Vitae" rel="bookmark">Curriculum Vitae</a>
+  <a href="/note/2016/11/20/useful-links.html" title="Useful links" rel="bookmark">Useful links</a>
   </li>
   
   <li>
   <a href="/travel/2016/11/19/central-museum-utrecht.html" title="Utrecht Central Museum and Nijntie Museum" rel="bookmark">Utrecht Central Museum and Nijntie Museum</a>
+  </li>
+  
+  <li>
+  <a href="/travel/2016/10/29/open-air-museum.html" title="Netherlands Open Air Museum (Arnhem)" rel="bookmark">Netherlands Open Air Museum (Arnhem)</a>
   </li>
   
 </div>
@@ -299,6 +299,10 @@ $(function(){
   
   <li><a href="/categories/#tutorial" title="tutorial" rel="2">tutorial (2)</a></li>
   
+  <li><a href="/categories/#technical" title="technical" rel="1">technical (1)</a></li>
+  
+  <li><a href="/categories/#传送门" title="传送门" rel="1">传送门 (1)</a></li>
+  
   <li><a href="/categories/#travel" title="travel" rel="5">travel (5)</a></li>
   
 </div>
@@ -306,6 +310,8 @@ $(function(){
 
 <div class="sidebar-module">
   <h4>Tags</h4>
+  
+    <a href="/tags/#佛家经典" title="佛家经典" rel="1">佛家经典</a> &nbsp;
   
     <a href="/tags/#马一浮" title="马一浮" rel="1">马一浮</a> &nbsp;
   
@@ -323,6 +329,12 @@ $(function(){
   
     <a href="/tags/#tutorial" title="tutorial" rel="2">tutorial</a> &nbsp;
   
+    <a href="/tags/#Ubuntu" title="Ubuntu" rel="1">Ubuntu</a> &nbsp;
+  
+    <a href="/tags/#Mac OS" title="Mac OS" rel="1">Mac OS</a> &nbsp;
+  
+    <a href="/tags/#陆王心学" title="陆王心学" rel="1">陆王心学</a> &nbsp;
+  
     <a href="/tags/#Zeist" title="Zeist" rel="1">Zeist</a> &nbsp;
   
     <a href="/tags/#行宫" title="行宫" rel="1">行宫</a> &nbsp;
@@ -330,8 +342,6 @@ $(function(){
     <a href="/tags/#museum" title="museum" rel="3">museum</a> &nbsp;
   
     <a href="/tags/#Utrecht" title="Utrecht" rel="1">Utrecht</a> &nbsp;
-  
-    <a href="/tags/#CV" title="CV" rel="1">CV</a> &nbsp;
   
     <a href="/tags/#links" title="links" rel="1">links</a> &nbsp;
   
@@ -404,11 +414,17 @@ $(function(){
   
   
   
-<<<<<<< HEAD
   
-=======
->>>>>>> 9853b650827d88c28d35fa4eaf0cdabd2aaa6889
+  
+  
   <li id="2015" > <a href="/archives/#2015">2015</a></li>
+  
+  
+  
+  
+  
+  
+  <li id="2014" > <a href="/archives/#2014">2014</a></li>
   
   
 
