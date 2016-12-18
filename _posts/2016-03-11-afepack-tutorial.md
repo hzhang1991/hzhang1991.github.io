@@ -10,7 +10,9 @@ comments: true
 
 ---
 转载: http://qixinbo.info/2016/03/11/afepack-tutorials/
-<iframe height=700 width=1000 src="http://qixinbo.info/2016/03/11/afepack-tutorials/" frameborder=0 allowfullscreen></iframe>
+
+<iframe src="http://qixinbo.info/2016/03/11/afepack-tutorials/" style="width:700px; height:10000px;" frameborder="0"></iframe>
+
 
 
 
