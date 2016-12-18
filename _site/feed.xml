@@ -5,8 +5,8 @@
     <description>H. Zhang's Homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Dec 2016 14:45:38 +0100</pubDate>
-    <lastBuildDate>Sat, 17 Dec 2016 14:45:38 +0100</lastBuildDate>
+    <pubDate>Sun, 18 Dec 2016 20:26:40 +0100</pubDate>
+    <lastBuildDate>Sun, 18 Dec 2016 20:26:40 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -659,43 +659,45 @@ Simplified Chinese National Standard; GB2312     Surrounded by/intermixed with n
       </item>
     
       <item>
-        <title>A tutorial for Firedrake and FEniCS</title>
+        <title>自适应有限元包AFEPack教学系列</title>
         <description>&lt;hr /&gt;
+&lt;p&gt;转载: &lt;a href=&quot;http://qixinbo.info/2016/03/11/afepack-tutorials/&quot;&gt;自适应有限元包AFEPack教学系列&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Website: &lt;a href=&quot;http://www.firedrakeproject.org/&quot;&gt;Firedrake&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src=&quot;http://qixinbo.info/2016/03/11/afepack-tutorials/&quot; style=&quot;width:auto; height:10000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3 id=&quot;anaconda&quot;&gt;Anaconda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;On Mac, anaconda’s directory is &lt;code class=&quot;highlighter-rouge&quot;&gt;/data/username/soft/anaconda2&lt;/code&gt;, the environment for FEniCS2.7 is &lt;code class=&quot;highlighter-rouge&quot;&gt;fenics27&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;create environment: &lt;code class=&quot;highlighter-rouge&quot;&gt;conda create --name fenics27 python=2&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Activate FEnics27: &lt;code class=&quot;highlighter-rouge&quot;&gt;source activate fenics27&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Deactivate: &lt;code class=&quot;highlighter-rouge&quot;&gt;source deactivate&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;exit&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Demo: &lt;code class=&quot;highlighter-rouge&quot;&gt;anaconda3/envs/fenics27/share/dolfin/demo/&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!--more--&gt;
 
-&lt;h3 id=&quot;obtaining-firedrake&quot;&gt;Obtaining Firedrake&lt;/h3&gt;
+&lt;!--宓屽叆 video 
+&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XMTY1MTI3NjMyNA==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Firedrake directory: &lt;code class=&quot;highlighter-rouge&quot;&gt;~/mathlib/firedrake/&lt;/code&gt; on Ubuntu&lt;/li&gt;
-  &lt;li&gt;Activate Firedrake environment: &lt;code class=&quot;highlighter-rouge&quot;&gt;source firedrake/bin/activate&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Deactivate: &lt;code class=&quot;highlighter-rouge&quot;&gt;deactivate&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;embed src=&quot;http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; allowFullScreen=&quot;true&quot; mode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;
 
+&lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;
+&lt;source src=&quot;movie.mp4&quot;&gt;
+&lt;/video&gt;
+--&gt;
+
+&lt;!-- insert audio
+&lt;audio src=&quot;http://sc.111ttt.com/up/mp3/314720/8F9F3E8438FE1581248E92B54A3C0AB5.mp3&quot; controls=&quot;controls&quot;&gt;
+&lt;/audio&gt;
+--&gt;
+
+&lt;!-- Insert pdf 
+&lt;iframe src=&quot;/pdf/mou.pdf&quot; style=&quot;width:300px; height:100px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
+
+&lt;!-- insert pdf doc use google view
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://platinhom.github.io/pdf/mou.pdf&amp;embedded=true&quot; style=&quot;width:800px; height:1000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
 </description>
-        <pubDate>Thu, 03 Mar 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/tutorial/2016/03/03/firedrake.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tutorial/2016/03/03/firedrake.html</guid>
+        <pubDate>Fri, 11 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/note/2016/03/11/afepack-tutorial.html</link>
+        <guid isPermaLink="true">http://localhost:4000/note/2016/03/11/afepack-tutorial.html</guid>
         
-        <category>firedrake</category>
-        
-        <category>fenics</category>
-        
-        <category>fem</category>
-        
-        <category>tutorial</category>
+        <category>AFEPack</category>
         
         
-        <category>tutorial</category>
+        <category>note</category>
         
       </item>
     

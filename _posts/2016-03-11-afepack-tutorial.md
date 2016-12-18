@@ -9,9 +9,9 @@ comments: true
 ---
 
 ---
-转载: http://qixinbo.info/2016/03/11/afepack-tutorials/
+转载: [自适应有限元包AFEPack教学系列](http://qixinbo.info/2016/03/11/afepack-tutorials/)
 
-<iframe src="http://qixinbo.info/2016/03/11/afepack-tutorials/" style="width:700px; height:10000px;" frameborder="0"></iframe>
+<iframe src="http://qixinbo.info/2016/03/11/afepack-tutorials/" style="width:auto; height:10000px;" frameborder="0"></iframe>
 
 
 
