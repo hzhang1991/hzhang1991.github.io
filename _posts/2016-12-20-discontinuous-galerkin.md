@@ -34,7 +34,7 @@ Consider the heat equation
 	\right.
 \end{equation}
 
-A generalization to the heat equation $u_t - u_{xx} = u_t + (-u_x)_x = 0$:
+A generalization to the heat equation $$u_t - u_{xx} = u_t + (-u_x)_x = 0$$:
 
 look for $u_h \in V_h$ such that $\forall v \in V_h$,
 \begin{align}
