@@ -14,18 +14,35 @@ comments: true
 Ref: [pdf](https://www.birs.ca/workshops/2011/11w5086/files/FengyanLi_TutorialOnDGM.pdf)
 
 <!--more-->
+
 #### RKDG for 1d Scalar Conservation Laws ####
 
 \begin{align}  
-u_t + f(u)_x = 0, \quad 0 < x < 1, t>0 \\\
-u(x, 0) = u_0(x), \quad 0 < x < 1.
+	u_t + f(u)_x = 0, \quad 0 < x < 1, t>0 \\\
+	u(x, 0) = u_0(x), \quad 0 < x < 1.
 \end{align}  
 
 #### An *inconsistent* DG method ####
+
+Consider the heat equation
+\begin{equation}
+	\left\{
+		\begin{aligned}
+			u_t = u_xx, \quad 0 < x < 1, t > 0, \\\ 
+			u(x, 0) = u_0(x), \quad 0 < x < 1.
+		\end{aligned}
+	\right.
+\end{equation}
+
+A generalization to the heat equation $u_t - u_{xx} = u_t + (-u_x)_x = 0$:
+
+look for $u_h \in V_h$ such that $\forall v \in V_h$,
 \begin{align}
-	u_t = u_xx, \quad 0 < x < 1, t > 0, \\\ 
-	u(x, 0) = u_0(x), \quad 0 < x < 1.
+	\int_\Omega u_{h,t} v dx + \int_\Omega u_{h,x} v_x dx - (\hat{u_{h,x}})_{j+1/2} v^-_{j+1/2} + (\hat{u_{h,x}})_{j-1/2} v^+_{j-1/2} = 0,
 \end{align}
+and the central flux is a natural choice:
+$\hat{u_{h,x}}_{j+1/2} = \{u_{h,x}\}_{j+1/2}$.
+
 
 ### Shu Chiwang. Discontinuous Galerkin Methods: General Approach and Stability ###
 Ref: [pdf](https://www3.nd.edu/~zxu2/acms60790S15/DG-general-approach.pdf)
