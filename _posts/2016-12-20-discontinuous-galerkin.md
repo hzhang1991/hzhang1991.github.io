@@ -15,14 +15,14 @@ Ref: [pdf](https://www.birs.ca/workshops/2011/11w5086/files/FengyanLi_TutorialOn
 
 #### RKDG for 1d Scalar Conservation Laws ####
 
-\[  
-u_t + f(u)_x = 0, \quad 0 < x < 1, t>0\\
+\begin{align}  
+u_t + f(u)_x = 0, \quad 0 < x < 1, t>0 \\\
 u(x, 0) = u_0(x), \quad 0 < x < 1.
-\]  
+\end{align}  
 
 #### An `inconsistent' DG method ####
 \begin{align}
-	u_t = u_xx, \quad 0 < x < 1, t > 0, \\
+	u_t = u_xx, \quad 0 < x < 1, t > 0, \\\ 
 	u(x, 0) = u_0(x), \quad 0 < x < 1.
 \end{align}
 
