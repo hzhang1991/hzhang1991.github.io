@@ -1,14 +1,39 @@
 ---
-published: true
-title: Template 
+published: true 
+title: Note of Discontinuous Galerkin method 
 layout: post
 author: H. Zhang
 category: note 
-tags: [template]
+tags: [Discontinuous Galerkin]
 comments: true 
 ---
 
 ---
+
+### Li Fenguyan. 2011. A tutorial on Discontinuous Galerkin method ###
+Ref: [pdf](https://www.birs.ca/workshops/2011/11w5086/files/FengyanLi_TutorialOnDGM.pdf)
+
+#### RKDG for 1d Scalar Conservation Laws ####
+
+\[  
+u_t + f(u)_x = 0, \quad 0 < x < 1, t>0\\
+u(x, 0) = u_0(x), \quad 0 < x < 1.
+\]  
+
+#### An `inconsistent' DG method ####
+\begin{align}
+	u_t = u_xx, \quad 0 < x < 1, t > 0, \\
+	u(x, 0) = u_0(x), \quad 0 < x < 1.
+\end{align}
+
+### Shu Chiwang. Discontinuous Galerkin Methods: General Approach and Stability ###
+Ref: [pdf](https://www3.nd.edu/~zxu2/acms60790S15/DG-general-approach.pdf)
+
+
+
+
+
+Quarteron's book
 
 
 <!--more-->

@@ -5,9 +5,116 @@
     <description>H. Zhang's Homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Dec 2016 20:26:40 +0100</pubDate>
-    <lastBuildDate>Sun, 18 Dec 2016 20:26:40 +0100</lastBuildDate>
+    <pubDate>Wed, 21 Dec 2016 20:54:20 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2016 20:54:20 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Note of Discontinuous Galerkin method</title>
+        <description>&lt;hr /&gt;
+
+&lt;h3 id=&quot;li-fenguyan-2011-a-tutorial-on-discontinuous-galerkin-method&quot;&gt;Li Fenguyan. 2011. A tutorial on Discontinuous Galerkin method&lt;/h3&gt;
+&lt;p&gt;Ref: &lt;a href=&quot;https://www.birs.ca/workshops/2011/11w5086/files/FengyanLi_TutorialOnDGM.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;rkdg-for-1d-scalar-conservation-laws&quot;&gt;RKDG for 1d Scalar Conservation Laws&lt;/h4&gt;
+&lt;p&gt;[
+u_t + f(u)_x = 0, \quad 0 &amp;lt; x &amp;lt; 1, t&amp;gt;0 &lt;br /&gt;
+u(x, 0) = u_0(x), \quad 0 &amp;lt; x &amp;lt; 1.
+]
+Quarteron’s book&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;!-- markdown template
+## H2 title ##
+
+&gt; blaock quotes
+&gt; hquotes
+&gt;
+&gt; &gt; nested block quote
+&gt;
+&gt; back to first quote
+
+&gt; ## title ##
+&gt;
+&gt; 1. list
+&gt;
+&gt; code
+&gt;
+&gt; return 
+
+* red
++ blue
+- green
+
+1. hi
+2. hello
+
+* sdsfsf
+	tab**
+	hi
+	
+	isdfsf
+
+* hii
+	&gt; black quote
+	&gt; inside
+
+1910\. this is not a list
+
+## separation ##
+***
+******
+
+
+------
+
+[link](http:// &quot;title&quot;)
+see my [About](/about/) page for details.
+
+This is an [example][id] reference.
+
+[id]: http:// &quot;title&quot;
+
+
+
+
+
+
+--&gt;
+&lt;!--宓屽叆 video 
+&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XMTY1MTI3NjMyNA==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;embed src=&quot;http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; allowFullScreen=&quot;true&quot; mode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;
+
+&lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;
+&lt;source src=&quot;movie.mp4&quot;&gt;
+&lt;/video&gt;
+--&gt;
+
+&lt;!-- insert audio
+&lt;audio src=&quot;http://sc.111ttt.com/up/mp3/314720/8F9F3E8438FE1581248E92B54A3C0AB5.mp3&quot; controls=&quot;controls&quot;&gt;
+&lt;/audio&gt;
+--&gt;
+
+&lt;!-- Insert pdf 
+&lt;iframe src=&quot;/pdf/mou.pdf&quot; style=&quot;width:300px; height:100px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
+
+&lt;!-- insert pdf doc use google view
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://platinhom.github.io/pdf/mou.pdf&amp;embedded=true&quot; style=&quot;width:800px; height:1000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
+</description>
+        <pubDate>Tue, 20 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/note/2016/12/20/discontinuous-galerkin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/note/2016/12/20/discontinuous-galerkin.html</guid>
+        
+        <category>Discontinuous Galerkin</category>
+        
+        
+        <category>note</category>
+        
+      </item>
     
       <item>
         <title>Heuvelweg party</title>
@@ -655,49 +762,6 @@ Simplified Chinese National Standard; GB2312     Surrounded by/intermixed with n
         
         
         <category>technical</category>
-        
-      </item>
-    
-      <item>
-        <title>自适应有限元包AFEPack教学系列</title>
-        <description>&lt;hr /&gt;
-&lt;p&gt;转载: &lt;a href=&quot;http://qixinbo.info/2016/03/11/afepack-tutorials/&quot;&gt;自适应有限元包AFEPack教学系列&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;http://qixinbo.info/2016/03/11/afepack-tutorials/&quot; style=&quot;width:auto; height:10000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-&lt;!--more--&gt;
-
-&lt;!--宓屽叆 video 
-&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XMTY1MTI3NjMyNA==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;embed src=&quot;http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; allowFullScreen=&quot;true&quot; mode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;
-
-&lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;
-&lt;source src=&quot;movie.mp4&quot;&gt;
-&lt;/video&gt;
---&gt;
-
-&lt;!-- insert audio
-&lt;audio src=&quot;http://sc.111ttt.com/up/mp3/314720/8F9F3E8438FE1581248E92B54A3C0AB5.mp3&quot; controls=&quot;controls&quot;&gt;
-&lt;/audio&gt;
---&gt;
-
-&lt;!-- Insert pdf 
-&lt;iframe src=&quot;/pdf/mou.pdf&quot; style=&quot;width:300px; height:100px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
---&gt;
-
-&lt;!-- insert pdf doc use google view
-&lt;iframe src=&quot;http://docs.google.com/gview?url=http://platinhom.github.io/pdf/mou.pdf&amp;embedded=true&quot; style=&quot;width:800px; height:1000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
---&gt;
-</description>
-        <pubDate>Fri, 11 Mar 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/note/2016/03/11/afepack-tutorial.html</link>
-        <guid isPermaLink="true">http://localhost:4000/note/2016/03/11/afepack-tutorial.html</guid>
-        
-        <category>AFEPack</category>
-        
-        
-        <category>note</category>
         
       </item>
     
