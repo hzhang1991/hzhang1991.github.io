@@ -13,6 +13,7 @@ comments: true
 ### Li Fenguyan. 2011. A tutorial on Discontinuous Galerkin method ###
 Ref: [pdf](https://www.birs.ca/workshops/2011/11w5086/files/FengyanLi_TutorialOnDGM.pdf)
 
+<!--more-->
 #### RKDG for 1d Scalar Conservation Laws ####
 
 \begin{align}  
@@ -20,7 +21,7 @@ u_t + f(u)_x = 0, \quad 0 < x < 1, t>0 \\\
 u(x, 0) = u_0(x), \quad 0 < x < 1.
 \end{align}  
 
-#### An `inconsistent' DG method ####
+#### An *inconsistent* DG method ####
 \begin{align}
 	u_t = u_xx, \quad 0 < x < 1, t > 0, \\\ 
 	u(x, 0) = u_0(x), \quad 0 < x < 1.
@@ -36,7 +37,6 @@ Ref: [pdf](https://www3.nd.edu/~zxu2/acms60790S15/DG-general-approach.pdf)
 Quarteron's book
 
 
-<!--more-->
 
 <!-- markdown template
 ## H2 title ##
