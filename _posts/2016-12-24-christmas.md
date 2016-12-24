@@ -19,6 +19,7 @@ comments: true
 ![Imgur](http://i.imgur.com/IycBi57.jpg)
 
 1. $$\downarrow$$ 温泉
+![Imgur](http://i.imgur.com/IMpZZcU.jpg)
 ![Imgur](http://i.imgur.com/LEkLgZE.jpg)
 2. $$\downarrow$$ 红十字
 ![Imgur](http://i.imgur.com/2s60wQ1.jpg)
