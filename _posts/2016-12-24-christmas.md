@@ -1,5 +1,5 @@
 ---
-published: true
+published: false 
 title: Christmas 
 layout: post
 author: H. Zhang
@@ -57,7 +57,22 @@ comments: true
 9. $$\downarrow$$ 河边
 ![Imgur](http://i.imgur.com/iVIfadA.jpg)
 ![Imgur](http://i.imgur.com/4t6tFsM.jpg)
+<!--20161224-->
+1. $$\downarrow$$ 
+![Imgur](http://i.imgur.com/cdMikgz.jpg)
+<!--20161228-->
+2. $$\downarrow$$ 州徽
+![Imgur](http://i.imgur.com/M9TA32G.jpg)
+![Imgur](http://i.imgur.com/J2qd5h9.jpg)
+3. $$\downarrow$$ 大帝
+![Imgur](http://i.imgur.com/po6w9u4.jpg?1)
+![Imgur](http://i.imgur.com/nmy0TzW.jpg)
+4. $$\downarrow$$ 大帝背面
+![Imgur](http://i.imgur.com/3U4BlWs.jpg)
 
+4. $$downarrow$$ 三角
+![Imgur](http://i.imgur.com/OyYXMpk.jpg)
+5. $$downarrow$$ 
 
 <!-- video 
 <iframe height=498 width=510 src="http://player.youku.com/embed/XMTY1MTI3NjMyNA==" frameborder=0 allowfullscreen></iframe>

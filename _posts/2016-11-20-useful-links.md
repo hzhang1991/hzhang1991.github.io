@@ -14,6 +14,7 @@ Alphabetical order.
 
 ### Scientists ###
 
+- [Douglas N. Arnold](http://www.math.umn.edu/~arnold/){:target=_blank"}
 - [Gang Bao](http://www.math.zju.edu.cn/teacherintroen.asp?userid=292){:target="_blank"}
 - [Weizhu Bao](http://www.math.nus.edu.sg/~bao/){:target="_blank"}
 - [Yaming Chen](https://sites.google.com/site/yamingchen14/home){:target="_blank"}

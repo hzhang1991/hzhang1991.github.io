@@ -1,5 +1,5 @@
 ---
-published: true 
+published: false 
 title: Note of Discontinuous Galerkin method 
 layout: post
 author: H. Zhang
@@ -36,17 +36,28 @@ Consider the heat equation
 
 A generalization to the heat equation $$u_t - u_{xx} = u_t + (-u_x)_x = 0$$:
 
-look for $u_h \in V_h$ such that $\forall v \in V_h$,
+look for $$u_h \in V_h$$ such that $$\forall v \in V_h$$,
 \begin{align}
 	\int_\Omega u_{h,t} v dx + \int_\Omega u_{h,x} v_x dx - (\hat{u_{h,x}})_{j+1/2} v^-_{j+1/2} + (\hat{u_{h,x}})_{j-1/2} v^+_{j-1/2} = 0,
 \end{align}
 and the central flux is a natural choice:
-$\hat{u_{h,x}}_{j+1/2} = \{u_{h,x}\}_{j+1/2}$.
+$$\hat{u_{h,x}}_{j+1/2} = \{u_{h,x}\}_{j+1/2}$$.
+
+#### LDG methods for convection-diffusion equations ####
+Rewrite the heat equation into a system
+\begin{align}
+	u_t = q_x, \\\
+	q = u_x.
+\end{align}
+
+- LDG method with provable stability are available for many high order linear or nonlinear PDEs. Some examples include
+	- the KdV equation
+	- the nonlinear Schr$$\"o$$dinger equation
+	- the Camassa-Holm equation
 
 
 ### Shu Chiwang. Discontinuous Galerkin Methods: General Approach and Stability ###
 Ref: [pdf](https://www3.nd.edu/~zxu2/acms60790S15/DG-general-approach.pdf)
-
 
 
 
