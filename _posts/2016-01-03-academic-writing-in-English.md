@@ -4,7 +4,7 @@ title: Academic writing in English
 layout: post
 author: H. Zhang
 category: note 
-tags: [writing]
+tags: [Academic writing]
 comments: true 
 ---
 
