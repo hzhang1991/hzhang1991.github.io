@@ -24,6 +24,7 @@ Alphabetical order.
 - [Weizhang Huang](http://www.math.ku.edu/~huang/){:target="_blank"}
 - [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/){:target="_blank"}
 - [Ruo Li](http://dsec.pku.edu.cn/~rli/){:target="_blank"}
+- [Kewei Liang](http://www.math.zju.edu.cn/matlkw){:target="_blank"}
 - [John Mackenzie](http://www.strath.ac.uk/staff/mackenziejohndr/){:target="_blank"}
 - [Xinbo Qi](http://qixinbo.info/){:target="_blank"}
 - [Michael Shearer](http://www4.ncsu.edu/~shearer/home0.html){:target="_blank"}
@@ -73,6 +74,7 @@ Alphabetical order.
 - [Fenics tutorial by Jaroslav Hron](http://www.karlin.mff.cuni.cz/~hron/fenics-tutorial/){:target="_blank"}
 - [Fenics tutorial by tum, mathematical modeling and numerical simulation in porous media](http://www-m2.ma.tum.de/bin/view/Allgemeines/MA5332SS14){:target="_blank"}
 - [Hands-on Python Tutorial by Dr. Andrew N Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html#){:target="_blank"}
+- [Introduction to C++ Programming I by Ian Aitchison and Peter King, 1997](http://www.macs.hw.ac.uk/~pjbk/pathways/cpp1/cpp1.html){:target="_blank"}
 ----
 
 ### Journals ###
@@ -91,3 +93,4 @@ Alphabetical order.
 - [Travel in Europe](http://www.eueueu.com/edition2/download.html){:target="_blank"}
 - [tmux-startup](http://harttle.com/2015/11/06/tmux-startup.html){:target="_blank"}
 - Markdown tutorial [[1](http://eherrera.net/markdowntutorial/), [2. wowubuntu.com](http://wowubuntu.com/markdown/)]
+- [Scientific Amarican](https://www.scientificamerican.com/podcast){:target="_blank"}
