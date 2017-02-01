@@ -1,5 +1,5 @@
 ---
-published: true
+published: false 
 title: 梁漱溟
 layout: post
 author: 梁漱溟公众号
