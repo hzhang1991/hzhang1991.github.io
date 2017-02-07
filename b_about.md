@@ -69,7 +69,7 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 ### Publications by year ###
 
 #### 2016
-- **Zhang H**, Zegeling P A. A numerical study of two-phase flow models with dynamic capillary pressure and hysteresis[J]. Transport in Prous Media, 2016. [[pdf](http://rdcu.be/nEhz){:target="_blank"}]
+- **Zhang H**, Zegeling P A. A numerical study of two-phase flow models with dynamic capillary pressure and hysteresis[J]. Transport in Prous Media 116(2), 825-846 (2017). [[pdf](http://link.springer.com/article/10.1007/s11242-016-0802-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorAssignedToIssue){:target="_blank"}] 
 - **Zhang H**, Zegeling P A. A numerical study of two-phase flow with dynamic capillary pressure using an adaptive moving mesh method[J]. arXiv preprint arXiv:1604.04863, 2016. [[pdf](https://arxiv.org/abs/1604.04863){:target="_blank"}]
 - **Zhang H**, Zegeling P A. A moving mesh finite difference method for non-monotone solutions of non-equilibrium equations in porous media[J]. arXiv preprint arXiv:1611.08553, 2016. [[pdf](https://arxiv.org/abs/1611.08553){:target="_blank"}] 
 
