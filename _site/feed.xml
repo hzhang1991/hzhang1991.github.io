@@ -5,116 +5,9 @@
     <description>H. Zhang's Homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Dec 2016 20:54:20 +0100</pubDate>
-    <lastBuildDate>Wed, 21 Dec 2016 20:54:20 +0100</lastBuildDate>
+    <pubDate>Mon, 20 Feb 2017 20:26:25 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 20:26:25 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
-    
-      <item>
-        <title>Note of Discontinuous Galerkin method</title>
-        <description>&lt;hr /&gt;
-
-&lt;h3 id=&quot;li-fenguyan-2011-a-tutorial-on-discontinuous-galerkin-method&quot;&gt;Li Fenguyan. 2011. A tutorial on Discontinuous Galerkin method&lt;/h3&gt;
-&lt;p&gt;Ref: &lt;a href=&quot;https://www.birs.ca/workshops/2011/11w5086/files/FengyanLi_TutorialOnDGM.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;rkdg-for-1d-scalar-conservation-laws&quot;&gt;RKDG for 1d Scalar Conservation Laws&lt;/h4&gt;
-&lt;p&gt;[
-u_t + f(u)_x = 0, \quad 0 &amp;lt; x &amp;lt; 1, t&amp;gt;0 &lt;br /&gt;
-u(x, 0) = u_0(x), \quad 0 &amp;lt; x &amp;lt; 1.
-]
-Quarteron’s book&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;!-- markdown template
-## H2 title ##
-
-&gt; blaock quotes
-&gt; hquotes
-&gt;
-&gt; &gt; nested block quote
-&gt;
-&gt; back to first quote
-
-&gt; ## title ##
-&gt;
-&gt; 1. list
-&gt;
-&gt; code
-&gt;
-&gt; return 
-
-* red
-+ blue
-- green
-
-1. hi
-2. hello
-
-* sdsfsf
-	tab**
-	hi
-	
-	isdfsf
-
-* hii
-	&gt; black quote
-	&gt; inside
-
-1910\. this is not a list
-
-## separation ##
-***
-******
-
-
-------
-
-[link](http:// &quot;title&quot;)
-see my [About](/about/) page for details.
-
-This is an [example][id] reference.
-
-[id]: http:// &quot;title&quot;
-
-
-
-
-
-
---&gt;
-&lt;!--宓屽叆 video 
-&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XMTY1MTI3NjMyNA==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;embed src=&quot;http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; allowFullScreen=&quot;true&quot; mode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;
-
-&lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;
-&lt;source src=&quot;movie.mp4&quot;&gt;
-&lt;/video&gt;
---&gt;
-
-&lt;!-- insert audio
-&lt;audio src=&quot;http://sc.111ttt.com/up/mp3/314720/8F9F3E8438FE1581248E92B54A3C0AB5.mp3&quot; controls=&quot;controls&quot;&gt;
-&lt;/audio&gt;
---&gt;
-
-&lt;!-- Insert pdf 
-&lt;iframe src=&quot;/pdf/mou.pdf&quot; style=&quot;width:300px; height:100px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
---&gt;
-
-&lt;!-- insert pdf doc use google view
-&lt;iframe src=&quot;http://docs.google.com/gview?url=http://platinhom.github.io/pdf/mou.pdf&amp;embedded=true&quot; style=&quot;width:800px; height:1000px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
---&gt;
-</description>
-        <pubDate>Tue, 20 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/note/2016/12/20/discontinuous-galerkin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/note/2016/12/20/discontinuous-galerkin.html</guid>
-        
-        <category>Discontinuous Galerkin</category>
-        
-        
-        <category>note</category>
-        
-      </item>
     
       <item>
         <title>Heuvelweg party</title>
@@ -123,6 +16,8 @@ This is an [example][id] reference.
 &lt;hr /&gt;
 &lt;p&gt;Route: Utrecht central –&amp;gt; Amsterdam Centraal –&amp;gt; Sloterdijk –&amp;gt; Velsen Zuid, Skiheuvel&lt;/p&gt;
 
+&lt;!--more--&gt;
+
 &lt;ol&gt;
   &lt;li&gt;To Zaansse Schans:
     &lt;blockquote&gt;
@@ -130,8 +25,6 @@ This is an [example][id] reference.
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;!--more--&gt;
 
 &lt;!--嵌入 video 
 &lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XMTY1MTI3NjMyNA==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
@@ -171,16 +64,16 @@ This is an [example][id] reference.
         <title>Learning Dutch</title>
         <description>&lt;hr /&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.190534125882!2d5.121361951699922!3d52.09446387532995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f4f61dea147%3A0xf7da6b4c774a631f!2sDrift+23%2C+3512+BR+Utrecht!5e0!3m2!1szh-CN!2snl!4v1479750841150&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
 &lt;p&gt;Teacher: Evrim Akar&lt;/p&gt;
 
 &lt;p&gt;Time: Monday, 19:00-21:00&lt;/p&gt;
 
-&lt;p&gt;No class on 21 Nov.
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;No class on 21 Nov.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.190534125882!2d5.121361951699922!3d52.09446387532995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f4f61dea147%3A0xf7da6b4c774a631f!2sDrift+23%2C+3512+BR+Utrecht!5e0!3m2!1szh-CN!2snl!4v1479750841150&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;homework-20161114&quot;&gt;Homework 2016.11.14&lt;/h3&gt;
 &lt;ul&gt;
@@ -231,6 +124,7 @@ This is an [example][id] reference.
 &lt;h3 id=&quot;scientists&quot;&gt;Scientists&lt;/h3&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.umn.edu/~arnold/&quot;&gt;Douglas N. Arnold&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/teacherintroen.asp?userid=292&quot; target=&quot;_blank&quot;&gt;Gang Bao&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.nus.edu.sg/~bao/&quot; target=&quot;_blank&quot;&gt;Weizhu Bao&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/yamingchen14/home&quot; target=&quot;_blank&quot;&gt;Yaming Chen&lt;/a&gt;&lt;/li&gt;
@@ -240,6 +134,7 @@ This is an [example][id] reference.
   &lt;li&gt;&lt;a href=&quot;http://www.math.ku.edu/~huang/&quot; target=&quot;_blank&quot;&gt;Weizhang Huang&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/xlhu/&quot; target=&quot;_blank&quot;&gt;Xianliang Hu&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/&quot; target=&quot;_blank&quot;&gt;Ruo Li&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/matlkw&quot; target=&quot;_blank&quot;&gt;Kewei Liang&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.strath.ac.uk/staff/mackenziejohndr/&quot; target=&quot;_blank&quot;&gt;John Mackenzie&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://qixinbo.info/&quot; target=&quot;_blank&quot;&gt;Xinbo Qi&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www4.ncsu.edu/~shearer/home0.html&quot; target=&quot;_blank&quot;&gt;Michael Shearer&lt;/a&gt;&lt;/li&gt;
@@ -261,10 +156,10 @@ This is an [example][id] reference.
   &lt;li&gt;&lt;a href=&quot;www.gogole.com&quot; target=&quot;_blank&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.letpub.com.cn/index.php?page=journalapp&quot; target=&quot;_blank&quot;&gt;LetPub&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://gen.lib.rus.ec/&quot; target=&quot;_blank&quot;&gt;Library Genesis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;h2 id=&quot;sci-hubwwwsci-hubbztargetblank&quot;&gt;&lt;a href=&quot;www.sci-hub.bz&quot; target=&quot;_blank&quot;&gt;Sci-hub&lt;/a&gt;&lt;/h2&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;www.sci-hub.bz&quot; target=&quot;_blank&quot;&gt;Sci-hub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;wiki&quot;&gt;Wiki&lt;/h3&gt;
 &lt;ul&gt;
@@ -283,11 +178,10 @@ This is an [example][id] reference.
   &lt;li&gt;&lt;a href=&quot;https://fenicsproject.org/&quot; target=&quot;_blank&quot;&gt;FEniCS&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Automated system for the portable solutions of PDEs using FEM: &lt;a href=&quot;http://www.firedrakeproject.org/&quot; target=&quot;_blank&quot;&gt;Firedrake&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Weizhang Huang, R D Russell: 1D Moving Collocation Method (fortran77) &lt;a href=&quot;http://www.math.ku.edu/~huang/research/movcol/movcol.html&quot; target=&quot;_blank&quot;&gt;MOVCOL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;h2 id=&quot;gryphonhttpsbitbucketorgknuteskgryphonprojecttargetblank--a-module-for-time-integration-within-fenics&quot;&gt;&lt;a href=&quot;https://bitbucket.org/knutesk/gryphonproject&quot; target=&quot;_blank&quot;&gt;Gryphon&lt;/a&gt;,  a module for time integration within FEniCS&lt;/h2&gt;
-    &lt;hr /&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitbucket.org/knutesk/gryphonproject&quot; target=&quot;_blank&quot;&gt;Gryphon&lt;/a&gt;,  a module for time integration within FEniCS&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;tutorials&quot;&gt;Tutorials&lt;/h3&gt;
 &lt;ul&gt;
@@ -296,10 +190,12 @@ This is an [example][id] reference.
   &lt;li&gt;&lt;a href=&quot;http://www.math.pitt.edu/~sussmanm/&quot; target=&quot;_blank&quot;&gt;Course and workshops (Python, Matlab, FeniCS, FreeFem++) in Scientific Computing organized by Mike Sussman&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.karlin.mff.cuni.cz/~hron/fenics-tutorial/&quot; target=&quot;_blank&quot;&gt;Fenics tutorial by Jaroslav Hron&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www-m2.ma.tum.de/bin/view/Allgemeines/MA5332SS14&quot; target=&quot;_blank&quot;&gt;Fenics tutorial by tum, mathematical modeling and numerical simulation in porous media&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;h2 id=&quot;hands-on-python-tutorial-by-dr-andrew-n-harringtonhttpanhcslucedupythonhands-on31handsonhtmlindexhtmltargetblank&quot;&gt;&lt;a href=&quot;http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html#&quot; target=&quot;_blank&quot;&gt;Hands-on Python Tutorial by Dr. Andrew N Harrington&lt;/a&gt;&lt;/h2&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html#&quot; target=&quot;_blank&quot;&gt;Hands-on Python Tutorial by Dr. Andrew N Harrington&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.macs.hw.ac.uk/~pjbk/pathways/cpp1/cpp1.html&quot; target=&quot;_blank&quot;&gt;Introduction to C++ Programming I by Ian Aitchison and Peter King, 1997&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.boundless.com/subjects/&quot; target=&quot;_blank&quot;&gt;Boundeless&lt;/a&gt; High-quality content and resources for all your teaching needs.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;journals&quot;&gt;Journals&lt;/h3&gt;
 
@@ -320,6 +216,7 @@ This is an [example][id] reference.
   &lt;li&gt;&lt;a href=&quot;http://www.eueueu.com/edition2/download.html&quot; target=&quot;_blank&quot;&gt;Travel in Europe&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://harttle.com/2015/11/06/tmux-startup.html&quot; target=&quot;_blank&quot;&gt;tmux-startup&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Markdown tutorial [&lt;a href=&quot;http://eherrera.net/markdowntutorial/&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://wowubuntu.com/markdown/&quot;&gt;2. wowubuntu.com&lt;/a&gt;]&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scientificamerican.com/podcast&quot; target=&quot;_blank&quot;&gt;Scientific Amarican&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 20 Nov 2016 00:00:00 +0100</pubDate>
@@ -339,21 +236,21 @@ This is an [example][id] reference.
         <title>Utrecht Central Museum and Nijntie Museum</title>
         <description>&lt;hr /&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2451.7766627684246!2d5.123630501699641!3d52.08379537611612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x47c66f56c1d644df%3A0xc2617d70097d5c97!2sCentraal+Museum%2C+Netherlands%2C+Agnietenstraat+1%2C+3512+XA+Utrecht!3m2!1d52.0835848!2d5.1257148!4m5!1s0x47c66f56e83606c3%3A0x7f7d142d9e677998!2snijntje+museum%2C+Agnietenstraat+2%2C+3512+XB+Utrecht!3m2!1d52.083940399999996!2d5.1257554!5e0!3m2!1szh-CN!2snl!4v1479750639601&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
 &lt;h3 id=&quot;utrecht-central-museum&quot;&gt;Utrecht Central Museum&lt;/h3&gt;
 &lt;blockquote&gt;
   &lt;p&gt;中央博物馆位于迪克•布鲁纳博物馆南侧，馆内的展品非常丰富，包括17世纪的应用艺术品和许多乌德勒支学院派艺术家创作的作品，甚至还有一条从淤泥中挖掘出来的12世纪的船。&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2451.7766627684246!2d5.123630501699641!3d52.08379537611612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x47c66f56c1d644df%3A0xc2617d70097d5c97!2sCentraal+Museum%2C+Netherlands%2C+Agnietenstraat+1%2C+3512+XA+Utrecht!3m2!1d52.0835848!2d5.1257148!4m5!1s0x47c66f56e83606c3%3A0x7f7d142d9e677998!2snijntje+museum%2C+Agnietenstraat+2%2C+3512+XB+Utrecht!3m2!1d52.083940399999996!2d5.1257554!5e0!3m2!1szh-CN!2snl!4v1479750639601&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
 &lt;img src=&quot;http://i.imgur.com/Pa0eNly.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; Nijntje
 &lt;!--![Imgur](http://i.imgur.com/bZiMqiS.jpg)--&gt;
-&lt;!--more--&gt;
 &lt;img src=&quot;http://i.imgur.com/nhFjLN4.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
 &lt;img src=&quot;http://i.imgur.com/0xk7dd0.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
@@ -413,9 +310,6 @@ This is an [example][id] reference.
       <item>
         <title>Netherlands Open Air Museum (Arnhem)</title>
         <description>&lt;hr /&gt;
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2455.8312688693904!2d5.904446551697922!3d52.00995248155451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c7a504afddaaa5%3A0xa547167236a86377!2sNetherlands+Open+Air+Museum!5e0!3m2!1szh-CN!2snl!4v1479756912814&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m0!3m2!1szh-CN!2snl!4v1479757018501!6m8!1m7!1s0KattihnzkkkEmwDcAit3Q!2m2!1d52.01096094335821!2d5.909068643547386!3f20.135596948701654!4f0.43109783545546065!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;blockquote&gt;
   &lt;p&gt;The Netherlands Open Air Museum (Dutch: Nederlands Openlucht Museum) is an open air museum, located in a beautiful park in the woods near Arnhem. The museum park is 44 hectares in area and includes buildings from various places and historical periods.  The museum was founded in 1912 when a group of private individuals, concerned about the increasing industrialisation and urbanisation threatening the Netherlands' rich heritage of traditions and regional diversity, set up the open air museum in Arnhem.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -433,11 +327,15 @@ And to encourage them to share their experiences with us – and with each othe
 
 &lt;p&gt;Among these demonstrations are paper production, linseed production, beer brewing, and the heritage tram line, which are all demonstrated in the traditional way.&lt;/p&gt;
 
+&lt;!--more--&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2455.8312688693904!2d5.904446551697922!3d52.00995248155451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c7a504afddaaa5%3A0xa547167236a86377!2sNetherlands+Open+Air+Museum!5e0!3m2!1szh-CN!2snl!4v1479756912814&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m0!3m2!1szh-CN!2snl!4v1479757018501!6m8!1m7!1s0KattihnzkkkEmwDcAit3Q!2m2!1d52.01096094335821!2d5.909068643547386!3f20.135596948701654!4f0.43109783545546065!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
-&lt;img src=&quot;http://i.imgur.com/v4VJnCc.jpg&quot; alt=&quot;Imgur&quot; /&gt;
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;img src=&quot;http://i.imgur.com/v4VJnCc.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
 &lt;img src=&quot;http://i.imgur.com/ldrVoO9.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
@@ -485,19 +383,91 @@ And to encourage them to share their experiences with us – and with each othe
       </item>
     
       <item>
-        <title>Life in Utrecht</title>
-        <description>&lt;hr /&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d156911.97330805025!2d4.9420671814240835!3d52.0842883073715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f4339d32d37%3A0xd6c8fc4c19af4ae9!2z5LmM5b635YuS5pSv!5e0!3m2!1szh-CN!2snl!4v1479750731534&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m0!3m2!1szh-CN!2snl!4v1479755473212!6m8!1m7!1sY-2gjTFA8iS2yrdISIpkVw!2m2!1d52.07268834102338!2d5.125996513834451!3f225.859183021784!4f8.29523140042545!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
+        <title>TravelS</title>
+        <description>&lt;!-- In Stuttgart Vahingen, 2016.09.25-2016.10.07 --&gt;
 &lt;hr /&gt;
 
+&lt;h4 id=&quot;section&quot;&gt;野猪林&lt;/h4&gt;
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 森林
+&lt;img src=&quot;http://i.imgur.com/HJhe1Zi.jpg&quot; alt=&quot;树林&quot; /&gt;
+&lt;!--more--&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 山中的屋
+&lt;img src=&quot;http://i.imgur.com/VMyQpGV.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 山房
+&lt;img src=&quot;http://i.imgur.com/mqim7Os.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 路遇野猪
+&lt;img src=&quot;http://i.imgur.com/uzYyEd5.jpg&quot; alt=&quot;野猪&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 野猪
+&lt;img src=&quot;http://i.imgur.com/0OStO18.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 广场喷泉
+&lt;img src=&quot;http://i.imgur.com/4SMvnfE.jpg&quot; alt=&quot;喷泉&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 喷泉
+&lt;img src=&quot;http://i.imgur.com/ufGvkSp.jpg&quot; alt=&quot;喷泉&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 明日黄花
+&lt;img src=&quot;http://i.imgur.com/CsQ9MNE.jpg&quot; alt=&quot;黄花&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 野鹿Max
+&lt;img src=&quot;http://i.imgur.com/jEHV2TO.jpg&quot; alt=&quot;野鹿&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; Max
+&lt;img src=&quot;http://i.imgur.com/0nnShzH.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 木头鳄鱼
+&lt;img src=&quot;http://i.imgur.com/lYyhKBF.jpg&quot; alt=&quot;巨鳄&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 蕨类植物
+&lt;img src=&quot;http://i.imgur.com/CwfwKzu.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 车水
+&lt;img src=&quot;http://i.imgur.com/zQnBClw.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 湖光
+&lt;img src=&quot;http://i.imgur.com/YkwpL8k.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 湖
+&lt;img src=&quot;http://i.imgur.com/MwdEM5b.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 枯木
+&lt;img src=&quot;http://i.imgur.com/ZCQWwxb.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 阶梯
+&lt;img src=&quot;http://i.imgur.com/aVzVylC.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 山色
+&lt;img src=&quot;http://i.imgur.com/0SiGJuZ.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 挣扎的树
+&lt;img src=&quot;http://i.imgur.com/nZx5Nte.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 残树
+&lt;img src=&quot;http://i.imgur.com/x87aoeR.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; Dog
+&lt;img src=&quot;http://i.imgur.com/bucFLil.jpg&quot; alt=&quot;Imgur&quot; /&gt;
+&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 老爷子
+&lt;img src=&quot;http://i.imgur.com/hGa5l4P.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- 
+### 嵌入PDF显示 ###
+&lt;center&gt;&lt;embed src=&quot;http://gohom.win/HomPDF/mou.pdf&quot; width=&quot;850&quot; height=&quot;600&quot;&gt;&lt;/center&gt;
+--&gt;
+</description>
+        <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/travel/2016/10/01/travelS.html</link>
+        <guid isPermaLink="true">http://localhost:4000/travel/2016/10/01/travelS.html</guid>
+        
+        <category>古镇</category>
+        
+        <category>travel</category>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Life in Utrecht</title>
+        <description>&lt;hr /&gt;
 &lt;h3 id=&quot;section&quot;&gt;乌村生活&lt;/h3&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;乌得勒支（Utrecht）,为荷兰乌得勒支省人口最多的城市,同时也是该省的省会. 乌得勒支的很多建筑物都是中世纪以后留下的古迹,同时也是18世纪之后荷兰的宗教中心, 目前以乌得勒支主教座堂最为出名, 同时乌得勒支主教也是罗马教廷在荷兰的天主教领袖.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d156911.97330805025!2d4.9420671814240835!3d52.0842883073715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f4339d32d37%3A0xd6c8fc4c19af4ae9!2z5LmM5b635YuS5pSv!5e0!3m2!1szh-CN!2snl!4v1479750731534&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m0!3m2!1szh-CN!2snl!4v1479755473212!6m8!1m7!1sY-2gjTFA8iS2yrdISIpkVw!2m2!1d52.07268834102338!2d5.125996513834451!3f225.859183021784!4f8.29523140042545!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
 
 &lt;h4 id=&quot;km&quot;&gt;劳动节 15 km&lt;/h4&gt;
 &lt;iframe src=&quot;https://mysports.tomtom.com/service/webapi/v2/activity/perm_CIE1F5QA5psCCQa0SLdWp0_MMlq9o_uvNUPPk5ZWpu0iUCVtR6i11E1fIX8niJ00kIlaRjXf-_Ay5O0Mte9eVw?format=html&quot; width=&quot;650&quot; height=&quot;800&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -511,8 +481,7 @@ And to encourage them to share their experiences with us – and with each othe
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 雨后
 &lt;img src=&quot;http://i.imgur.com/BO37USx.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt;
-&lt;img src=&quot;http://i.imgur.com/lV9fn8Q.jpg&quot; alt=&quot;Imgur&quot; /&gt;
-&lt;!--more--&gt;&lt;/li&gt;
+&lt;img src=&quot;http://i.imgur.com/lV9fn8Q.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 牧场
  &lt;img src=&quot;http://i.imgur.com/vqY5ATC.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; Diergeneeskunde (兽医学院)
@@ -560,21 +529,21 @@ And to encourage them to share their experiences with us – and with each othe
     
       <item>
         <title>Het Slot Zeist</title>
-        <description>&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2452.0483732440835!2d5.232210951699552!3d52.07884927648061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c668013c1f6573%3A0x20dade5000fce9e7!2sSlot+Zeist!5e0!3m2!1szh-CN!2snl!4v1479750681406&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m0!3m2!1szh-CN!2snl!4v1479752040666!6m8!1m7!1s9DltY8KLSUokSCXt9QwN_A!2m2!1d52.07940383901165!2d5.235300794848058!3f217.95186610959482!4f4.5883881551820735!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
+        <description>&lt;hr /&gt;
 
 &lt;h3 id=&quot;het-slot-zeist&quot;&gt;Het Slot Zeist&lt;/h3&gt;
 &lt;blockquote&gt;
   &lt;p&gt;泽斯特皇宫博物馆(Het Slot Zeist)的前身是荷兰女皇的行宫，由此你不得不佩服荷兰皇室的气度和对艺术的尊敬，在博物馆的周边就是野生湖和护城河。&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;!--more--&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2452.0483732440835!2d5.232210951699552!3d52.07884927648061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c668013c1f6573%3A0x20dade5000fce9e7!2sSlot+Zeist!5e0!3m2!1szh-CN!2snl!4v1479750681406&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m0!3m2!1szh-CN!2snl!4v1479752040666!6m8!1m7!1s9DltY8KLSUokSCXt9QwN_A!2m2!1d52.07940383901165!2d5.235300794848058!3f217.95186610959482!4f4.5883881551820735!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
 &lt;ol&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 博物馆全景
-&lt;img src=&quot;http://i.imgur.com/Rk88AQZ.jpg&quot; alt=&quot;Imgur&quot; /&gt;
-&lt;!--more--&gt;&lt;/li&gt;
+&lt;img src=&quot;http://i.imgur.com/Rk88AQZ.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\downarrow&lt;/script&gt; 护城河一角
  &lt;img src=&quot;http://i.imgur.com/wNXTMOi.jpg&quot; alt=&quot;Imgur&quot; /&gt;
  &lt;img src=&quot;http://i.imgur.com/K8qR81n.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/li&gt;
