@@ -1,4 +1,16 @@
---- published: true title: Useful links layout: post author: H. Zhang category: note tags: [links, Scientific Computing] comments: true --- Alphabetical order.  --- ### Scientists ###
+---
+published: true
+title:  Useful links
+layout: post
+author: H. Zhang
+category: note 
+tags: [links]
+comments: true 
+---
+
+--- Alphabetical order. 
+
+--- ### Scientists ###
 
 - [Douglas N. Arnold](http://www.math.umn.edu/~arnold/){:target=_blank"}
 - [Gang Bao](http://www.math.zju.edu.cn/teacherintroen.asp?userid=292){:target="_blank"}
