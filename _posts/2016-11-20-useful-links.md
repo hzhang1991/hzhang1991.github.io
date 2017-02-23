@@ -1,18 +1,4 @@
----
-published: true
-title: Useful links
-layout: post
-author: H. Zhang
-category: note
-tags: [links, Scientific Computing] 
-comments: true
----
-
-Alphabetical order.
-
----
-
-### Scientists ###
+--- published: true title: Useful links layout: post author: H. Zhang category: note tags: [links, Scientific Computing] comments: true --- Alphabetical order.  --- ### Scientists ###
 
 - [Douglas N. Arnold](http://www.math.umn.edu/~arnold/){:target=_blank"}
 - [Gang Bao](http://www.math.zju.edu.cn/teacherintroen.asp?userid=292){:target="_blank"}
@@ -23,6 +9,7 @@ Alphabetical order.
 - [Ernst Hairer](http://www.unige.ch/~hairer/){:target="_blank"}
 - [Weizhang Huang](http://www.math.ku.edu/~huang/){:target="_blank"}
 - [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/){:target="_blank"}
+- [Sigal Gottlieb](http://www.cfm.brown.edu/people/sg/){:target="_blank"}
 - [Ruo Li](http://dsec.pku.edu.cn/~rli/){:target="_blank"}
 - [Kewei Liang](http://www.math.zju.edu.cn/matlkw){:target="_blank"}
 - [John Mackenzie](http://www.strath.ac.uk/staff/mackenziejohndr/){:target="_blank"}
@@ -64,6 +51,12 @@ Alphabetical order.
 - Automated system for the portable solutions of PDEs using FEM: [Firedrake](http://www.firedrakeproject.org/){:target="_blank"}
 - Weizhang Huang, R D Russell: 1D Moving Collocation Method (fortran77) [MOVCOL](http://www.math.ku.edu/~huang/research/movcol/movcol.html){:target="_blank"}
 - [Gryphon](https://bitbucket.org/knutesk/gryphonproject){:target="_blank"},  a module for time integration within FEniCS
+- [Matlab source codes](http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html){:target="_blank"} collected by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/){:target="_blank"}
+- [SSP, Strong Stability Preserving Methods](http://www.cfm.brown.edu/people/sg/SSPpage/sspsite/){:target="_blank"} 
+- [2D, 3D mesh generation Meshgen](http://www.cfm.brown.edu/people/sg/evan/meshgen.html){:target="_blank"} by Evan
+
+
+
 
 ---
 
