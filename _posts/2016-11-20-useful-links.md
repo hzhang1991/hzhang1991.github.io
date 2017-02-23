@@ -8,9 +8,9 @@ tags: [links]
 comments: true 
 ---
 
---- Alphabetical order. 
+Alphabetical order. 
 
---- ### Scientists ###
+### Scientists ###
 
 - [Douglas N. Arnold](http://www.math.umn.edu/~arnold/){:target=_blank"}
 - [Gang Bao](http://www.math.zju.edu.cn/teacherintroen.asp?userid=292){:target="_blank"}
