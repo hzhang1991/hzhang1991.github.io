@@ -29,6 +29,7 @@ Alphabetical order.
 - [Michael Shearer](http://www4.ncsu.edu/~shearer/home0.html){:target="_blank"}
 - [Mike Sussman](http://www.math.pitt.edu/~sussmanm/){:target="_blank"}
 - Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/){:target="_blank"}, [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao){:target="_blank"}]
+- [Terence Tao](http://www.math.ucla.edu/~tao/}{:target="_blank"}
 - Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
 - [Henk van der Vorst](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"}
 - Heyu Wang [[1](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}, [2](http://www.math.zju.edu.cn/teacherintroen.asp?userid=286){:target="_blank"}, [知乎](https://www.zhihu.com/people/wang_heyu/posts){:target="_blank"}]
@@ -66,6 +67,7 @@ Alphabetical order.
 - [Matlab source codes](http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html){:target="_blank"} collected by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/){:target="_blank"}
 - [SSP, Strong Stability Preserving Methods](http://www.cfm.brown.edu/people/sg/SSPpage/sspsite/){:target="_blank"} 
 - [2D, 3D mesh generation Meshgen](http://www.cfm.brown.edu/people/sg/evan/meshgen.html){:target="_blank"} by Evan
+- [Collection of Mathematical Software](http://www.mat.univie.ac.at/~neum/software.html){:target="_blank"}
 
 
 
@@ -82,6 +84,7 @@ Alphabetical order.
 - [Hands-on Python Tutorial by Dr. Andrew N Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html#){:target="_blank"}
 - [Introduction to C++ Programming I by Ian Aitchison and Peter King, 1997](http://www.macs.hw.ac.uk/~pjbk/pathways/cpp1/cpp1.html){:target="_blank"}
 - [Boundeless](https://www.boundless.com/subjects/){:target="_blank"} High-quality content and resources for all your teaching needs.
+- [在Matlab中画图中图](http://blog.sina.com.cn/s/blog_78efec150101bs3o.html){:target="_blank"}
 
 ----
 
