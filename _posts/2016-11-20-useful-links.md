@@ -31,7 +31,7 @@ Alphabetical order.
 - Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/){:target="_blank"}, [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao){:target="_blank"}]
 - [Terence Tao](http://www.math.ucla.edu/~tao/}{:target="_blank"}
 - Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
-- [Henk van der Vorst](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"}
+- Henk van der Vorst[1](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"} [2](http://www.henkvandervorst.nl/){:target="_blank"}
 - Heyu Wang [[1](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}, [2](http://www.math.zju.edu.cn/teacherintroen.asp?userid=286){:target="_blank"}, [知乎](https://www.zhihu.com/people/wang_heyu/posts){:target="_blank"}]
 - [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/){:target="_blank"}
 - [Pingwen Zhang](http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/){:target="_blank"}
@@ -85,6 +85,9 @@ Alphabetical order.
 - [Introduction to C++ Programming I by Ian Aitchison and Peter King, 1997](http://www.macs.hw.ac.uk/~pjbk/pathways/cpp1/cpp1.html){:target="_blank"}
 - [Boundeless](https://www.boundless.com/subjects/){:target="_blank"} High-quality content and resources for all your teaching needs.
 - [在Matlab中画图中图](http://blog.sina.com.cn/s/blog_78efec150101bs3o.html){:target="_blank"}
+- Course: [Numerical Methods for PDE's](http://www.ldeo.columbia.edu/~mspieg/e4301/){:target="_blank"} by Marc Spiegelman
+- Course: [Advection / Hyperbolic PDEs](http://bender.astro.sunysb.edu/classes/numerical_methods/lectures/advection.pdf){:target="_blank"}
+- [Het vak Nederlands](http://jan.liebregts.eu/){:target="_blank"}
 
 ----
 
