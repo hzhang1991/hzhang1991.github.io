@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage of ZHANG Hong</title>
+    <title>Welcome to my homepage</title>
     <description>H. Zhang's Homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Feb 2017 20:29:40 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2017 20:29:40 +0100</lastBuildDate>
+    <pubDate>Fri, 31 Mar 2017 20:07:26 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Mar 2017 20:07:26 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -119,20 +119,20 @@
         <title>Useful links</title>
         <description>&lt;p&gt;Alphabetical order.&lt;/p&gt;
 
-&lt;hr /&gt;
-
 &lt;h3 id=&quot;scientists&quot;&gt;Scientists&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.umn.edu/~arnold/&quot;&gt;Douglas N. Arnold&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/teacherintroen.asp?userid=292&quot; target=&quot;_blank&quot;&gt;Gang Bao&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.nus.edu.sg/~bao/&quot; target=&quot;_blank&quot;&gt;Weizhu Bao&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cpraveen.github.io/index.html&quot; target=&quot;_blank&quot;&gt;Praveen Chandrashekar&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/yamingchen14/home&quot; target=&quot;_blank&quot;&gt;Yaming Chen&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://web.math.princeton.edu/~weinan/&quot; target=&quot;_blank&quot;&gt;Weinan E&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~frank011/&quot; target=&quot;_blank&quot;&gt;Jason Frank&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.unige.ch/~hairer/&quot; target=&quot;_blank&quot;&gt;Ernst Hairer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.ku.edu/~huang/&quot; target=&quot;_blank&quot;&gt;Weizhang Huang&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/xlhu/&quot; target=&quot;_blank&quot;&gt;Xianliang Hu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cfm.brown.edu/people/sg/&quot; target=&quot;_blank&quot;&gt;Sigal Gottlieb&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://dsec.pku.edu.cn/~rli/&quot; target=&quot;_blank&quot;&gt;Ruo Li&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.zju.edu.cn/matlkw&quot; target=&quot;_blank&quot;&gt;Kewei Liang&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.strath.ac.uk/staff/mackenziejohndr/&quot; target=&quot;_blank&quot;&gt;John Mackenzie&lt;/a&gt;&lt;/li&gt;
@@ -140,8 +140,9 @@
   &lt;li&gt;&lt;a href=&quot;http://www4.ncsu.edu/~shearer/home0.html&quot; target=&quot;_blank&quot;&gt;Michael Shearer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.pitt.edu/~sussmanm/&quot; target=&quot;_blank&quot;&gt;Mike Sussman&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Tao Tang [&lt;a href=&quot;http://www.math.hkbu.edu.hk/~ttang/&quot; target=&quot;_blank&quot;&gt;hkbu&lt;/a&gt;, &lt;a href=&quot;http://sustc.edu.cn/faculty_all/f/Tang%20Tao&quot; target=&quot;_blank&quot;&gt;sustc&lt;/a&gt;]&lt;/li&gt;
+  &lt;li&gt;[Terence Tao](http://www.math.ucla.edu/~tao/}{:target=”_blank”}&lt;/li&gt;
   &lt;li&gt;Arthur van Dam [ &lt;a href=&quot;arthurvd.blogspot.nl&quot;&gt;research&lt;/a&gt;, &lt;a href=&quot;www.eye-home.net&quot;&gt;personal&lt;/a&gt;, &lt;a href=&quot;http://arthur.van-dam.net/twiki/bin/view/Arthur&quot;&gt;former research homepage&lt;/a&gt;]&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~vorst102/&quot; target=&quot;_blank&quot;&gt;Henk van der Vorst&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Henk van der Vorst&lt;a href=&quot;https://www.staff.science.uu.nl/~vorst102/&quot; target=&quot;_blank&quot;&gt;1&lt;/a&gt; &lt;a href=&quot;http://www.henkvandervorst.nl/&quot; target=&quot;_blank&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Heyu Wang [&lt;a href=&quot;http://person.zju.edu.cn/en/wangheyu&quot; target=&quot;_blank&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://www.math.zju.edu.cn/teacherintroen.asp?userid=286&quot; target=&quot;_blank&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;https://www.zhihu.com/people/wang_heyu/posts&quot; target=&quot;_blank&quot;&gt;知乎&lt;/a&gt;]&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.staff.science.uu.nl/~zegel101/&quot; target=&quot;_blank&quot;&gt;Paul A. Zegeling&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/&quot; target=&quot;_blank&quot;&gt;Pingwen Zhang&lt;/a&gt;&lt;/li&gt;
@@ -179,6 +180,10 @@
   &lt;li&gt;Automated system for the portable solutions of PDEs using FEM: &lt;a href=&quot;http://www.firedrakeproject.org/&quot; target=&quot;_blank&quot;&gt;Firedrake&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Weizhang Huang, R D Russell: 1D Moving Collocation Method (fortran77) &lt;a href=&quot;http://www.math.ku.edu/~huang/research/movcol/movcol.html&quot; target=&quot;_blank&quot;&gt;MOVCOL&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://bitbucket.org/knutesk/gryphonproject&quot; target=&quot;_blank&quot;&gt;Gryphon&lt;/a&gt;,  a module for time integration within FEniCS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html&quot; target=&quot;_blank&quot;&gt;Matlab source codes&lt;/a&gt; collected by &lt;a href=&quot;http://people.sc.fsu.edu/~jburkardt/&quot; target=&quot;_blank&quot;&gt;John Burkardt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cfm.brown.edu/people/sg/SSPpage/sspsite/&quot; target=&quot;_blank&quot;&gt;SSP, Strong Stability Preserving Methods&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cfm.brown.edu/people/sg/evan/meshgen.html&quot; target=&quot;_blank&quot;&gt;2D, 3D mesh generation Meshgen&lt;/a&gt; by Evan&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mat.univie.ac.at/~neum/software.html&quot; target=&quot;_blank&quot;&gt;Collection of Mathematical Software&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -193,6 +198,11 @@
   &lt;li&gt;&lt;a href=&quot;http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html#&quot; target=&quot;_blank&quot;&gt;Hands-on Python Tutorial by Dr. Andrew N Harrington&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.macs.hw.ac.uk/~pjbk/pathways/cpp1/cpp1.html&quot; target=&quot;_blank&quot;&gt;Introduction to C++ Programming I by Ian Aitchison and Peter King, 1997&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.boundless.com/subjects/&quot; target=&quot;_blank&quot;&gt;Boundeless&lt;/a&gt; High-quality content and resources for all your teaching needs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.sina.com.cn/s/blog_78efec150101bs3o.html&quot; target=&quot;_blank&quot;&gt;在Matlab中画图中图&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Course: &lt;a href=&quot;http://www.ldeo.columbia.edu/~mspieg/e4301/&quot; target=&quot;_blank&quot;&gt;Numerical Methods for PDE’s&lt;/a&gt; by Marc Spiegelman&lt;/li&gt;
+  &lt;li&gt;Course: &lt;a href=&quot;http://bender.astro.sunysb.edu/classes/numerical_methods/lectures/advection.pdf&quot; target=&quot;_blank&quot;&gt;Advection / Hyperbolic PDEs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deal.ii codes by &lt;a href=&quot;https://bitbucket.org/cpraveen/&quot; target=&quot;_blank&quot;&gt;Praveen C&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jan.liebregts.eu/&quot; target=&quot;_blank&quot;&gt;Het vak Nederlands&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -224,8 +234,6 @@
         <guid isPermaLink="true">http://localhost:4000/note/2016/11/20/useful-links.html</guid>
         
         <category>links</category>
-        
-        <category>Scientific Computing</category>
         
         
         <category>note</category>
