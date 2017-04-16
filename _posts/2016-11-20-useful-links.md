@@ -90,6 +90,7 @@ Alphabetical order.
 - Course: [Advection / Hyperbolic PDEs](http://bender.astro.sunysb.edu/classes/numerical_methods/lectures/advection.pdf){:target="_blank"}
 - Deal.ii codes by [Praveen C](https://bitbucket.org/cpraveen/){:target="_blank"}
 - [Het vak Nederlands](http://jan.liebregts.eu/){:target="_blank"}
+- [Discontinuous Galerkin Methods](http://cermics.enpc.fr/~ern/NM466/){:target="_blank"}
 
 
 ----
