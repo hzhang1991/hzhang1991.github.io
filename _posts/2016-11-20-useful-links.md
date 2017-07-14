@@ -12,6 +12,7 @@ Alphabetical order.
 
 ### Scientists ###
 
+- [A A Eftekhari](http://www.simulkade.com/stories/about.html){:target="_blank"}
 - [Douglas N. Arnold](http://www.math.umn.edu/~arnold/){:target=_blank"}
 - [Gang Bao](http://www.math.zju.edu.cn/teacherintroen.asp?userid=292){:target="_blank"}
 - [Weizhu Bao](http://www.math.nus.edu.sg/~bao/){:target="_blank"}
