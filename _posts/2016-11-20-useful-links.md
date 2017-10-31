@@ -114,3 +114,4 @@ Alphabetical order.
 - [tmux-startup](http://harttle.com/2015/11/06/tmux-startup.html){:target="_blank"}
 - Markdown tutorial [[1](http://eherrera.net/markdowntutorial/), [2. wowubuntu.com](http://wowubuntu.com/markdown/)]
 - [Scientific Amarican](https://www.scientificamerican.com/podcast){:target="_blank"}
+- [Update hosts](https://laod.cn/hosts/){:target="_blank"}
