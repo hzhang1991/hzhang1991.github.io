@@ -12,7 +12,6 @@ Alphabetical order.
 
 ### Scientists ###
 
-- [A A Eftekhari](http://www.simulkade.com/stories/about.html){:target="_blank"}
 - [Douglas N. Arnold](http://www.math.umn.edu/~arnold/){:target=_blank"}
 - [Gang Bao](http://www.math.zju.edu.cn/teacherintroen.asp?userid=292){:target="_blank"}
 - [Weizhu Bao](http://www.math.nus.edu.sg/~bao/){:target="_blank"}
@@ -79,21 +78,21 @@ Alphabetical order.
 
 ### Tutorials ###
 - [A Simple Makefile Tutorial](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/){:target="_blank"}
-- [Boundeless](https://www.boundless.com/subjects/){:target="_blank"} High-quality content and resources for all your teaching needs.
-- Course: [Numerical Methods for PDE's](http://www.ldeo.columbia.edu/~mspieg/e4301/){:target="_blank"} by Marc Spiegelman
-- Course: [Advection / Hyperbolic PDEs](http://bender.astro.sunysb.edu/classes/numerical_methods/lectures/advection.pdf){:target="_blank"}
-- Deal.ii, fenics ... codes by Praveen C [1](https://bitbucket.org/cpraveen/){:target="_blank"} [2](http://praveen.tifrbng.res.in){:target="_blank"}
+- [Practical Programming books](https://github.com/EZLippi/practical-programming-books){:target="_blank"}
 - [Course and workshops (Python, Matlab, FeniCS, FreeFem++) in Scientific Computing organized by Mike Sussman](http://www.math.pitt.edu/~sussmanm/){:target="_blank"}
-- [Discontinuous Galerkin Methods](http://cermics.enpc.fr/~ern/NM466/){:target="_blank"}
 - [Fenics tutorial by Jaroslav Hron](http://www.karlin.mff.cuni.cz/~hron/fenics-tutorial/){:target="_blank"}
 - [Fenics tutorial by tum, mathematical modeling and numerical simulation in porous media](http://www-m2.ma.tum.de/bin/view/Allgemeines/MA5332SS14){:target="_blank"}
 - [Hands-on Python Tutorial by Dr. Andrew N Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html#){:target="_blank"}
-- [Het vak Nederlands](http://jan.liebregts.eu/){:target="_blank"}
 - [Introduction to C++ Programming I by Ian Aitchison and Peter King, 1997](http://www.macs.hw.ac.uk/~pjbk/pathways/cpp1/cpp1.html){:target="_blank"}
-- [Numerical methods for hyperbolic system by Eric Sonnendr¨ucker](https://www-m16.ma.tum.de/foswiki/pub/M16/Allgemeines/NumMethHyp/Num-Meth-Hyperbolic-Systems.pdf){:target="_blank"}
-- [Practical Programming books](https://github.com/EZLippi/practical-programming-books){:target="_blank"}
+- [Boundeless](https://www.boundless.com/subjects/){:target="_blank"} High-quality content and resources for all your teaching needs.
 - [在Matlab中画图中图](http://blog.sina.com.cn/s/blog_78efec150101bs3o.html){:target="_blank"}
-- [Docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/}{:target="_blank"}
+- Course: [Numerical Methods for PDE's](http://www.ldeo.columbia.edu/~mspieg/e4301/){:target="_blank"} by Marc Spiegelman
+- Course: [Advection / Hyperbolic PDEs](http://bender.astro.sunysb.edu/classes/numerical_methods/lectures/advection.pdf){:target="_blank"}
+- Deal.ii, fenics ... codes by Praveen C [1](https://bitbucket.org/cpraveen/){:target="_blank"} [2](http://praveen.tifrbng.res.in){:target="_blank"}
+
+- [Het vak Nederlands](http://jan.liebregts.eu/){:target="_blank"}
+- [Discontinuous Galerkin Methods](http://cermics.enpc.fr/~ern/NM466/){:target="_blank"}
+
 
 ----
 
