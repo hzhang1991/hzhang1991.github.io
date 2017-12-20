@@ -32,7 +32,7 @@ Alphabetical order.
 - [Michael Shearer](http://www4.ncsu.edu/~shearer/home0.html){:target="_blank"}
 - [Mike Sussman](http://www.math.pitt.edu/~sussmanm/){:target="_blank"}
 - Tao Tang [[hkbu](http://www.math.hkbu.edu.hk/~ttang/){:target="_blank"}, [sustc](http://sustc.edu.cn/faculty_all/f/Tang%20Tao){:target="_blank"}]
-- [Terence Tao](http://www.math.ucla.edu/~tao/}{:target="_blank"}
+- [Terence Tao](http://www.math.ucla.edu/~tao/){:target="_blank"}
 - Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
 - Henk van der Vorst[1](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"} [2](http://www.henkvandervorst.nl/){:target="_blank"}
 - Heyu Wang [[1](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}, [2](http://www.math.zju.edu.cn/teacherintroen.asp?userid=286){:target="_blank"}, [知乎](https://www.zhihu.com/people/wang_heyu/posts){:target="_blank"}]
