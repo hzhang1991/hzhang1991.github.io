@@ -85,7 +85,6 @@ Homepage: https://www.uu.nl/staff/HZhang4
 ---
 
 ### Conferences, summer schools and workshops  ####
-<!--
 1. ENUMATH 2017, 2017.9.25-2017.9.29, Voss, Norway
 1. Woudschoten Conferences WSC, 2017.10.4-2017.10.6, Zeist, the Netherlands (poster presentation)
 1. The 11th annual conference of Chinese Computational Mathematics Society, 2017, Xi’an, China
