@@ -93,9 +93,10 @@ Homepage: https://www.uu.nl/staff/HZhang4
 1. [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html){:target="_blank"}: Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
 1. [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html){:target="_blank"}, 2016.10.5-2016.10.7, Stuttgart, Germany 
 1. [1st NUPUS summer school "Discretization of the groundwater transport equations"](https://www.srpnupus.uni-stuttgart.de/events/courses_students/summer_schools/SS_1610_Info.html){:target="_blank"}
+
 	Mentor: Rainer Helmig (Stuttgart)
 1. [DUNE::FEM summer school](http://www.ians.uni-stuttgart.de/institut/veranstaltungen/Tagungen/dune-fem-school-2016/), 2016.9.26-2016.9.30, Stuttgart, Germany 
-1.
+
 	Mentors: Robert Klofkorn (IRIS, Bergen), Claus Heine (IANS, Stuttgart)
 1. XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/){:target="_blank"}, 2016.8.1-2016.8.5, Aachen, Germany
 1. NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands
