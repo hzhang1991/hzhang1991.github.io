@@ -13,13 +13,14 @@ comments: false
 ### Personal Data
 Name:	H. (Hong) Zhang (张弘)
 
-Email:	hzhang1991 AT gmail DOT com
 
 Dept.:	Mathematical Institute, Utrecht University
 
-Homepage: https://www.uu.nl/staff/HZhang4
-
 Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
+
+Email:	h.zhang4 AT uu DOT nl
+
+Homepage: https://www.uu.nl/staff/HZhang4
 
 
 
@@ -44,6 +45,14 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 
 ---
 
+### Research Interests ###
+- Computational of non-monotone waves and fingers in two-phase flow
+- Geometric numerical integration
+- Moving mesh methods
+- Computational fluid dynamics
+
+---
+
 ### Skills ###
 - Spoken languages: Chinese, English
 - Computer languages: LaTex, C/C++, Matlab, Fortran, Shell Script, 
@@ -51,6 +60,7 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 ---
 
 ### Awards ###
+- NDNS+ travel grant, 2018
 - Excellent M.Sc Dissertation of NUDT, 2014
 - TOP 100 B.Sc Dissertation of Zhejiang University, 2012
 - Excellent Graduate Student of Zhejiang University, 2012
@@ -60,23 +70,17 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 
 ---
 
-### Research Interests ###
-- Computational of non-monotone waves and fingers in two-phase flow
-- Geometric numerical integration
-- Moving mesh methods
-- Computational fluid dynamics
+### Publications ###
 
----
-
-### Publications by year ###
-
-#### 2016
+- Yunrui Guo, Lingyan Tang, **Hong Zhang** and Songhe Song. A Maximum-Principle-Preserving Third Order Finite Volume SWENO Scheme on Unstructured Triangular Meshes Adv. Appl. Math. Mech., 10 (2018), pp. 114-137
+- **Zhang H**, Zegeling P A. Simulation of thin film flows with a moving mesh mixed finite element method, 2017 (submitted to Applied Mathematics and Computation)
+- 
 - **Zhang H**, Zegeling P A. A numerical study of two-phase flow models with dynamic capillary pressure and hysteresis[J]. Transport in Porous Media, 2017, 116(2): 825–846. [[DOI: 10.1007/s11242-016-0802-z](https://link.springer.com/article/10.1007/s11242-016-0802-z){:target="_blank"}] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:pJ3DxvX3Ep0J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWVyTsiGdIVN8vpabOib2SvxkpYdfXakm&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1){:target="_blank"}]
 - **Zhang H**, Zegeling P A. Numerical investigations of two-phase flow with dynamic capillary pressure in porous media via a moving mesh method[J]. Journal of Computational Physics, 2017, 345: 510-527. [[DOI: 10.1016/j.jcp.2017.05.041](https://doi.org/10.1016/j.jcp.2017.05.041){:target="_blank"}] [[BibTex]( ){:target="_blank"}]
 - **Zhang H**, Zegeling P A. A moving mesh finite difference method for non-monotone solutions of non-equilibrium equations in porous media[J]. Communications in Computational Physics, 2017 (accepted). [[DOI: 10.4208/cicp.OA-2016-0220 ](www.global-sci.com/galley/CiCP-2016-0220.pdf){:target="_blank"}] [[BibTex](){:target="_blank"}]
+- Mingzhan Song, Xu Qian, **Hong Zhang**, Jingmin Xia, Songhe Song. Two kinds of new energy-preserving schemes for the coupled nonlinear Schrodinger equations, 2017 (submitted to Communications in Computational Physics)
 - Song M, Qian X, **Zhang H** and Song SH. Hamiltonian Boundary Value Method for the Nonlinear Schrödinger Equation and the Korteweg-de Vries Equation[J]. Advances in Applied Mathematics and Mechanics, 2017, 9(4): 868-886. [[DOI: 10.4208/aamm.2015.m1356](https://doi.org/10.4208/aamm.2015.m1356){:target="_blank"}] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:ehMxJ0fTZyoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWVyUiEPQwHwzC8hcDcy7UhvC7_feGHqB&scisf=4&ct=citation&cd=-1&hl=zh-CN){:target="_blank"}]
 
-#### 2014
 - **H. Zhang**, S. H. Song, X. D. Chen, et al. Average vector field methods for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(7): 070208. [[DOI: 10.1088/1674-1056/23/7/070208]](http://iopscience.iop.org/article/10.1088/1674-1056/23/7/070208/meta){:target="_blank"} [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:jiqEcj_xp7gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWVyPtw5PZLjTVG-A2YSy_eiE5RYjWyif&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1){:target="_blank"}]
 - **H. Zhang**, S. H. Song, W. E. Zhou, et al. Multi-symplectic method for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(8): 080204. [[DOI: 10.1088/1674-1056/23/8/080204]](http://iopscience.iop.org/article/10.1088/1674-1056/23/8/080204/meta){:target="_blank"} [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:3fGsfS-xFJQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWVyQKAkTeXdFzEv3qRZjW6QTbcmh7ImE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1){:target="_blank"}]
 
@@ -84,9 +88,20 @@ Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
 
 ### Conferences, summer schools and workshops  ####
 <!--
+- ENUMATH 2017, 2017.9.25-2017.9.29, Voss, Norway
+- Woudschoten Conferences WSC, 2017.10.4-2017.10.6, Zeist, the Netherlands (poster presentation)
+- The 11th annual conference of Chinese Computational Mathematics Society, 2017, Xi’an, China
+- Spring meeting WSC, 2017.5.19, Antwerp, Belgium
+- The 53 Nederlands Mathematisch congress, 2017.4.11, Utrecht, the Netherlands (poster presentation)
 - [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html){:target="_blank"}: Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
 - [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html){:target="_blank"}, 2016.10.5-2016.10.7, Stuttgart, Germany 
+- [1st NUPUS summer school "Discretization of the groundwater transport equations"](https://www.srpnupus.uni-stuttgart.de/events/courses_students/summer_schools/SS_1610_Info.html){:target="_blank"}
+
+	Mentor: Rainer Helmig (Stuttgart)
 - [DUNE::FEM summer school](http://www.ians.uni-stuttgart.de/institut/veranstaltungen/Tagungen/dune-fem-school-2016/), 2016.9.26-2016.9.30, Stuttgart, Germany 
+
+	Mentors: Robert Klofkorn (IRIS, Bergen), Claus Heine (IANS, Stuttgart)
+- [ ]
 - XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/){:target="_blank"}, 2016.8.1-2016.8.5, Aachen, Germany
 -->
 - NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands
