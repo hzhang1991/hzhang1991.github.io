@@ -93,6 +93,7 @@ Alphabetical order.
 - [Hands-on Python Tutorial by Dr. Andrew N Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html#){:target="_blank"}
 - [Het vak Nederlands](http://jan.liebregts.eu/){:target="_blank"}
 - [Introduction to C++ Programming I by Ian Aitchison and Peter King, 1997](http://www.macs.hw.ac.uk/~pjbk/pathways/cpp1/cpp1.html){:target="_blank"}
+- Markdown tutorial [[1](http://eherrera.net/markdowntutorial/), [2. wowubuntu.com](http://wowubuntu.com/markdown/)]
 - [Neural networks for solving PDEs](https://becominghuman.ai/neural-networks-for-solving-differential-equations-fa230ac5e04c){:target="_blank"}
 - [Numerical methods for hyperbolic system by Eric Sonnendr¨ucker](https://www-m16.ma.tum.de/foswiki/pub/M16/Allgemeines/NumMethHyp/Num-Meth-Hyperbolic-Systems.pdf){:target="_blank"}
 - [Practical Programming books](https://github.com/EZLippi/practical-programming-books){:target="_blank"}
@@ -115,8 +116,6 @@ Alphabetical order.
 
 ### Other links ###
 
-- Toeslagen, 房补[[1](http://www.gogodutch.com/article-20032-1.html), [2](http://www.dutchcn.com/thread-1977-1-1.html){:target="_blank"}]
 - [Travel in Europe](http://www.eueueu.com/edition2/download.html){:target="_blank"}
 - [tmux-startup](http://harttle.com/2015/11/06/tmux-startup.html){:target="_blank"}
-- Markdown tutorial [[1](http://eherrera.net/markdowntutorial/), [2. wowubuntu.com](http://wowubuntu.com/markdown/)]
 - [Scientific Amarican](https://www.scientificamerican.com/podcast){:target="_blank"}
