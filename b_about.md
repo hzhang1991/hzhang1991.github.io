@@ -9,6 +9,7 @@ comments: false
 {:toc}
 
 ----
+[CV](./src/HongZhangCV.pdf){:target="_blank"}
 
 ### Personal Data
 Name:	H. (Hong) Zhang (张弘)
