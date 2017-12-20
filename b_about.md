@@ -54,23 +54,6 @@ Homepage: https://www.uu.nl/staff/HZhang4
 
 ---
 
-### Skills ###
-- Spoken languages: Chinese, English
-- Computer languages: LaTex, C/C++, Matlab, Fortran, Shell Script, 
-
----
-
-### Awards ###
-1. NDNS+ travel grant, 2018
-1. Excellent M.Sc Dissertation of NUDT, 2014
-1. TOP 100 B.Sc Dissertation of Zhejiang University, 2012
-1. Excellent Graduate Student of Zhejiang University, 2012
-1. Scholarship for Outstanding Merits, Zhejiang University, 2009, 2010, 2011
-1. Scholarship for Outstanding Students, Zhejiang University, 2009, 2010, 2011
-1. Prize of the National Talents Training Base, Zhejiang University, 2010
-
----
-
 ### Publications ###
 
 1. Yunrui Guo, Lingyan Tang, **Hong Zhang** and Songhe Song. A Maximum-Principle-Preserving Third Order Finite Volume SWENO Scheme on Unstructured Triangular Meshes[J]. Adv. Appl. Math. Mech., 10 (2018), pp. 114-137 [[DOI: 10.4208/aamm.OA-2016-0196](www.global-sci.org/aamm/volumes/v10n1/pdf/101-114.pdf){:target="_blank"}]
@@ -109,5 +92,22 @@ Homepage: https://www.uu.nl/staff/HZhang4
 1. International conference on compressed sensing: theory and applications, 2013.7, Changsha, China
 1. Postgraduate summer school on Applied Mathematics, 2013.7, Changsha, China
 1. Summer school on Applied Mathematics, 2011.7, Zhengzhou, China
+
+---
+
+### Skills ###
+- Spoken languages: Chinese, English
+- Computer languages: LaTex, C/C++, Matlab, Fortran, Shell Script, 
+
+---
+
+### Awards ###
+1. NDNS+ travel grant, 2018
+1. Excellent M.Sc Dissertation of NUDT, 2014
+1. TOP 100 B.Sc Dissertation of Zhejiang University, 2012
+1. Excellent Graduate Student of Zhejiang University, 2012
+1. Scholarship for Outstanding Merits, Zhejiang University, 2009, 2010, 2011
+1. Scholarship for Outstanding Students, Zhejiang University, 2009, 2010, 2011
+1. Prize of the National Talents Training Base, Zhejiang University, 2010
 
 
