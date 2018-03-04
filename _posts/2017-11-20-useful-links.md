@@ -100,7 +100,7 @@ Alphabetical order.
 - [TensorFlow tutorial](https://www.tensorflow.org/tutorials/){:target="_blank"}
 - [Theano Tutorial](http://deeplearning.net/software/theano/tutorial/){:target="_blank"}
 - [在Matlab中画图中图](http://blog.sina.com.cn/s/blog_78efec150101bs3o.html){:target="_blank"}
-- [Docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/}{:target="_blank"}
+- [Docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/){:target="_blank"}
 
 ----
 
