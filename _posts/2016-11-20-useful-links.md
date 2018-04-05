@@ -38,9 +38,11 @@ Alphabetical order.
 
 ### Search Engines
 
+- [CiteSeer](http://citeseer.ist.psu.edu/index){:target="_blank"}
 - [Google](www.gogole.com){:target="_blank"}
 - [LetPub](http://www.letpub.com.cn/index.php?page=journalapp){:target="_blank"}
 - [Library Genesis](http://gen.lib.rus.ec/){:target="_blank"}
+- [MathSciNet](http://www.ams.org/mathscinet/){:target="_blank"}
 - [Sci-hub](www.sci-hub.bz){:target="_blank"}
 ---
 
@@ -59,7 +61,7 @@ Alphabetical order.
 - [FEniCS](https://fenicsproject.org/){:target="_blank"}
 - Automated system for the portable solutions of PDEs using FEM: [Firedrake](http://www.firedrakeproject.org/){:target="_blank"}
 - Weizhang Huang, R D Russell: 1D Moving Collocation Method (fortran77) [MOVCOL](http://www.math.ku.edu/~huang/research/movcol/movcol.html){:target="_blank"}
--
+- [Useful packages](http://people.sc.fsu.edu/~jburkardt/){:target="_blank"} collected by John Burkardt
 ---
 
 
