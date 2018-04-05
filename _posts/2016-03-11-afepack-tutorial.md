@@ -1,80 +1,25 @@
 ---
 published: true
-title: Template 
+title:  自适应有限元包AFEPack教学系列
 layout: post
-author: H. Zhang
+author:  
 category: note 
-tags: [template]
+tags: [AFEPack]
 comments: true 
 ---
 
 ---
-
+转载: [自适应有限元包AFEPack教学系列](http://qixinbo.info/2016/03/11/afepack-tutorials/)
 
 <!--more-->
 
-<!-- markdown template
-## H2 title ##
-
-<<<<<<< HEAD
-> blaock quotes
-> hquotes
->
-> > nested block quote
->
-> back to first quote
-
-> ## title ##
->
-> 1. list
->
-> code
->
-> return 
-
-* red
-+ blue
-- green
-
-1. hi
-2. hello
-
-* sdsfsf
-	tab**
-	hi
-	
-	isdfsf
-
-* hii
-	> black quote
-	> inside
-
-1910\. this is not a list
-
-## separation ##
-***
-******
-
-
-------
-
-[link](http:// "title")
-see my [About](/about/) page for details.
-
-This is an [example][id] reference.
-
-[id]: http:// "title"
+<iframe src="http://qixinbo.info/2016/03/11/afepack-tutorials/" style="width:900px; height:1000px;" frameborder="0"></iframe>
 
 
 
 
 
-
--->
 <!--宓屽叆 video 
-=======
-<!-- insert video 
->>>>>>> e771a11ad0431669d972d8fcac6c47e3486715d7
 <iframe height=498 width=510 src="http://player.youku.com/embed/XMTY1MTI3NjMyNA==" frameborder=0 allowfullscreen></iframe>
 
 <embed src="http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" allowFullScreen="true" mode="transparent" type="application/x-shockwave-flash"></embed>
