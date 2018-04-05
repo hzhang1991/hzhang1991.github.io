@@ -34,7 +34,7 @@ Homepage: https://www.uu.nl/staff/HZhang4
 
     Promotor: Prof. [Jason Frank](https://www.staff.science.uu.nl/~frank011/)
 
-        Copromotor: Dr. [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/)
+    Copromotor: Dr. [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/)
 - 2012 - 2014: M.Sc. in Department of Mathematics and System Science, NUDT, P.R. China 
 
     Thesis Title: Study on two classes of structure-preserving methods for Hamiltonian partial differential equations. [[pdf]](https://www.researchgate.net/publication/310259257_hamierdunpianweifenfangchengdeliangleibaojiegoufangfayanjiu)
