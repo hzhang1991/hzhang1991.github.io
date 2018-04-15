@@ -36,7 +36,7 @@ Alphabetical order.
 - Arthur van Dam [ [research](arthurvd.blogspot.nl), [personal](www.eye-home.net), [former research homepage](http://arthur.van-dam.net/twiki/bin/view/Arthur)]
 - Henk van der Vorst[1](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"} [2](http://www.henkvandervorst.nl/){:target="_blank"}
 - Heyu Wang [[1](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}, [2](http://www.math.zju.edu.cn/teacherintroen.asp?userid=286){:target="_blank"}, [知乎](https://www.zhihu.com/people/wang_heyu/posts){:target="_blank"}]
-- [He Yang](http://spots.augusta.edu/hyang1/index.html){:target="_blank"}
+- [He Yang](http://spots.augusta.edu/hyang1/index.html){:target="_blank"} [e-mail](hyang1@augusta.edu)
 - [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/){:target="_blank"}
 - [Pingwen Zhang](http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/){:target="_blank"}
 
