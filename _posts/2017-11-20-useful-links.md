@@ -58,6 +58,10 @@ Alphabetical order.
 - [Wolfram Mathworld](http://mathworld.wolfram.com/PartialDifferentialEquation.html){:target="_blank"}
 
 
+### News ###
+- [NA Digest](http://www.netlib.org/na-digest-html/){:target="_blank"}
+- [CAM Digest](http://www.polyu.edu.hk/ama/CAM/cam-digest-html/){:targt="_blank"}
+
 ----
 
 ### Packages ###
@@ -69,19 +73,13 @@ Alphabetical order.
 - [FEniCS](https://fenicsproject.org/){:target="_blank"}
 - Automated system for the portable solutions of PDEs using FEM: [Firedrake](http://www.firedrakeproject.org/){:target="_blank"}
 - Weizhang Huang, R D Russell: 1D Moving Collocation Method (fortran77) [MOVCOL](http://www.math.ku.edu/~huang/research/movcol/movcol.html){:target="_blank"}
-<<<<<<< HEAD:_posts/2016-11-20-useful-links.md
 - [Useful packages](http://people.sc.fsu.edu/~jburkardt/){:target="_blank"} collected by John Burkardt
-=======
 - [Gryphon](https://bitbucket.org/knutesk/gryphonproject){:target="_blank"},  a module for time integration within FEniCS
 - [Matlab source codes](http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html){:target="_blank"} collected by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/){:target="_blank"}
 - [SSP, Strong Stability Preserving Methods](http://www.cfm.brown.edu/people/sg/SSPpage/sspsite/){:target="_blank"} 
 - [2D, 3D mesh generation Meshgen](http://www.cfm.brown.edu/people/sg/evan/meshgen.html){:target="_blank"} by Evan
 - [Collection of Mathematical Software](http://www.mat.univie.ac.at/~neum/software.html){:target="_blank"}
 
-
-
-
->>>>>>> c6467eac373c68794d84b69197ddbd46b3c3585f:_posts/2017-11-20-useful-links.md
 ---
 
 
@@ -127,3 +125,4 @@ Alphabetical order.
 - [tmux-startup](http://harttle.com/2015/11/06/tmux-startup.html){:target="_blank"}
 - [Scientific Amarican](https://www.scientificamerican.com/podcast){:target="_blank"}
 - [Airport tranportration]( http://math.drupal.ku.edu/airport-transportation){:target="_blank"}
+- [Sky Scanner}(https://www.skyscanner.com/){:target="_blank"}
