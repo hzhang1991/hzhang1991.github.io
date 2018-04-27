@@ -43,6 +43,38 @@ Alphabetical order.
 ----
 <!--more-->
 
+### World leading groups in Phase field Model 
+
+From: [Xinbo Qi's blog](http://qixinbo.info/scholar/){:target="_blank"}
+
+<ul>
+<li><a href="http://www.icams.de/content/departments/scale-bridging-thermodynamic-and-kinetic-simulations/" target="_blank" rel="noopener">Prof. Ingo Steinbach @ ICAMS</a></li>
+<li><a href="http://user.engineering.uiowa.edu/~becker" target="_blank" rel="noopener">Prof. Christoph Beckermann @ University of Iowa</a></li>
+<li><a href="https://scholar.google.com/citations?user=jAhgetoAAAAJ&amp;hl=en" target="_blank" rel="noopener">Prof. Alain Karma @ Google Scholar</a></li>
+<li><a href="http://www.szfki.hu/~grana" target="_blank" rel="noopener">Prof. László Gránásy @ Hungarian Academy of Sciences</a></li>
+<li><a href="http://www.ems.psu.edu/~chen/index.html" target="_blank" rel="noopener">Prof. Long-Qing Chen @ Penn State University</a></li>
+<li><a href="http://juanesgroup.mit.edu" target="_blank" rel="noopener">Prof. Ruben Juanes @ MIT</a></li>
+<li><a href="http://www.pitt.edu/~caginalp/" target="_blank" rel="noopener">Prof. Gunduz Caginalp @ University of Pittsburgh</a></li>
+<li><a href="http://web.mst.edu/~aslezaeemm/index.htm" target="_blank" rel="noopener">Prof. Mohsen Asle Zaeem @ Missouri S&amp;T</a></li>
+<li><a href="http://rsdavis.mycpanel.princeton.edu/haatajagroup/" target="_blank" rel="noopener">Prof. Mikko Haataja @ Princeton University</a></li>
+<li><a href="http://speedy.ms.northwestern.edu/" target="_blank" rel="noopener">Prof. Peter Voorhees @ Northwestern University</a></li>
+<li><a href="http://www.dierk-raabe.com/" target="_blank" rel="noopener">Prof. Dierk Raabe @ Max Planck Institut</a></li>
+<li><a href="http://depts.washington.edu/mfml/" target="_blank" rel="noopener">Prof. Jiangyu Li @ University of Washington</a></li>
+<li><a href="http://www.physics.mcgill.ca/~provatas/.index.html" target="_blank" rel="noopener">Prof. Nikolas Provatas @ McGill University</a> + <a href="http://www.physics.mcgill.ca/~provatas" target="_blank" rel="noopener">Easter egg</a></li>
+<li><a href="http://scholar.google.com/citations?user=67P38dMAAAAJ&amp;hl=en" target="_blank" rel="noopener">Prof. James A Warren @ Google Scholar</a></li>
+<li><a href="http://web.micress.de/" target="_blank" rel="noopener">MICRESS Software</a></li>
+<li><a href="http://www.mpie.de/2891228/mesoscale_simulations" target="_blank" rel="noopener">Prof. Robert Spatschek @ MPIE</a></li>
+<li><a href="http://www.iam.kit.edu/cms/english/index.php" target="_blank" rel="noopener">Prof. Britta Nestler @ KIT</a></li>
+<li><a href="http://pruffle.mit.edu/~ccarter/" target="_blank" rel="noopener">Prof. W. Craig Carter @ MIT</a></li>
+<li><a href="http://www.msm.cam.ac.uk/phase-trans/Bhadeshia.html" target="_blank" rel="noopener">Prof. Harshad Kumar Dharamshi Hansraj Bhadeshia</a></li>
+<li><a href="http://www.cis.kit.ac.jp/~takaki/index-e.html" target="_blank" rel="noopener">Prof. Tomohiro Takaki</a></li>
+<li><a href="https://mse.osu.edu/people/wang.363" target="_blank" rel="noopener">Prof. Yunzhi Wang @ OSU</a></li>
+<li><a href="http://www.kumarankitresearch.com/" target="_blank" rel="noopener">Dr. Kumar Ankit</a></li>
+</ul>
+
+
+
+
 ### Search Engines
 
 - [CiteSeer](http://citeseer.ist.psu.edu/index){:target="_blank"}
