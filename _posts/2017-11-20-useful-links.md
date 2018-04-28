@@ -110,6 +110,7 @@ From: [Xinbo Qi's blog](http://qixinbo.info/scholar/){:target="_blank"}
 - [Useful packages](http://people.sc.fsu.edu/~jburkardt/){:target="_blank"} collected by John Burkardt
 - [Gryphon](https://bitbucket.org/knutesk/gryphonproject){:target="_blank"},  a module for time integration within FEniCS
 - [Matlab source codes](http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html){:target="_blank"} collected by [John Burkardt](http://people.sc.fsu.edu/~jburkardt/){:target="_blank"}
+- [SONM](https://sonm.com){:target="_blank"}: Decentralized Fog Computing Platform
 - [SSP, Strong Stability Preserving Methods](http://www.cfm.brown.edu/people/sg/SSPpage/sspsite/){:target="_blank"} 
 - [2D, 3D mesh generation Meshgen](http://www.cfm.brown.edu/people/sg/evan/meshgen.html){:target="_blank"} by Evan
 - [Collection of Mathematical Software](http://www.mat.univie.ac.at/~neum/software.html){:target="_blank"}
