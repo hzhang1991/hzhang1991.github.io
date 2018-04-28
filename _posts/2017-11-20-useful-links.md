@@ -19,6 +19,7 @@ Alphabetical order.
 - [Praveen Chandrashekar](http://cpraveen.github.io/index.html){:target="_blank"}
 - [Yaming Chen](https://sites.google.com/site/yamingchen14/home){:target="_blank"}
 - [Weinan E](https://web.math.princeton.edu/~weinan/){:target="_blank"}
+- [James J Feng](https://www.math.ubc.ca/~jfeng/){:target="_blank"}
 - [Jason Frank](https://www.staff.science.uu.nl/~frank011/){:target="_blank"}
 - [Ernst Hairer](http://www.unige.ch/~hairer/){:target="_blank"}
 - [Weizhang Huang](http://www.math.ku.edu/~huang/){:target="_blank"}
@@ -37,6 +38,7 @@ Alphabetical order.
 - Henk van der Vorst[1](https://www.staff.science.uu.nl/~vorst102/){:target="_blank"} [2](http://www.henkvandervorst.nl/){:target="_blank"}
 - Heyu Wang [[1](http://person.zju.edu.cn/en/wangheyu){:target="_blank"}, [2](http://www.math.zju.edu.cn/teacherintroen.asp?userid=286){:target="_blank"}, [知乎](https://www.zhihu.com/people/wang_heyu/posts){:target="_blank"}]
 - [He Yang](http://spots.augusta.edu/hyang1/index.html){:target="_blank"} [e-mail](hyang1@augusta.edu)
+- [Pengtao Yue](http://www.math.vt.edu/people/ptyue/){:target="_blank"}
 - [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/){:target="_blank"}
 - [Pingwen Zhang](http://www.math.pku.edu.cn/teachers/zhangpw/private/homepage/){:target="_blank"}
 
