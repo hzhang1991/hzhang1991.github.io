@@ -8,10 +8,7 @@ tags: [links]
 comments: true 
 ---
 
-Alphabetical order. 
-
 ----
-<!--more-->
 
 ### World leading groups in Phase field Model 
 
@@ -44,6 +41,7 @@ From: [Xinbo Qi's blog](http://qixinbo.info/scholar/){:target="_blank"}
 
 ---
 
+<!--more-->
 
 ### Search Engines
 
