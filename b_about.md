@@ -126,9 +126,9 @@ Homepage: https://www.uu.nl/staff/HZhang4
 ---
 
 ### Awards ###
-1. NDNS+ travel grant, 2018
+1. [NDNS+](https://www.ndns.nl/){:target="_balnk"} travel grant, 2018
 1. Excellent M.Sc Dissertation of NUDT, 2014
-1. TOP 100 B.Sc Dissertation of Zhejiang University, 2012
+1. [TOP 100 B.Sc Dissertation of Zhejiang University, 2012](ugrs.zju.edu.cn/attachments/2012-11/01-1351838249-812729.xls){:target="_blank"}
 1. Excellent Graduate Student of Zhejiang University, 2012
 1. Scholarship for Outstanding Merits, Zhejiang University, 2009, 2010, 2011
 1. Scholarship for Outstanding Students, Zhejiang University, 2009, 2010, 2011
