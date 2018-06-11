@@ -2,7 +2,7 @@
 layout: page
 title: About 
 permalink: /about/
-comments: false
+comments: true
 ---
 
 * Table of Contents
@@ -92,6 +92,7 @@ Homepage: https://www.uu.nl/staff/HZhang4
 1. [ICOSAHOM 2018](http://www.icosahom2018.org/){:target=_blank}: International Conference on Spectral and High Order Methods, 2018.7.9-2018.7.13, Imperial College London, UK (oral presentation)
 1. [NUMDIFF-15](https://sim.mathematik.uni-halle.de/numdiff/Numdiff15/home){:target=_blank}, 2018.9.3-2018.9.7, Martin Luther University Halle-Wittenberg, Germany
 1. [BIRS workshop on Adaptive Numerical Methods for Partial Differential Equations with Applications](http://www.birs.ca/events/2018/5-day-workshops/18w5148){:target=_blank}, 2018.5.28 - 2018.6.1, Banff, Alberta, Canada (oral presentation)
+1. [CAM Seminar](https://mathematics.ku.edu/cam-seminar){:target=_blank}, 2018.4.25, University of Kansas, Kansas, USA (oral presentation)
 1. [Midwest Numerical Analysis Day 2018](mwnaday2018.ku.edu){:target=_blank}, 2018.4.14-2018.4.15, University of Kansas, Kansas, USA (poster presentation)
 1. ENUMATH 2017, 2017.9.25-2017.9.29, Voss, Norway
 1. Woudschoten Conferences WSC, 2017.10.4-2017.10.6, Zeist, the Netherlands (poster presentation)
