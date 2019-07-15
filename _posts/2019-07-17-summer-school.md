@@ -45,6 +45,7 @@ comments: true
 
 <!--more--> 
 **当前文献下载的囧境**
+
 [知网连年涨价涉嫌垄断，学术与商业该如何平衡](http://news.sciencenet.cn/htmlnews/2019/2/422989.shtm)
 ![](http://news.sciencenet.cn/upload/news/images/2019/2/20192181024254224.png)
 ![](http://news.sciencenet.cn/upload/news/images/2019/2/20192181024253280.png)
@@ -217,7 +218,7 @@ SIZE：镜像大小
 > - `docker commit -m="message: update" -a="author" containerid zhhzhc/ubuntu:v2`
 > - `docker images`查看
 
-####Docker 容器应用举例
+#### Docker 容器应用举例
 [运行一个web应用](https://www.runoob.com/docker/docker-container-usage.html)
  >  在docker容器中运行一个 Python web应用
  > - `docker pull training/webapp  # 载入镜像`
@@ -285,7 +286,8 @@ services:
 
 > - **[英文 NA-Digest](http://www.netlib.org/na-digest-html/)**
 > - **[中文 CAM-Digest](https://www.polyu.edu.hk/ama/CAM/cam-digest-html/)**
-> The CAM/NA Digest are collections of articles on topics related to computational and applied mathematics and those who practice it
+> - The CAM/NA Digest are collections of articles on topics related to computational and applied mathematics and those who practice it
+
 ![](https://www.polyu.edu.hk/ama/CAM/cam-digest-html/image/cam-digest.gif)
 
 
