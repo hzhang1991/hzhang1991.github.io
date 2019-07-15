@@ -1,3 +1,18 @@
+---
+published: true
+title: 文献检索与下载 
+layout: post
+author: H. Zhang
+category: note 
+tags: [文献检索与下载]
+comments: true 
+---
+
+---
+
+
+
+
 <center> Summer School </center>
 ===================
 
@@ -27,6 +42,8 @@
 > - [IEEEXplore](), [WikiPedia]()
 > ... ...
 
+
+<!--more--> 
 **当前文献下载的囧境**
 [知网连年涨价涉嫌垄断，学术与商业该如何平衡](http://news.sciencenet.cn/htmlnews/2019/2/422989.shtm)
 ![](http://news.sciencenet.cn/upload/news/images/2019/2/20192181024254224.png)
