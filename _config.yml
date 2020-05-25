@@ -18,7 +18,7 @@ googlescholar_username: TrB-5asAAAAJ
 researchgate_username: Hong_Zhang67
 disqus_shortname: hzhang1991-github-io
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is ZHANG Hong (张弘), a Lecturer working in Scientific Computing in National University of Defense Technology, P.R. China. Hong Zhang obtained Ph.D in mathematics from Utrecht University under the supervision of Dr. Paul Zegeling in 2018. He finished M.Sc. in National University of Defense Technology (2014, advisor: Prof. Songhe Song) and B.Sc. in Zhejiang University (2012, advisor: Prof. Xianliang Hu). Currently, he is working on geometric numerical integrators, moving mesh methods, computational fluid dynamics and phase field models. He holds a fund from NSFC
+aboutme: Hi, this is ZHANG Hong (张弘), a Lecturer working in Scientific Computing in National University of Defense Technology, P.R. China. 
 # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/usnvUfa.jpg  #https://imgur.com/BzgWVW5.jpg # #"/images/hzhang.jpg1"#https://i.imgur.com/Mdc4szJl.jpg# your photo.
 google_analytics_key: UA-70088037-2 #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
