@@ -11,52 +11,8 @@ comments: true
 ---
 
 
-
-
-<center> Summer School </center>
-===================
-
-<center> 国防科技大学 数学系 张弘 </center>
-
-
 第一部分：文献检索与下载
 -------------
-
-### 一、背景
-**国产搜索引擎**: [百度](www.baidu.com)，[搜狗](www.sogou.com)，[雅虎](www.yahoo.com) ...
-
-**国外搜索引擎**: [Google](www.google.com), [Bing](www.bing.com), [Yandex](www.yandex.com) ...
-
-最适用于科研的搜索引擎:   [Google](www.google.com), [Google Scholar](https://scholar.google.com.sg/)
-![](https://bboysoul-web.oss-cn-hangzhou.aliyuncs.com/20190513-2.gif)
-
-![](https://www.greyb.com/wp-content/uploads/2018/04/image001.png)
-
-#### 文献下载
-> - [中国知网 CNKI](www.cnki.net),  [Wanfang]()
-> - [SIAM](), [Web of Science]()
-> - [Elsevier](), [MathSciNet]()
-> - [Springer Link](), [Arxiv]()
-> - [ACM Transactions](), [Research Gate](https://www.researchgate.net/)
-> - [Wiley Online Library](), [CiteSeer]()
-> - [IEEEXplore](), [WikiPedia]()
-> ... ...
-
-
-<!--more--> 
-**当前文献下载的囧境**
-
-[知网连年涨价涉嫌垄断，学术与商业该如何平衡](http://news.sciencenet.cn/htmlnews/2019/2/422989.shtm)
-
-![](http://news.sciencenet.cn/upload/news/images/2019/2/20192181024254224.png)
-![](http://news.sciencenet.cn/upload/news/images/2019/2/20192181024253280.png)
-[抵制知网、爱思唯尔，学界苦出版商久矣？](https://36kr.com/p/5182966)
-
-![](https://img.36krcdn.com/20190306/v2_1551862127700_img_000)
-出版集团利润
-![](https://pic4.zhimg.com/80/v2-252386e2123f781c73ec51baa6c26065_hd.jpg)
-
-> Springer两大出版集团的净利润率远远超过BMW、苹果和谷歌，达到了惊人的35%以上。2017年Elsevier收入24.78亿英镑，净利润9.13亿英镑。
 
 #### 课程内容
 > **课程目的**
