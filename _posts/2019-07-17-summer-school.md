@@ -24,6 +24,7 @@ comments: true
 > - 文献/图书下载：[www.sci-hub.tw](www.sci-hub.tw), [gen.lib.rus.es](gen.lib.rus.es)
 > - 数学新闻订阅：[NA-Digest](http://www.netlib.org/na-digest-html/), [CAM-Digest](https://www.polyu.edu.hk/ama/CAM/cam-digest-html/image/cam-digest.gif)
 
+<!--more-->
 
 ### 二、Linux入门
 
