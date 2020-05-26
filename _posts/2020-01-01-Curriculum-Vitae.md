@@ -1,3 +1,4 @@
+---
 published: true
 title: Curriculum Vitae 
 layout: post
