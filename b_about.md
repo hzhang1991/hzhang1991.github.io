@@ -57,7 +57,7 @@ Homepage: http://hzhang1991.github.io/
 ---
 
 ### Publications ###
-
+1. **Hong Zhang**, Jingye Yan, Xu Qian, Songhe Song. Analysis on the maximum principle preserving and energy stability of high-order implicit-explicit Runge-Kutta schemes for the space-fractional Allen-Cahn equation[J] (in preparation)
 1. **Hong Zhang**, Jingye Yan, Xu Qian, Songhe Song. NUMERICAL ANALYSIS AND APPLICATIONS OF EXPLICIT HIGH ORDER MAXIMUM PRINCIPLE PRESERVING INTEGRATING FACTOR RUNGE-KUTTA INTEGRATORS FOR THE SPACE-FRACTIONAL ALLEN-CAHN EQUATION, 2020 (submitted) [[pdf](https://www.researchgate.net/publication/340732485_NUMERICAL_ANALYSIS_AND_APPLICATIONS_OF_EXPLICIT_HIGH_ORDER_MAXIMUM_PRINCIPLE_PRESERVING_INTEGRATING_FACTOR_RUNGE-KUTTA_INTEGRATORS_FOR_THE_SPACE-FRACTIONAL_ALLEN-CAHN_EQUATION){:target="_blank"}]
 1. **Hong Zhang**, Xu Qian, Jingye Yan, Songhe Song. Highly efficient invariant-conserving explicit Runge-Kutta schemes for
 nonlinear Hamiltonian diffierential equations[J]. Journal of Computational Physics, 2020 (accepted), [[pdf](https://www.researchgate.net/publication/337195610_Highly_efficient_invariant-conserving_explicit_Runge-Kutta_schemes_for_the_nonlinear_Hamiltonian_differential_equations?_sg=HpuAU1zrdM2Zj3xJ5DMWattKtODkITk7oe3TKvh1HJphOAOoBpiKDBVuvE6hS3XkH7vNuIR-ARb6WLlsSeLLZHkZtSzJmcCoqjlK2jsx.jMQvPSsd6VRtOp7W0euFsj39hcPCPZfLm9R0g3n5ku6LdrKfIuwUMOKUdh5wuRH_pNYWvgyiINan-_H1RfRp4Q){:target="_blank"}]
