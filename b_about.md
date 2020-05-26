@@ -71,6 +71,8 @@ DOI: 10.1007/s10483-020-2554-8](https://www.researchgate.net/publication/3377441
 1. Mingzhan Song, Xu Qian, **Hong Zhang**, Jingmin Xia, Songhe Song. Two kinds of new energy-preserving schemes for the coupled nonlinear Schrodinger equations, Communications in Computational Physics, 2019, 25(4): 1127-1143 [[pdf](https://www.researchgate.net/publication/330756401_Two_Kinds_of_New_Energy-Preserving_Schemes_for_the_Coupled_Nonlinear_Schrodinger_Equations?_sg=2MivySpjq_mYUF6EYnij2i9vHbdEmUbrI07bfCNUp5EfFSXK-wo6RFlCxFmsFRb_ZdLU0_YYieHa1eIF4-H15Vhf4i2sWIz8VBYcxMV3.6f2Pf-PCFtTFR7_RMz1C3T8RUmNV3_y4qGb_4Nxm7jxJ5gngrhPsoljz1b2IRRV-pwDcpvBfc30WcH2cPh5azQ){:target="_blank"}]
 1. Yunrui Guo, Lingyan Tang, **Hong Zhang** and Songhe Song. A Maximum-Principle-Preserving Third Order Finite Volume SWENO Scheme on Unstructured Triangular Meshes[J]. Adv. Appl. Math. Mech., 10 (2018), pp. 114-137. [[DOI: 10.4208/aamm.OA-2016-0196](www.global-sci.org/aamm/volumes/v10n1/pdf/101-114.pdf){:target="_blank"}]
 1. Y.R. Guo, W.J. Yang, **H. Zhang**, J. Wang and S.H. Song. A splitting method for the Degasperis-Procesi equation using an optimized WENO scheme and the Fourier pseudospectral method [J], Advances in Applied Mathematics and Mechanics, 2019, 11: 53-71 [[pdf](https://global-sci.org/intro/article_detail/aamm/12921.html){:target="_blank"}]
+1. Y.R. Guo, **H. Zhang**, W.J. Yang, J. Wang and S.H. Song. A high order operator splitting method for the Degasperis-Procesi equation [J], Numer. Math. Theor. Meth. Appl., 12 (2019), pp. 884-905. [[DOI: 10.4208/nmtma.OA-2018-0048 ](https://global-sci.org/intro/article_detail/nmtma/13135.html){:target="_blank"}]
+1. H Zhang, Y.R. Guo, W.B. Li and P. A. Zegeling. Runge-Kutta symmetric interior penalty discontinuous Galerkin method for modified Buckley-Leverett equation, 2018,  [[pdf](https://www.researchgate.net/publication/322652722_Runge-Kutta_symmetric_interior_penalty_discontinuous_Galerkin_methods_for_modified_Buckley-Leverett_equations){:target="_blank"}]
 1. **Zhang H**, Zegeling P A. Simulation of thin film flows with a moving mesh mixed finite element method, Applied Mathematics and Computation, 2018, 338: 274-289. [[pdf](https://www.researchgate.net/publication/321918521_Simulation_of_thin_film_flows_with_a_moving_mesh_mixed_finite_element_method){:target="_blank"}]
 1. **Zhang H**, Zegeling P A. A numerical study of two-phase flow models with dynamic capillary pressure and hysteresis[J]. Transport in Porous Media, 2017, 116(2): 825–846. [[DOI: 10.1007/s11242-016-0802-z](https://link.springer.com/article/10.1007/s11242-016-0802-z){:target="_blank"}] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:pJ3DxvX3Ep0J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWVyTsiGdIVN8vpabOib2SvxkpYdfXakm&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1){:target="_blank"}]
 1. **Zhang H**, Zegeling P A. Numerical investigations of two-phase flow with dynamic capillary pressure in porous media via a moving mesh method[J]. Journal of Computational Physics, 2017, 345: 510-527. [[DOI: 10.1016/j.jcp.2017.05.041](https://doi.org/10.1016/j.jcp.2017.05.041){:target="_blank"}] [[BibTex]( ){:target="_blank"}]
@@ -120,12 +122,19 @@ DOI: 10.1007/s10483-020-2554-8](https://www.researchgate.net/publication/3377441
 
 ---
 
-### Research Grant ###
+### Research Grants ###
 1. National Natural Science Foundation of China (PI), No. 11901577, 2020.1-2022.12
 1. Natural Scicence Foundation of Hunan (PI), No. S2020JJQNJJ1615, 2020.1-2022.12
 1. Fund from National University of Defense Technology (PI), 2020.1-2022.12
 1. Moving mesh methods and applications, Dutch NDNS+ Ph.D Travel Grant, 2018
 1. Computational of non-monotone waves and fingers in two phase flow. China Scholarship Council, No. 201503170430, 2015-2018
+1. Theoretical study and numerical analysis on a class of stochastic differential equations with discontinuity (participant), No. 11601517, NSFC, 2017-2019
+1. Study and applications of symplectic and multi-symplectic methods based on wavelet functions (participant), No. 11571366, NSFC, 2016-2018
+1. Construction, parallelization and applications of efficient structure-preserving algorithms (participant), No. 11501570, NSFC, 2016-2018
+1. Highly efficient finite volume method and applications in numerical simulations of coupled flow and heat transfer (participant), No. 91530106, NSFC, 2016
+1. Study of unstructured mesh generation and high order accuracy finite volume method  (participant), State Key Laboratory of Aerodynamics, 2013-2014
+1. Structure-preserving methods and parallel computing. State Key Laboratory of High Performance Computing (participant), 2014-2016
+
 
 ### Awards ###
 1. First prize of Young Excellent Papers of the 16th annual conference of Numerical methods for partial differential equation China, 2019.8
