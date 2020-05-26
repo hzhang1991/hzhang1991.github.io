@@ -134,6 +134,7 @@ DOI: 10.1007/s10483-020-2554-8](https://www.researchgate.net/publication/3377441
 1. Highly efficient finite volume method and applications in numerical simulations of coupled flow and heat transfer (participant), No. 91530106, NSFC, 2016
 1. Study of unstructured mesh generation and high order accuracy finite volume method  (participant), State Key Laboratory of Aerodynamics, 2013-2014
 1. Structure-preserving methods and parallel computing. State Key Laboratory of High Performance Computing (participant), 2014-2016
+
 ---
 
 ### Awards ###
