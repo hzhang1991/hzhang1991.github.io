@@ -67,7 +67,7 @@ nonlinear Hamiltonian diffierential equations[J]. Journal of Computational Physi
 1. Lingyan Tang, Songhe Song, **Hong Zhang**. High-order maximum-principle-preserving and positivity-preserving weighted compact nonlinear schemes for hyperbolic conservation laws[J]. Applied Mathematics and Mechanics, 2020, 41(1): 173-192. [[
 DOI: 10.1007/s10483-020-2554-8](https://www.researchgate.net/publication/337744133_High-order_maximum-principle-preserving_and_positivity-preserving_weighted_compact_nonlinear_schemes_for_hyperbolic_conservation_laws){:target="_blank"}]
 1. Jingye Yan, **Hong Zhang**, Ziyuan Liu, Songhe Song. Two novel linear-implicit momentum-conserving schemes for the fractional Korteweg-de Vries equation[J]. Applied Mathematics and Computation, 2020, 367: 124745. [[DOI: 10.1007/s10483-020-2554-8](https://www.researchgate.net/publication/338971076_Two_novel_linear-implicit_momentum-conserving_schemes_for_the_fractional_Korteweg-de_Vries_equation){:target="_blank"}]
-1. Ziyuan Liu, **Hong Zhang**, Jingye Yan, Songhe Song. A fast mass-conserving explicit splitting method for the stochastic space-fractional nonlinear Schrödinger equation with multiplicative noise[J]. Applied Mathematics Letters, 2019, 98: 419-426. [[DOI: 10.1016/j.aml.2019.06.033](https://www.researchgate.net/publication/334166080_A_fast_mass-conserving_explicit_splitting_method_for_the_stochastic_space-fractional_nonlinear_Schrodinger_equation_with_multiplicative_noise) {:target="_blank"}]
+1. Ziyuan Liu, **Hong Zhang**, Jingye Yan, Songhe Song. A fast mass-conserving explicit splitting method for the stochastic space-fractional nonlinear Schrödinger equation with multiplicative noise[J]. Applied Mathematics Letters, 2019, 98: 419-426. [[DOI: 10.1016/j.aml.2019.06.033](https://www.researchgate.net/publication/334166080_A_fast_mass-conserving_explicit_splitting_method_for_the_stochastic_space-fractional_nonlinear_Schrodinger_equation_with_multiplicative_noise){:target="_blank"}]
 1. Mingzhan Song, Xu Qian, **Hong Zhang**, Jingmin Xia, Songhe Song. Two kinds of new energy-preserving schemes for the coupled nonlinear Schrodinger equations, Communications in Computational Physics, 2019, 25(4): 1127-1143 [[pdf](https://www.researchgate.net/publication/330756401_Two_Kinds_of_New_Energy-Preserving_Schemes_for_the_Coupled_Nonlinear_Schrodinger_Equations?_sg=2MivySpjq_mYUF6EYnij2i9vHbdEmUbrI07bfCNUp5EfFSXK-wo6RFlCxFmsFRb_ZdLU0_YYieHa1eIF4-H15Vhf4i2sWIz8VBYcxMV3.6f2Pf-PCFtTFR7_RMz1C3T8RUmNV3_y4qGb_4Nxm7jxJ5gngrhPsoljz1b2IRRV-pwDcpvBfc30WcH2cPh5azQ){:target="_blank"}]
 1. Yunrui Guo, Lingyan Tang, **Hong Zhang** and Songhe Song. A Maximum-Principle-Preserving Third Order Finite Volume SWENO Scheme on Unstructured Triangular Meshes[J]. Adv. Appl. Math. Mech., 10 (2018), pp. 114-137. [[DOI: 10.4208/aamm.OA-2016-0196](www.global-sci.org/aamm/volumes/v10n1/pdf/101-114.pdf){:target="_blank"}]
 1. Y.R. Guo, W.J. Yang, **H. Zhang**, J. Wang and S.H. Song. A splitting method for the Degasperis-Procesi equation using an optimized WENO scheme and the Fourier pseudospectral method [J], Advances in Applied Mathematics and Mechanics, 2019, 11: 53-71 [[pdf](https://global-sci.org/intro/article_detail/aamm/12921.html){:target="_blank"}]
@@ -123,9 +123,9 @@ DOI: 10.1007/s10483-020-2554-8](https://www.researchgate.net/publication/3377441
 ---
 
 ### Research Grants ###
-1. National Natural Science Foundation of China (PI), No. 11901577, 2020.1-2022.12
-1. Natural Scicence Foundation of Hunan (PI), No. S2020JJQNJJ1615, 2020.1-2022.12
-1. Fund from National University of Defense Technology (PI), 2020.1-2022.12
+1. National Natural Science Foundation of China, **PI**, No. 11901577, 2020.1-2022.12
+1. Natural Scicence Foundation of Hunan, **PI**, No. S2020JJQNJJ1615, 2020.1-2022.12
+1. Fund from National University of Defense Technology, **PI**, 2020.1-2022.12
 1. Moving mesh methods and applications, Dutch NDNS+ Ph.D Travel Grant, 2018
 1. Computational of non-monotone waves and fingers in two phase flow. China Scholarship Council, No. 201503170430, 2015-2018
 1. Theoretical study and numerical analysis on a class of stochastic differential equations with discontinuity (participant), No. 11601517, NSFC, 2017-2019
