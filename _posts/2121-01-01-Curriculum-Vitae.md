@@ -127,17 +127,15 @@ DOI: 10.1007/s10483-020-2554-8](https://www.researchgate.net/publication/3377441
 ---
 
 ### Research Grants ###
-1. National Natural Science Foundation of China (PI), No. 11901577, 2020.1-2022.12
-1. Natural Scicence Foundation of Hunan (PI), No. S2020JJQNJJ1615, 2020.1-2022.12
-1. Fund from National University of Defense Technology (PI), 2020.1-2022.12
+1. National Natural Science Foundation of China, **PI**, No. 11901577, 2020.1-2022.12
+1. Natural Scicence Foundation of Hunan, **PI**, No. S2020JJQNJJ1615, 2020.1-2022.12
+1. Fund from National University of Defense Technology, **PI**, 2020.1-2022.12
 1. Moving mesh methods and applications, Dutch NDNS+ Ph.D Travel Grant, 2018
 1. Computational of non-monotone waves and fingers in two phase flow. China Scholarship Council, No. 201503170430, 2015-2018
 1. Theoretical study and numerical analysis on a class of stochastic differential equations with discontinuity (participant), No. 11601517, NSFC, 2017-2019
 1. Study and applications of symplectic and multi-symplectic methods based on wavelet functions (participant), No. 11571366, NSFC, 2016-2018
 1. Construction, parallelization and applications of efficient structure-preserving algorithms (participant), No. 11501570, NSFC, 2016-2018
 1. Highly efficient finite volume method and applications in numerical simulations of coupled flow and heat transfer (participant), No. 91530106, NSFC, 2016
-1. Study of unstructured mesh generation and high order accuracy finite volume method  (participant), State Key Laboratory of Aerodynamics, 2013-2014
-1. Structure-preserving methods and parallel computing. State Key Laboratory of High Performance Computing (participant), 2014-2016
 
 ---
 
