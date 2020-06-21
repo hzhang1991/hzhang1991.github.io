@@ -1,6 +1,6 @@
 ---
 published: true
-title:  微分方程数值方法前沿讲座
+title:  微分方程数值方法前沿讲座诚邀请您参加！
 layout: post
 author:  
 category: lecture 
@@ -11,9 +11,12 @@ comments: true
 * Table of Contents
 {:toc}
 
+
+<!--more-->
+
 ---
 
-### 1. 易年余教授学术讲座
+### 易年余教授学术讲座 20200624 15:00
 
 - 报告题目：基于高精度技术的自适应有限元方法
 - 报  告  人：易年余 教授 （湘潭大学 数学与计算科学学院）
@@ -24,7 +27,11 @@ comments: true
 
 ---
 
-### 2. 张庆海教授学术讲座
+### 胡光辉教授学术讲座 20200625
+
+---
+
+### 张庆海教授学术讲座 20200630 10:00
 
 - 报告题目：MARS: An Analytic and Computational Framework for Incompressible Flows with Moving Boundaries
 - 报  告  人：张庆海 教授 （浙江大学数学科学学院）
@@ -37,8 +44,12 @@ comments: true
 
 ---
 
+### 国家天元数学东北中心学术报告、会议及课程
 
-<!--more-->
+<iframe src="http://tianyuanmc.jlu.edu.cn/index.htm" style="border: 0" width="1080" height="800" frameborder="0" scrolling="yes"></iframe>
+
+---
+
 
 ### Math Calendar
 
