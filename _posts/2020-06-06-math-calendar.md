@@ -2,7 +2,7 @@
 published: true
 title:  微分方程数值方法前沿讲座诚邀请您参加！
 layout: post
-author:  
+author:  H. Zhang
 category: lecture 
 tags: [lecture]
 comments: true 
