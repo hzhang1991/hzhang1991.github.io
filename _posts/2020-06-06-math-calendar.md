@@ -46,7 +46,7 @@ comments: true
 
 ### 国家天元数学东北中心学术报告、会议及课程
 
-<iframe src="http://tianyuanmc.jlu.edu.cn/index.htm" style="border: 0" width="1080" height="800" frameborder="0" scrolling="yes"></iframe>
+<iframe src="http://tianyuanmc.jlu.edu.cn/xsyj/xsbg.htm" style="border: 0" width="1080" height="800" frameborder="0" scrolling="yes"></iframe>
 
 ---
 
