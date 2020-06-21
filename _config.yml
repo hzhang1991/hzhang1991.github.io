@@ -145,12 +145,21 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: H. Zhang's  website
-        href: http://hzhang1991.github.io
-        title: H. (Hong) Zhang's website
-      - name: H. (Hong) Zhang in Utrecht University
-        href: http://www.uu.nl/staff/HZhang4
-        title: Homepage of Hong Zhang
+      - name: Prof. Songhe Song
+        href: https://scholar.google.com/citations?user=L4uH_qIAAAAJ&hl=zh-CN
+        title: Prof. Songhe Song's Google Scholar 
+      - name: Prof. Xu Qian
+        href: https://www.researchgate.net/profile/Xu_Qian4
+        title: Prof. Xu Qian's Researchgate
+      - name: Prof. Yaming Chen
+        href: https://www.researchgate.net/profile/Yaming_Chen
+        title: Prof. Yaming Chen's Researchgate
+      - name: Dr. Jingye Yan
+        href: https://www.researchgate.net/profile/Jingye_Yan2
+        title: Dr. Jingye Yan's Researchgate
+      - name: Dr. Jingmin Xia
+        href: https://www.researchgate.net/profile/Jingmin_Xia
+        title: Dr. Jingmin Xia's Researchgate
       - name: Math Calendar, Utrecht University
         href: http://utrechtgeometrycentre.nl/calendar/
         title: Math Calendar
