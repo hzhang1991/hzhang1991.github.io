@@ -50,6 +50,9 @@ comments: true
 
 ---
 
+### [北京国际数学研究中心](http://bicmr.pku.edu.cn/cn/content/page/1.html){:target="_blank"}
+
+---
 
 ### [北京大学数学科学学院学术报告](http://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm){:target="_blank"}
 
