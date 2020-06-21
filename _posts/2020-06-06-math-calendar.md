@@ -50,9 +50,16 @@ comments: true
 
 ---
 
-### [南方科技大学数学系学术会议、大讲堂、讨论班](https://math.sustech.edu.cn/conference.html)
 
-<iframe src="https://math.sustech.edu.cn/conference.html" style="border: 0" width="1080" height="700" frameborder="0" scrolling="yes"></iframe>
+### [北京大学数学科学学院学术报告](http://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm){:target="_blank"}
+
+---
+
+### [ICMSEC](http://www.cc.ac.cn/news/seminars.html){:target="_blank"}
+
+---
+
+### [南方科技大学数学系学术会议、大讲堂、讨论班](https://math.sustech.edu.cn/conference.html)
 
 ---
 
@@ -62,9 +69,7 @@ comments: true
                                                                                                                                          ---
                                                                                                                                          
 ### [浙江大学数学系学术活动](http://www.math.zju.edu.cn/xshd/list.htm){:target="_blank"}
-
-<iframe src="http://www.math.zju.edu.cn/xshd/list.htm" style="border: 0" width="1080" height="700" frameborder="0" scrolling="yes"></iframe>
-                                                                                                                                                                                                                                                                  
+                                                                                                        
 
 ---
 
