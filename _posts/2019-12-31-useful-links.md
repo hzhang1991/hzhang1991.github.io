@@ -117,6 +117,8 @@ From: [Xinbo Qi's blog](http://qixinbo.info/scholar/){:target="_blank"}
 - [Journal of Computational Pysics](http://www.journals.elsevier.com/journal-of-computational-physics){:target="_blank"}
 - [Journal of Scientific Computing](https://www.editorialmanager.com/jomp/default.aspx){:target="_blank"}
 - [Transport in Porous Media](https://www.editorialmanager.com/tipm/default.aspx){:target="_blank"}
+- [SIAM Journal on Numerical Analysis}(https://sinum.siam.org/cgi-bin/main.plex){:target="_blank"}
+- [SIAM Journal on Scientific Computing](https://sisc.siam.org/cgi-bin/main.plex){:target="_blank"}
 
 ----
 
