@@ -30,8 +30,8 @@ Homepage: http://hzhang1991.github.io/
 ----
 <!--more-->
 ### Educational and Academic Data ###
-- 2020.12 - present: Associate in College of Science, National University of Defense Technology, P.R. China
-- 2018.12 - 2020.12: Lecturer inCollege of Science, National University of Defense Technology, P.R. China
+- 2020.12 - present: Associate Professor in College of Science, National University of Defense Technology, P.R. China
+- 2018.12 - 2020.12: Lecturer in College of Science, National University of Defense Technology, P.R. China
 - 2018.4 -2018.6: Short term visiting scholar in Department of Mathematics The University of Kansas, USA
 
 	Adviser: Prof. Weizhang Huang
