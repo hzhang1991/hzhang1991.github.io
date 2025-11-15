@@ -12,13 +12,13 @@ encoding: utf-8
 
 ### Personal info and site tools info:
 twitter_username:
-facebook_username: h.zhang1991
+facebook_username: 
 github_username:
 googlescholar_username: TrB-5asAAAAJ
 researchgate_username: Hong_Zhang67
 disqus_shortname: hzhang1991-github-io
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is ZHANG Hong (张弘), a Lecturer working in Scientific Computing in National University of Defense Technology, P.R. China. 
+aboutme: Hi, this is ZHANG Hong (张弘), a researcher working in Scientific Computing and Numerical Analysis in National University of Defense Technology, P.R. China. 
 # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Ks0Bdl8.jpg #https://i.imgur.com/usnvUfa.jpg  #https://imgur.com/BzgWVW5.jpg # #"/images/hzhang.jpg1"#https://i.imgur.com/Mdc4szJl.jpg# your photo.
 google_analytics_key: UA-70088037-2 #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
@@ -154,12 +154,6 @@ Blogroll:
       - name: Prof. Yaming Chen
         href: https://www.researchgate.net/profile/Yaming_Chen
         title: Prof. Yaming Chen's Researchgate
-      - name: Dr. Jingye Yan
-        href: https://www.researchgate.net/profile/Jingye_Yan2
-        title: Dr. Jingye Yan's Researchgate
-      - name: Dr. Jingmin Xia
-        href: https://www.researchgate.net/profile/Jingmin_Xia
-        title: Dr. Jingmin Xia's Researchgate
       - name: Math Calendar, Utrecht University
         href: http://utrechtgeometrycentre.nl/calendar/
         title: Math Calendar
