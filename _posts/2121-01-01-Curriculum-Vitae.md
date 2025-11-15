@@ -63,14 +63,14 @@ Homepage: http://hzhang1991.github.io/
 ---
 
 ### Publications ###
-1. **Zhang H**, Wang H, Wang Y, Qian X. Global-in-time energy stability for a general class of stabilization single-step schemes applied to the Swift--Hohenberg equation[J]. CSIAM Transactions on Applied Mathematics, 2025, 6(3), 555-592.   [[DOI: 10.4208/csiam-am.SO-2024-0069](https://www.researchgate.net/publication/390962004_Global-in-Time_Energy_Stability_for_a_General_Class_of_Stabilization_Single-Step_Schemes_Applied_to_the_Swift-Hohenberg_Equation){:target="_blank"}]
-1. Fu T, Qian X, Song S H, **Zhang H**. A novel energy-preserving relaxation extended Runge–Kutta Nyström framework for oscillatory Hamiltonian systems[J]. Mathematics and Computers in Simulation, 2025.
-1.	Wang Y, Wang H, **Zhang H**, et al. A second-order maximum bound principle-preserving exponential Runge–Kutta scheme for the convective Allen–Cahn equation[J]. Computers & Mathematics with Applications, 2025, 193: 297-314.
-1.	Teng X, **Zhang H**. A Third-Order Energy Stable Exponential-Free Runge–Kutta Framework for the Nonlocal Cahn–Hilliard Equation[J]. Journal of Scientific Computing, 2025, 103(74):1-27.
-1.	Yan J, **Zhang H**, Wei Y, et al. High-order and mass-conservative regularized implicit-explicit relaxation Runge-Kutta methods for the low regularity Schrödinger equations[J]. Applied Numerical Mathematics, 2025, 216: 210-221.
-1.	Teng X, Chen X, ***Zhang H*. Error estimates for a class of energy dissipative IMEX Runge–Kutta schemes applied to the no-slope-selection thin film model[J]. Communications in Nonlinear Science and Numerical Simulation, 2025, 147: 108797.
-1.	Sun J, Wang H, **Zhang H**, Qian X. On the convergence and energy stability analysis for a second-order accurate scheme of Swift--Hohenberg equation[J]. Journal of Scientific Computing, 2025, (103) 80 
-1.	Liu Y, Teng X, Yan X, **Zhang H**. A second-order, unconditionally invariant-set-preserving scheme for the FitzHugh-Nagumo equation[J]. Computers & Mathematics with Applications, 2025, 189: 161-175.
+1. **Zhang H**^*^, Wang H, Wang Y, Qian X. Global-in-time energy stability for a general class of stabilization single-step schemes applied to the Swift--Hohenberg equation[J]. CSIAM Transactions on Applied Mathematics, 2025, 6(3), 555-592.   [[DOI: 10.4208/csiam-am.SO-2024-0069](https://www.researchgate.net/publication/390962004_Global-in-Time_Energy_Stability_for_a_General_Class_of_Stabilization_Single-Step_Schemes_Applied_to_the_Swift-Hohenberg_Equation){:target="_blank"}]
+1. Fu T, Qian X, Song S H, **Zhang H**. A novel energy-preserving relaxation extended Runge–Kutta Nyström framework for oscillatory Hamiltonian systems[J]. Mathematics and Computers in Simulation, 2025. [[DOI: 10.1016/j.matcom.2025.08.011](https://www.researchgate.net/publication/394554128_A_novel_energy-preserving_relaxation_extended_Runge-Kutta_Nystrom_framework_for_oscillatory_Hamiltonian_systems?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blanck"}]
+1.	Wang Y, Wang H, **Zhang H**, et al. A second-order maximum bound principle-preserving exponential Runge–Kutta scheme for the convective Allen–Cahn equation[J]. Computers & Mathematics with Applications, 2025, 193: 297-314.  [[DOI: 10.1016/j.camwa.2025.06.029](https://www.researchgate.net/publication/393782460_A_second-order_maximum_bound_principle-preserving_exponential_Runge-Kutta_scheme_for_the_convective_Allen-Cahn_equation?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blank"}]
+1.	Teng X, **Zhang H**. A Third-Order Energy Stable Exponential-Free Runge–Kutta Framework for the Nonlocal Cahn–Hilliard Equation[J]. Journal of Scientific Computing, 2025, 103(74):1-27. [[DOI: 10.1007/s10915-025-02889-y](https://www.researchgate.net/publication/390803092_A_Third-Order_Energy_Stable_Exponential-Free_Runge-Kutta_Framework_for_the_Nonlocal_Cahn-Hilliard_Equation?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blank"}]
+1.	Yan J, **Zhang H**, Wei Y, et al. High-order and mass-conservative regularized implicit-explicit relaxation Runge-Kutta methods for the low regularity Schrödinger equations[J]. Applied Numerical Mathematics, 2025, 216: 210-221. [[DOI: 10.1016/j.apnum.2025.05.009](https://www.researchgate.net/publication/385776544_High-order_and_Mass-conservative_Regularized_Implicit-explicit_relaxation_Runge-Kutta_methods_for_the_logarithmic_Schrodinger_equation?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blank"}]
+1.	Teng X, Chen X, ***Zhang H*. Error estimates for a class of energy dissipative IMEX Runge–Kutta schemes applied to the no-slope-selection thin film model[J]. Communications in Nonlinear Science and Numerical Simulation, 2025, 147: 108797. [[DOI: 10.1016/j.cnsns.2025.108797](https://www.researchgate.net/publication/390726940_Error_estimates_for_a_class_of_energy_dissipative_IMEX_Runge-Kutta_schemes_applied_to_the_no-slope-selection_thin_film_model?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blank"}]
+1.	Sun J, Wang H, **Zhang H**, Qian X. On the convergence and energy stability analysis for a second-order accurate scheme of Swift--Hohenberg equation[J]. Journal of Scientific Computing, 2025, (103) 80 [[DOI: 10.1007/s10915-025-02839-8](https://www.researchgate.net/publication/390838234){:target="_blank"}]
+1.	Liu Y, Teng X, Yan X, **Zhang H**. A second-order, unconditionally invariant-set-preserving scheme for the FitzHugh-Nagumo equation[J]. Computers & Mathematics with Applications, 2025, 189: 161-175. [[DOI: 10.1016/j.camwa.2025.04.013](https://www.researchgate.net/publication/393239226){:target="_blank"}]
 1.	Yi Y, Fei M, **Zhang H**, Song S. High-order energy-preserving methods for the coupled Klein–Gordon–Schrödinger equations with fractional Laplacian: Y. Yi et al[J]. Computational and Applied Mathematics, 2025, 44(6): 284.
 1.	**Zhang H**, Wang HF, Teng XQ. A second-order, global-in-time energy stable implicit-explicit Runge--Kutta scheme for the phase field crystal equation[J]. SIAM Journal on Numerical Analysis, 2024, 62(6): 2667-2697
 1.	**Zhang H**, Zhang G, Liu Z, et al. On the maximum principle and high-order, delay-free integrators for the viscous Cahn–Hilliard equation[J]. Advances in Computational Mathematics, 2024, 50(3): 1-46.
@@ -169,16 +169,13 @@ DOI: 10.1007/s10483-020-2554-8](https://www.researchgate.net/publication/3377441
 ---
 
 ### Research Grants ###
-1. National Natural Science Foundation of China, General program, **PI**, No. 12271523, 2023.1-2026.12
-1. National Natural Science Foundation of China, Youth program, **PI**, No. 11901577, 2020.1-2022.12
-1. Natural Scicence Foundation of Hunan, **PI**, No. S2020JJQNJJ1615, 2020.1-2022.12
-1. Fund from National University of Defense Technology, **PI**, 2020.1-2022.12
-1. Moving mesh methods and applications, Dutch NDNS+ Ph.D Travel Grant, 2018
-1. Computational of non-monotone waves and fingers in two phase flow. China Scholarship Council, No. 201503170430, 2015-2018
-1. Theoretical study and numerical analysis on a class of stochastic differential equations with discontinuity (participant), No. 11601517, NSFC, 2017-2019
-1. Study and applications of symplectic and multi-symplectic methods based on wavelet functions (participant), No. 11571366, NSFC, 2016-2018
-1. Construction, parallelization and applications of efficient structure-preserving algorithms (participant), No. 11501570, NSFC, 2016-2018
-1. Highly efficient finite volume method and applications in numerical simulations of coupled flow and heat transfer (participant), No. 91530106, NSFC, 2016
+1. National Natural Science Foundation of China, General Program, **PI**, No. 12271523, 2023.1-2026.12
+1. National Natural Science Foundation of China, Youth Program, **PI**, No. 11901577, 2020.1-2022.12
+1. Natural Scicence Foundation of Hunan, Youth Program, **PI**, No. S2020JJQNJJ1615, 2020.1-2022.12
+1. Research Fund from National University of Defense Technology, **PI**, 2020.1-2022.12
+1. Dutch NDNS+ Ph.D Travel Grant, 2018
+1. China Scholarship Council Grant, No. 201503170430, 2015-2018
+
 
 ---
 
@@ -187,7 +184,7 @@ DOI: 10.1007/s10483-020-2554-8](https://www.researchgate.net/publication/3377441
 1. Second prize of Young Excellent Papers of the 3ed annual conference of Computational Mathematics and Applied Software Society of Hunan, 2019.4
 1. Excellent M.Sc Dissertation of NUDT, 2014
 1. TOP 100 B.Sc Dissertation of Zhejiang University, 2012
-1. Excellent Graduate Student of Zhejiang University, 2012
+1. Outstanding Graduate Student of Zhejiang University, 2012
 1. Scholarship for Outstanding Merits, Zhejiang University, 2009, 2010, 2011
 1. Scholarship for Outstanding Students, Zhejiang University, 2009, 2010, 2011
 1. Prize of the National Talents Training Base, Zhejiang University, 2010
