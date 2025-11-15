@@ -1,11 +1,8 @@
 ---
-published: true
-title: Curriculum Vitae 
-layout: post
-author: H. Zhang
-category: note 
-tags: [cv]
-comments: false 
+layout: page
+title: About 
+permalink: /about/
+comments: false
 ---
 
 
