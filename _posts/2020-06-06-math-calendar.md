@@ -19,8 +19,9 @@ comments: true
 
 ### [北京国际数学研究中心](http://bicmr.pku.edu.cn/cn/content/page/1.html){:target="_blank"}
 
+<!-- 
 <iframe src="[https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/index.htm](https://bicmr.pku.edu.cn/cn/content/page/1.html)" style="border: 0" width="1080" height="700" frameborder="0" scrolling="yes"></iframe>
-
+-->
 ---
 
 ### [北京大学数学科学学院学术报告](http://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm){:target="_blank"}
@@ -34,9 +35,9 @@ comments: true
 ---
 
 ### [南方科技大学数学系学术会议、大讲堂、讨论班](https://math.sustech.edu.cn/conference.html)
-
+<!-- 
 <iframe src="https://math.sustech.edu.cn/colloquium.html" style="border: 0" width="1080" height="700" frameborder="0" scrolling="yes"></iframe>
-
+-->
 
 
 ---
@@ -52,12 +53,15 @@ comments: true
 
 ### [国家天元数学东北中心学术报告、会议及课程](http://tianyuanmc.jlu.edu.cn/index.htm)
 
-
+<!-- 
 <iframe src="https://tianyuanmc.jlu.edu.cn/xsyj/xsbg.htm" style="border: 0" width="1080" height="700" frameborder="0" scrolling="yes"></iframe>
+-->
 
 ---
 
 
 ### Math Calendar
-
+<!-- 
 <iframe src="https://outlook.live.com/owa/calendar/16feae7b-817e-4102-804b-4287d7b3762c/b6a3882e-56a9-4dd5-9847-28d8e2b809ca/cid-5044050F0E507960/index.html" style="border: 0" width="1080" height="700" frameborder="0" scrolling="yes"></iframe>
+-->
+
