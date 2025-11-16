@@ -6,16 +6,21 @@ author: H. Zhang
 category: note 
 tags: [cv]
 comments: false 
+
 ---
 
 
 * Table of Contents
 {:toc}
 
+
+
 ----
+
 [[CV](./src/HongZhangCV.pdf){:target="_blank"}]
 
 ### Personal Data
+
 Name:	H. (Hong) Zhang (张弘)
 
 
@@ -28,32 +33,41 @@ Email:	zhanghnudt at 163 dot com
 Homepage: http://hzhang1991.github.io/
 
 ----
+
 <!--more-->
+
 ### Educational and Academic Data ###
+
 - 2020.12 - present: Associate Professor in College of Science, National University of Defense Technology, P.R. China
+
 - 2018.12 - 2020.12: Lecturer in College of Science, National University of Defense Technology, P.R. China
+
 - 2018.4 -2018.6: Short term visiting scholar in Department of Mathematics The University of Kansas, USA
 
-	Adviser: Prof. Weizhang Huang
+  Adviser: Prof. Weizhang Huang
+
 - 2015.10 - 2018.10: Ph.D in Mathematical Institute, Utrecht University, the Netherlands
 
-	Thesis Title: Computational of non-monotone wave and fingers in two-phase flow. [[pdf]]()
+  Thesis Title: Computational of non-monotone wave and fingers in two-phase flow. [[pdf]]()
 
-	Adviser: Professor [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/)
+  Adviser: Professor [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/)
+
 - 2012.9 - 2014.12: M.Sc. in Department of Mathematics and System Science, NUDT, P.R. China 
 
-	Thesis Title: Study on two classes of structure-preserving methods for Hamiltonian partial differential equations. [[pdf]](https://www.researchgate.net/publication/310259257_hamierdunpianweifenfangchengdeliangleibaojiegoufangfayanjiu) 
+  Thesis Title: Study on two classes of structure-preserving methods for Hamiltonian partial differential equations. [[pdf]](https://www.researchgate.net/publication/310259257_hamierdunpianweifenfangchengdeliangleibaojiegoufangfayanjiu) 
 
-	Adviser: Professor Songhe Song
+  Adviser: Professor Songhe Song
+
 - 2008.9 - 2012.6: B.Sc. in Department of Mathematics, Zhejiang University, P.R. China
 
-	Thesis Title: Simulation of incompressible flow using lattice Boltzmann method on multi-threaded platform. [[pdf]](https://www.researchgate.net/publication/310261095_duoxian_chengpingtaishang_LB_fangfamo_nibuke_ya_liudong) 
+  Thesis Title: Simulation of incompressible flow using lattice Boltzmann method on multi-threaded platform. [[pdf]](https://www.researchgate.net/publication/310261095_duoxian_chengpingtaishang_LB_fangfamo_nibuke_ya_liudong) 
 
-	Adviser: Professor [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/)
+  Adviser: Professor [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/)
 
 ---
 
 ### Research Interests ###
+
 1. Geometric numerical integration
 1. Phase field models
 1. Moving mesh methods
@@ -63,12 +77,16 @@ Homepage: http://hzhang1991.github.io/
 ---
 
 ### Publications ###
+
 1. **Zhang H**, Wang H, Wang Y, Qian X. Global-in-time energy stability for a general class of stabilization single-step schemes applied to the Swift--Hohenberg equation[J]. CSIAM Transactions on Applied Mathematics, 2025, 6(3), 555-592.   [[DOI: 10.4208/csiam-am.SO-2024-0069](https://www.researchgate.net/publication/390962004_Global-in-Time_Energy_Stability_for_a_General_Class_of_Stabilization_Single-Step_Schemes_Applied_to_the_Swift-Hohenberg_Equation){:target="_blank"}]
+1. Wang H, Sun J, **Zhang H**, Qian X, Song S. A novel up to fourth-order equilibria-preserving and energy-stable exponential Runge–Kutta framework for gradient flows[J]. CSIAM Transactions on Applied Mathematics, 2025, 6(1), 106-147 [[DOI: 10.4208/csiam-am.SO-2024-0032](https://www.researchgate.net/publication/387080324){:target="_blank"}]
+1. Wang Y, Wang H, **Zhang H**, et al. Energ-Dissipative Implicit-Explicit Runge-Kutta Schemes With an Optimized Stabilization Parameter for Directed Self-Assembly of Diblock Copolymer Melts[J]. International Journal for Numerical Methods in Engineering, 2025, 126(19): e70151. [[10.1002/nme.70151](https://www.researchgate.net/publication/396329463){:target="_blanck"}]
 1. Fu T, Qian X, Song S H, **Zhang H**. A novel energy-preserving relaxation extended Runge–Kutta Nyström framework for oscillatory Hamiltonian systems[J]. Mathematics and Computers in Simulation, 2025. [[DOI: 10.1016/j.matcom.2025.08.011](https://www.researchgate.net/publication/394554128_A_novel_energy-preserving_relaxation_extended_Runge-Kutta_Nystrom_framework_for_oscillatory_Hamiltonian_systems?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blanck"}]
 1. Wang Y, Wang H, **Zhang H**, et al. A second-order maximum bound principle-preserving exponential Runge–Kutta scheme for the convective Allen–Cahn equation[J]. Computers & Mathematics with Applications, 2025, 193: 297-314.  [[DOI: 10.1016/j.camwa.2025.06.029](https://www.researchgate.net/publication/393782460_A_second-order_maximum_bound_principle-preserving_exponential_Runge-Kutta_scheme_for_the_convective_Allen-Cahn_equation?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blank"}]
 1. Teng X, **Zhang H**. A Third-Order Energy Stable Exponential-Free Runge–Kutta Framework for the Nonlocal Cahn–Hilliard Equation[J]. Journal of Scientific Computing, 2025, 103(74):1-27. [[DOI: 10.1007/s10915-025-02889-y](https://www.researchgate.net/publication/390803092_A_Third-Order_Energy_Stable_Exponential-Free_Runge-Kutta_Framework_for_the_Nonlocal_Cahn-Hilliard_Equation?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blank"}]
-1. Yan J, **Zhang H**, Wei Y, et al. High-order and mass-conservative regularized implicit-explicit relaxation Runge-Kutta methods for the low regularity Schrödinger equations[J]. Applied Numerical Mathematics, 2025, 216: 210-221. [[DOI: 10.1016/j.apnum.2025.05.009](https://www.researchgate.net/publication/385776544_High-order_and_Mass-conservative_Regularized_Implicit-explicit_relaxation_Runge-Kutta_methods_for_the_logarithmic_Schrodinger_equation?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blank"}]
-1. Teng X, Chen X, ***Zhang H*. Error estimates for a class of energy dissipative IMEX Runge–Kutta schemes applied to the no-slope-selection thin film model[J]. Communications in Nonlinear Science and Numerical Simulation, 2025, 147: 108797. [[DOI: 10.1016/j.cnsns.2025.108797](https://www.researchgate.net/publication/390726940_Error_estimates_for_a_class_of_energy_dissipative_IMEX_Runge-Kutta_schemes_applied_to_the_no-slope-selection_thin_film_model?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blank"}]
+1. Wang H, Wang Y, **Zhang H**, et al. Energy stability and error estimate of the RKMK2e scheme for the extended Fisher–Kolmogorov equation[J]. Applied Numerical Mathematics, 2025, 212, 60-76. [[DOI: 10.1016/j.apnum.2025.01.014](https://www.researchgate.net/publication/388340629){:target="_blank"}]
+1. Yan J, **Zhang H**, Wei Y, et al. High-order and mass-conservative regularized implicit-explicit relaxation Runge-Kutta methods for the low regularity Schrödinger equations[J]. Applied Numerical Mathematics, 2025, 216: 210-221. [[DOI: 10.1016/j.apnum.2025.05.009](https://www.researchgate.net/publication/385776544){:target="_blank"}]
+1. Teng X, Chen X, **Zhang H**. Error estimates for a class of energy dissipative IMEX Runge–Kutta schemes applied to the no-slope-selection thin film model[J]. Communications in Nonlinear Science and Numerical Simulation, 2025, 147: 108797. [[DOI: 10.1016/j.cnsns.2025.108797](https://www.researchgate.net/publication/390726940_Error_estimates_for_a_class_of_energy_dissipative_IMEX_Runge-Kutta_schemes_applied_to_the_no-slope-selection_thin_film_model?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19){:target="_blank"}]
 1. Sun J, Wang H, **Zhang H**, Qian X. On the convergence and energy stability analysis for a second-order accurate scheme of Swift--Hohenberg equation[J]. Journal of Scientific Computing, 2025, (103) 80 [[DOI: 10.1007/s10915-025-02839-8](https://www.researchgate.net/publication/390838234){:target="_blank"}]
 1. Liu Y, Teng X, Yan X, **Zhang H**. A second-order, unconditionally invariant-set-preserving scheme for the FitzHugh-Nagumo equation[J]. Computers & Mathematics with Applications, 2025, 189: 161-175. [[DOI: 10.1016/j.camwa.2025.04.013](https://www.researchgate.net/publication/393239226){:target="_blank"}]
 1. Yi Y, Fei M, **Zhang H**, Song S. High-order energy-preserving methods for the coupled Klein–Gordon–Schrödinger equations with fractional Laplacian [J]. Computational and Applied Mathematics, 2025, 44(6): 284. [[DOI: 10.1007/s40314-025-03210-1](https://www.researchgate.net/publication/391870898){:target="_blank"}]
@@ -76,9 +94,7 @@ Homepage: http://hzhang1991.github.io/
 1. **Zhang H**, Zhang G, Liu Z, et al. On the maximum principle and high-order, delay-free integrators for the viscous Cahn–Hilliard equation[J]. Advances in Computational Mathematics, 2024, 50(3): 1-46. [[DOI: 10.1007/s10444-024-10143-6](https://www.researchgate.net/publication/380321190){:target="_blank"}]
 1. **Zhang H**, Liu L, Qian X, et al. Large time-stepping, delay-free, and invariant-set-preserving integrators for the viscous Cahn–Hilliard–Oono equation[J]. Journal of Computational Physics, 2024, 499: 112708. [[DOI: 10.1016/j.jcp.2023.112708](https://www.researchgate.net/publication/376459936){:target="_blank"}]
 1. **Zhang H**, Qian X, Song S. Third-order accurate, large time-stepping and maximum-principle-preserving schemes for the Allen-Cahn equation[J]. Numerical Algorithms, 2024, 95(3): 1213-1250. [[DOI: 10.1007/s11075-023-01606-w](https://www.researchgate.net/publication/372940386){:target="_blank"}]
-1. **Zhang H**, Liu L, Qian X, et al. Quantifying and eliminating the time delay in stabilization exponential time differencing Runge–Kutta schemes for the Allen–Cahn equation[J]. ESAIM: Mathematical Modelling and Numerical Analysis, 2024, 58(1): 191-221. [[DOI: [10.1051/m2an/2023101](https://doi.org/10.1051/m2an/2023101)](https://www.researchgate.net/publication/376408430){:target="_blank"}]
-1. Wang H, Wang Y, **Zhang H**, et al. Energy stability and error estimate of the RKMK2e scheme for the extended Fisher–Kolmogorov equation[J]. Applied Numerical Mathematics, 2025, 212, 60-76. [[DOI: 10.1016/j.apnum.2025.01.014](https://www.researchgate.net/publication/388340629){:target="_blank"}]
-1. Wang H, Sun J, **Zhang H**, Qian X, Song S. A novel up to fourth-order equilibria-preserving and energy-stable exponential Runge–Kutta framework for gradient flows[J]. CSIAM Transactions on Applied Mathematics, 2025, 6(1), 106-147 [[DOI: 10.4208/csiam-am.SO-2024-0032](https://www.researchgate.net/publication/387080324){:target="_blank"}]
+1. **Zhang H**, Liu L, Qian X, et al. Quantifying and eliminating the time delay in stabilization exponential time differencing Runge–Kutta schemes for the Allen–Cahn equation[J]. ESAIM: Mathematical Modelling and Numerical Analysis, 2024, 58(1): 191-221. [[DOI: [10.1051/m2an/2023101](https://www.researchgate.net/publication/376408430){:target="_blank"}]
 1. Liu Z, Wang H, **Zhang H**, et al. Render unto Numerics: Orthogonal Polynomial Neural Operator for PDEs with Non-periodic Boundary Conditions[J]. SIAM Journal on Scientific Computing, 2024, 46(4): C323-C348 [[DOI: 10.48550/arXiv.2206.12698](https://www.researchgate.net/publication/361579385){:target="_blank"}]
 1. Teng X, Gao Z, **Zhang H**, et al. Maximum-principle-preserving, delay-free parametric relaxation integrating factor Runge–Kutta schemes for the conservative nonlocal Allen-Cahn equation[J]. Discrete and Continuous Dynamical Systems-B, 2025, 30(5):1472-1498 [[DOI: 10.3934/dcdsb.2024136](https://www.researchgate.net/publication/387701859){:target="_blank"}]
 1. Wang Y, Xiao X, **Zhang H**, et al. Efficient diffusion domain modeling and fast numerical methods for diblock copolymer melt in complex domains[J]. Computer Physics Communications, 2024, 305: 109343.  [[DOI: 10.1016/j.cpc.2024.109343](https://www.researchgate.net/publication/382980753){:target="_blank"}]
@@ -126,45 +142,72 @@ Homepage: http://hzhang1991.github.io/
 ---
 
 ### Conferences, summer schools and workshops  ####
+
 25. 2019 Young Scholar Symposium on Numerical Calculation of Stochastic Differential Equations, Central South University, Changsha, China (section talk)
-24. The 12th annual conference of Chinese Computational Mathematics Society, 2019.7, Haerbin, China (section talk)
-23. The 16th conference of Numerical methods for partial differential equation, 2019.8, Qufu, China (section talk)
-22. ICOSAHOM 2018, 2018.7.9-2018.7.13, London, UK (mini-symposium talk)
-21. BIRS Adaptive Numerical Methods for Partial Differential Equations with Applications, 2018.5.27-2018.6.1 Banff, Canada (conference talk)
-20. Midwest Numerical Analysis Day, 2018.4.14, Lawrence, USA (poster presentation)
-19. ENUMATH 2017, 2017.9.25-2017.9.29, Voss, Norway
-18. Woudschoten Conferences WSC, 2017.10.4-2017.10.6, Zeist, the Netherlands (poster presentation)
-17. The 11th annual conference of Chinese Computational Mathematics Society, 2017, Xi’an, China
-16. Spring meeting WSC, 2017.5.19, Antwerp, Belgium
-15. The 53 Nederlands Mathematisch congress, 2017.4.11, Utrecht, the Netherlands (poster presentation)
-14. [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html){:target="_blank"}: Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
-13. [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html){:target="_blank"}, 2016.10.5-2016.10.7, Stuttgart, Germany 
-12. [1st NUPUS summer school "Discretization of the groundwater transport equations"](https://www.srpnupus.uni-stuttgart.de/events/courses_students/summer_schools/SS_1610_Info.html){:target="_blank"}
 
-	Mentor: Rainer Helmig (Stuttgart)
-11. [DUNE::FEM summer school](http://www.ians.uni-stuttgart.de/institut/veranstaltungen/Tagungen/dune-fem-school-2016/), 2016.9.26-2016.9.30, Stuttgart, Germany 
+26. The 12th annual conference of Chinese Computational Mathematics Society, 2019.7, Haerbin, China (section talk)
 
-	Mentors: Robert Klofkorn (IRIS, Bergen), Claus Heine (IANS, Stuttgart)
-10. XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/){:target="_blank"}, 2016.8.1-2016.8.5, Aachen, Germany
-9. NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands
-8. Moving mesh methods workshop, 2016.6.13-2016.6.16, Bath, UK
-7. Spring meeting WSC, 2016.5.13, Utrecht, the Netherlands
-6. Summer school on numerical methods for coupled fluid-solid dynamics, 2014.8, Beijing, China
-5. The 1st postgraduate forum on numerical methods for partial differential equations, 2014.8, Beijing, China
-4. The 12th annual conference of Chinese Computational Mathematics Society, 2013.10, Changsha, China
-3. International conference on compressed sensing: theory and applications, 2013.7, Changsha, China
-2. Postgraduate summer school on Applied Mathematics, 2013.7, Changsha, China
-1. Summer school on Applied Mathematics, 2011.7, Zhengzhou, China
+27. The 16th conference of Numerical methods for partial differential equation, 2019.8, Qufu, China (section talk)
+
+28. ICOSAHOM 2018, 2018.7.9-2018.7.13, London, UK (mini-symposium talk)
+
+29. BIRS Adaptive Numerical Methods for Partial Differential Equations with Applications, 2018.5.27-2018.6.1 Banff, Canada (conference talk)
+
+30. Midwest Numerical Analysis Day, 2018.4.14, Lawrence, USA (poster presentation)
+
+31. ENUMATH 2017, 2017.9.25-2017.9.29, Voss, Norway
+
+32. Woudschoten Conferences WSC, 2017.10.4-2017.10.6, Zeist, the Netherlands (poster presentation)
+
+33. The 11th annual conference of Chinese Computational Mathematics Society, 2017, Xi’an, China
+
+34. Spring meeting WSC, 2017.5.19, Antwerp, Belgium
+
+35. The 53 Nederlands Mathematisch congress, 2017.4.11, Utrecht, the Netherlands (poster presentation)
+
+36. [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html){:target="_blank"}: Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
+
+37. [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html){:target="_blank"}, 2016.10.5-2016.10.7, Stuttgart, Germany 
+
+38. [1st NUPUS summer school "Discretization of the groundwater transport equations"](https://www.srpnupus.uni-stuttgart.de/events/courses_students/summer_schools/SS_1610_Info.html){:target="_blank"}
+
+    Mentor: Rainer Helmig (Stuttgart)
+
+39. [DUNE::FEM summer school](http://www.ians.uni-stuttgart.de/institut/veranstaltungen/Tagungen/dune-fem-school-2016/), 2016.9.26-2016.9.30, Stuttgart, Germany 
+
+    Mentors: Robert Klofkorn (IRIS, Bergen), Claus Heine (IANS, Stuttgart)
+
+40. XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/){:target="_blank"}, 2016.8.1-2016.8.5, Aachen, Germany
+
+41. NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands
+
+42. Moving mesh methods workshop, 2016.6.13-2016.6.16, Bath, UK
+
+43. Spring meeting WSC, 2016.5.13, Utrecht, the Netherlands
+
+44. Summer school on numerical methods for coupled fluid-solid dynamics, 2014.8, Beijing, China
+
+45. The 1st postgraduate forum on numerical methods for partial differential equations, 2014.8, Beijing, China
+
+46. The 12th annual conference of Chinese Computational Mathematics Society, 2013.10, Changsha, China
+
+47. International conference on compressed sensing: theory and applications, 2013.7, Changsha, China
+
+48. Postgraduate summer school on Applied Mathematics, 2013.7, Changsha, China
+
+49. Summer school on Applied Mathematics, 2011.7, Zhengzhou, China
 
 ---
 
 ### Skills ###
+
 - Spoken languages: Chinese, English
 - Computer languages: LaTex, C/C++, Matlab, Fortran, Shell Script
 
 ---
 
 ### Research Grants ###
+
 1. National Natural Science Foundation of China, General Program, **PI**, No. 12271523, 2023.1-2026.12
 1. National Natural Science Foundation of China, Youth Program, **PI**, No. 11901577, 2020.1-2022.12
 1. Natural Scicence Foundation of Hunan, Youth Program, **PI**, No. S2020JJQNJJ1615, 2020.1-2022.12
@@ -176,6 +219,7 @@ Homepage: http://hzhang1991.github.io/
 ---
 
 ### Awards ###
+
 1. First prize of Young Excellent Papers of the 16th annual conference of Numerical methods for partial differential equation China, 2019.8
 1. Second prize of Young Excellent Papers of the 3ed annual conference of Computational Mathematics and Applied Software Society of Hunan, 2019.4
 1. Excellent M.Sc Dissertation of NUDT, 2014
